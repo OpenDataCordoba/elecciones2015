@@ -3,7 +3,8 @@ De todo tipo, como fuente de uso y consulta.
 
 #### Carta Marina 2015 para Córdoba
 4-Carta Marina 2015.pdf: 
-Descargada desde [aquí](http://www.pjn.gov.ar/cne/secelec/document/otros/4-Carta%20Marina%202015.pdf)
+Descargada desde [aquí](http://www.pjn.gov.ar/cne/secelec/document/otros/4-Carta%20Marina%202015.pdf)  
+Fuente Poder Judicial de la Nación
 
 
 #### Establecimientos por mesa. Primarias 11/8/2013
