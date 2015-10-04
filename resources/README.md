@@ -12,6 +12,7 @@ Fuente Poder Judicial de la Nación
 #### Carta Marina 2013 Córdoba
 Establecimientos por mesa. Primarias 11/8/2013  
 4-Marina(Dine)_05_08_2013.pdf: Descargado desde [aqúi](http://www.pjn.gov.ar/cne/secelec/document/otros/4-Marina(Dine)_05_08_2013.pdf)  
+Esta permite conocer la lista fonal de escuelas, distribucion de mesas y electores.  
 
 #### Circuitos -Electorales-de-Cordoba-Capital.kml
 Descargado desde [aquí](https://www.google.com/maps/d/viewer?mid=zowVvfLLI6hg.keSNJV-3SeDE&hl=en_US).  
