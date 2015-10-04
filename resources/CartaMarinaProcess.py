@@ -12,7 +12,10 @@ raw=f.read()
 el archivo tiene estas propiedades (se copio y pego directo del PDF a texto, tabula no funciono bien)
 Esta linea es la primera de alguna páginas
 La mesa 5829 va en realidad en realidad en 
-ESCUELA N°359 - WASHINGTON Circuito 193 - TOSQUITA 
+ESCUELA N°359 - WASHINGTON Circuito 193
+Secc 13 - RIO CUARTO - 194 - WASHINGTON -ESCUELA N°359 - WASHINGTON
+
+
 
 """
 
