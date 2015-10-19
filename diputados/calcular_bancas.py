@@ -1,6 +1,5 @@
 from os.path import join
 import pandas as pd
-from collections import defaultdict
 
 PATH_DATOS_ELECCIONES = "/home/pablo/Proyectos/elecciones2015/resources/datosdeprueba"
 
@@ -20,15 +19,13 @@ HEADERS = {"totaleslistas":
 
 def dhondt(dictvotos, nbancas):
     bancas = []
-    defaultdict(int)
     cocientes = []
     for codigo, votos in dictvotos.items():
-        cocientes += [(codigo, votos/i) for i in range(1, 10)]
+        cocientes += [(codigo, votos/i) for i in range(1, nbancas + 1)]
 
     cocientes = sorted(cocientes, key=lambda x: -x[1])
 
     return cocientes[:nbancas]
-
 
 
 def cargar_totales_cba():
@@ -39,12 +36,14 @@ def cargar_totales_cba():
 
     return totalescba
 
+
 def cargar_listas():
     fpath = join(PATH_DATOS_ELECCIONES, 'listas_000.csv')
     listas = pd.read_csv(fpath, delimiter=";", encoding='iso-8859-1')
     listas.columns = HEADERS["listas"]
 
     return listas
+
 
 def cargar_votosagrupados():
     totalescba = cargar_totales_cba()
@@ -55,6 +54,7 @@ def cargar_votosagrupados():
         dictvotos[row[0]] = row[1].real[0]
 
     return dictvotos
+
 
 if __name__ == '__main__':
     dictvotos = cargar_votosagrupados()
