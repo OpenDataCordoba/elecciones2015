@@ -1,0 +1,510 @@
+parCodigo,parSiglas,parDenominacion,parColor,rowid
+0003,UNION CIVICA RADICAL     ,UNION CIVICA RADICAL                                                                                ,595959,1
+0012,COMUNISTA                ,COMUNISTA                                                                                           ,FF0000,2
+0013,MOVIMIENTO AL SOCIALISMO ,MOVIMIENTO AL SOCIALISMO                                                                            ,a30501,3
+0023,UNION POPULAR            ,UNION POPULAR                                                                                       ,C00000,4
+0030,SOCIALISTA AUTENTICO     ,SOCIALISTA AUTENTICO                                                                                ,F79646,5
+0038,MST-MOVIMIENTO SOCIALISTA,    MST-MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES                                                   ,F79646,6
+0040,MOVIMIENTO LIBRES DEL SUR,MOVIMIENTO LIBRES DEL SUR                                                                           ,820000,7
+0050,SOCIALISTA               ,SOCIALISTA                                                                                          ,66CCFF,8
+0057,MOVIMIENTO DE ACCION VECI,MOVIMIENTO DE ACCION VECINAL                                                                        ,008000,9
+0060,MOVIMIENTO INDEPENDIENTE ,MOVIMIENTO INDEPENDIENTE JUSTICIA Y DIGNIDAD                                                        ,CC0000,10
+0061,IZQUIERDA POR UNA OPCION ,IZQUIERDA POR UNA OPCION SOCIALISTA                                                                 ,00B0F0,11
+0063,ES POSIBLE               ,ES POSIBLE                                                                                          ,FFFF99,12
+0065,UNION CELESTE Y BLANCO   ,UNION CELESTE Y BLANCO                                                                              ,FF5050,13
+0068,NUEVA IZQUIERDA          ,NUEVA IZQUIERDA                                                                                     ,FF9933,14
+0069,GEN                      ,GEN                                                                                                 ,FFFF00,15
+0070,DE TRABAJADORES POR EL SO,DE TRABAJADORES POR EL SOCIALISMO                                                                   ,CC3300,16
+0071,DEL OBRERO               ,DEL OBRERO                                                                                          ,DDD9C3,17
+0072,INSTRUMENTO ELECTORAL POR,INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR                                                         ,CCC0DA,18
+0074,PARTIDO DEL TRABAJO Y DEL,PARTIDO DEL TRABAJO Y DEL PUEBLO                                                                    ,8C6E6E,19
+0076,DE LA CULTURA LA EDUCACIO,DE LA CULTURA LA EDUCACION Y EL TRABAJO                                                             ,FFCCFF,20
+0081,PARTIDO POPULAR          ,PARTIDO POPULAR                                                                                     ,07ad0b,21
+0103,FRENTE DE IZQUIERDA Y LOS,FRENTE DE IZQUIERDA Y LOS TRABAJADORES                                                              ,dedede,22
+0131,ALIANZA FRENTE PARA LA VI,ALIANZA FRENTE PARA LA VICTORIA                                                                     ,538ed5,23
+0132,ALIANZA PROGRESISTAS     ,ALIANZA PROGRESISTAS                                                                                ,f30d44,24
+0133,ALIANZA COMPROMISO FEDERA,ALIANZA COMPROMISO FEDERAL                                                                          ,75d4d9,25
+0134,MST - NUEVA IZQUIERDA    ,MST - NUEVA IZQUIERDA                                                                               ,e9897f,26
+0135,ALIANZA CAMBIEMOS        ,ALIANZA CAMBIEMOS                                                                                   ,ffff00,27
+0136,ALIANZA FRENTE POPULAR   ,ALIANZA FRENTE POPULAR                                                                              ,003366,28
+0137,ALIANZA FRENTE DE IZQUIER,ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES                                                   ,ff0000,29
+0138,ALIANZA UNIDOS POR UNA NU,ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA (UNA)                                                      ,33364f,30
+0144,MST-MOVIMIENTO SOCIALISTA,MST-MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES                                                       ,153315,31
+0145,CAMBIEMOS BUENOS AIRES   ,CAMBIEMOS BUENOS AIRES                                                                              ,B81A34,32
+0151,MOVIMIENTO POPULAR NEUQUI,MOVIMIENTO POPULAR NEUQUINO                                                                         ,F31515,33
+0152,MOVIMIENTO POLO SOCIAL LA,MOVIMIENTO POLO SOCIAL LA TERCERA POSICION DE LA GENTE                                              ,0DC95B,34
+0153,CRUZADA RENOVADORA       ,CRUZADA RENOVADORA                                                                                  ,D99795,35
+0154,MOVIMIENTO POPULAR FUEGUI,MOVIMIENTO POPULAR FUEGUINO                                                                         ,95B3D7,36
+0155,MOVIMIENTO UNION DEL PART,MOVIMIENTO UNION DEL PARTIDO DE PINAMAR                                                             ,0DAB79,37
+0157,DE ACCION CHUBUTENSE     ,DE ACCION CHUBUTENSE                                                                                ,B51515,38
+0161,OBRERO                   ,OBRERO                                                                                              ,990000,39
+0165,NUEVO OCTUBRE            ,NUEVO OCTUBRE                                                                                       ,6666FF,40
+0169,PROYECTO POPULAR         ,PROYECTO POPULAR                                                                                    ,33CC33,41
+0177,PARTIDO MOVIMIENTO DE PAR,PARTIDO MOVIMIENTO DE PARTICIPACION CIUDADANA                                                       ,7B0015,42
+0179,FRENTE CAMBIA JUJUY      ,FRENTE CAMBIA JUJUY                                                                                 ,414141,43
+0180,DEL CAMPO POPULAR        ,DEL CAMPO POPULAR                                                                                   ,4BACC6,44
+0186,AUTODETERMINACION Y LIBER,AUTODETERMINACION Y LIBERTAD                                                                        ,ff0000,45
+0187,SOCIAL PATAGONICO        ,SOCIAL PATAGONICO                                                                                   ,75923C,46
+0188,UNITE POR LA LIBERTAD Y L,UNITE POR LA LIBERTAD Y LA DIGNIDAD                                                                 ,9933FF,47
+0189,PARTIDO CIUDADANOS A GOBE,PARTIDO CIUDADANOS A GOBERNAR                                                                       ,993366,48
+0190,MOV.POL. SOCIAL Y CULTURA,MOV.POL. SOCIAL Y CULTURAL PROYECTO SUR                                                             ,CC3300,49
+0194,MOVIMIENTO VECINAL       ,MOVIMIENTO VECINAL                                                                                  ,159533,50
+0198,DE LOS TRABAJADORES SOCIA,DE LOS TRABAJADORES SOCIALISTAS                                                                     ,001515,51
+0202,FRENTE RENOVADOR AUTENTIC,FRENTE RENOVADOR AUTENTICO                                                                          ,CC0066,52
+0203,INSTRUMENTO ELECTORAL    ,INSTRUMENTO ELECTORAL                                                                               ,15E306,53
+0208,POR UN PUEBLO UNIDO      ,POR UN PUEBLO UNIDO                                                                                 ,F2DDDC,54
+0212,PRINCIPIOS Y CONVICCION  ,PRINCIPIOS Y CONVICCION                                                                             ,FDE9D9,55
+0268,MOV. AMPLIO DE TRAB. Y JU,MOV. AMPLIO DE TRAB. Y JUBILADOS-MATRAJU                                                            ,1515CC,56
+0298,TODOS POR BUENOS AIRES   ,TODOS POR BUENOS AIRES                                                                              ,336565,57
+0301,PATRIA GRANDE            ,PATRIA GRANDE                                                                                       ,15CC48,58
+0302,BANDERA VECINAL          ,BANDERA VECINAL                                                                                     ,D7E4BC,59
+0333,FUERZA ORG. RENOV. DEMOCR,FUERZA ORG. RENOV. DEMOCRATICA                                                                      ,D7E4BC,60
+0427,JUNTOS POR SAN JUAN      ,JUNTOS POR SAN JUAN                                                                                 ,00B050,61
+0446,AGR.MUNICIPAL DE LA INTRA,AGR.MUNICIPAL DE LA INTRANSIGENCIA COLONENSE                                                        ,151533,62
+0484,NUEVA ALTERNATIVA CARMEÑA,NUEVA ALTERNATIVA CARMEÑA                                                                           ,004815,63
+0501,ALIANZA FRENTE PARA LA VI,ALIANZA FRENTE PARA LA VICTORIA                                                                     ,F2DDDC,64
+0502,ALIANZA CAMBIEMOS        ,ALIANZA CAMBIEMOS                                                                                   ,E46D0A,65
+0503,ALIANZA COMPROMISO FEDERA,ALIANZA COMPROMISO FEDERAL                                                                          ,663300,66
+0504,ALIANZA FRENTE DE IZQUIER,ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES                                                   ,663300,67
+0506,ALIANZA PROGRESISTAS     ,ALIANZA PROGRESISTAS                                                                                ,CCFFCC,68
+0507,ALIANZA UNIDOS POR UNA NU,ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA                                                            ,CCFF66,69
+0509,ALIANZA UNION PARA VIVIR ,ALIANZA UNION PARA VIVIR MEJOR                                                                      ,33CCCC,70
+0510,ALIANZA UNION POR CORDOBA,ALIANZA UNION POR CORDOBA                                                                           ,CCECFF,71
+0514,ALIANZA CAMBIEMOS MENDOZA,ALIANZA CAMBIEMOS MENDOZA                                                                           ,4D4D4D,72
+0517,ALIANZA CAMBIEMOS TIERRA ,ALIANZA CAMBIEMOS TIERRA DEL FUEGO                                                                  ,538ED5,73
+0518,ALIANZA COMPROMISO CON SA,ALIANZA COMPROMISO CON SAN JUAN                                                                     ,FF99CC,74
+0519,ALIANZA ENCUENTRO POR COR,ALIANZA ENCUENTRO POR CORRIENTES                                                                    ,FFFF00,75
+0520,ALIANZA FRENTE AMPLIO FOR,ALIANZA FRENTE AMPLIO FORMOSEÑO                                                                     ,FF9933,76
+0521,ALIANZA FRENTE AMPLIO POD,ALIANZA FRENTE AMPLIO PODEMOS                                                                       ,820000,77
+0522,ALIANZA FRENTE CAMBIEMOS ,ALIANZA FRENTE CAMBIEMOS                                                                            ,f6ccac,78
+0523,ALIANZA CAMBIEMOS RIO NEG,ALIANZA CAMBIEMOS RIO NEGRO                                                                         ,F20DD8,79
+0524,ALIANZA FRENTE CIVICO Y S,ALIANZA FRENTE CIVICO Y SOCIAL                                                                      ,808000,80
+0525,ALIANZA FRENTE PROGRESIST,ALIANZA FRENTE PROGRESISTA CIVICO Y SOCIAL                                                          ,17375D,81
+0526,ALIANZA FRENTE PROGRESIST,ALIANZA FRENTE PROGRESISTA POPULAR                                                                  ,FFFF00,82
+0527,ALIANZA FRENTE RENOVADOR ,ALIANZA FRENTE RENOVADOR FEDERAL POR LA ESPERANZA                                                   ,CCCC00,83
+0528,ALIANZA FRENTE TERCERA PO,ALIANZA FRENTE TERCERA POSICION                                                                     ,CCC0DA,84
+0529,ALIANZA FRENTE UNIDOS    ,ALIANZA FRENTE UNIDOS                                                                               ,92D050,85
+0530,ALIANZA CAMBIEMOS CHUBUT ,ALIANZA CAMBIEMOS CHUBUT                                                                            ,E1D50E,86
+0531,ALIANZA FRENTE UNION CHUB,ALIANZA FRENTE UNION CHUBUT SOMOS TODOS                                                             ,33E115,87
+0532,ALIANZA FRENTE CIVICO Y S,ALIANZA FRENTE CIVICO Y SOCIAL                                                                      ,1CE020,88
+0600,UNION VECINALISTA DIGNIDA,UNION VECINALISTA DIGNIDAD PARA TODOS                                                               ,F3F312,89
+0612,NUEVO ZARATE             ,NUEVO ZARATE                                                                                        ,86A3EA,90
+0641,MOVIPRO                  ,MOVIPRO                                                                                             ,094059,91
+0647,PROCLAME                 ,PROCLAME                                                                                            ,8AE90D,92
+0656,ACCION CIUDADANA         ,ACCION CIUDADANA                                                                                    ,1D9E94,93
+0664,COMPROMISO PRINGLES      ,COMPROMISO PRINGLES                                                                                 ,2A662A,94
+0665,PARTIDO UNION VECINAL PRO,PARTIDO UNION VECINAL PROV.                                                                         ,33487B,95
+0667,INTEGRACION VECINALISTA R,INTEGRACION VECINALISTA ROSALEÑA                                                                    ,3F993F,96
+0670,C.UNIDAD SOCIAL Y POL. 6 ,C.UNIDAD SOCIAL Y POL. 6 DE DICIEMBRE                                                               ,664B64,97
+0672,UNION VECINAL DE ADOLFO G,UNION VECINAL DE ADOLFO GONZALES CHAVES                                                             ,EECAAA,98
+0673,CONSTRUCCION VECINAL PART,CONSTRUCCION VECINAL PARTICIPATIVA                                                                  ,AAC80B,99
+0674,RENOVACION PARA JUNIN    ,RENOVACION PARA JUNIN                                                                               ,CC1515,100
+0693,ACCION PINAMARENSE-AP    ,ACCION PINAMARENSE-AP                                                                               ,7B9915,101
+0697,ACCION POR VILLARINO     ,ACCION POR VILLARINO                                                                                ,48E166,102
+0703,ENCUENTRO POR ROJAS      ,ENCUENTRO POR ROJAS                                                                                 ,745656,103
+0705,CON VOCACION POR SAN ISID,CON VOCACION POR SAN ISIDRO                                                                         ,60DFDB,104
+0734,VIENTOS DEL SUR-VISUR    ,VIENTOS DEL SUR-VISUR                                                                               ,2A2A66,105
+0737,PROPUESTA PINAMAR-PROPIN ,PROPUESTA PINAMAR-PROPIN                                                                            ,8AC551,106
+0739,JUNTOS POR DORREGO       ,JUNTOS POR DORREGO                                                                                  ,AE4833,107
+0742,AGRUPACION VECINAL UNION ,AGRUPACION VECINAL UNION POR MORON                                                                  ,CC487B,108
+0748,CRECER                   ,CRECER                                                                                              ,E16615,109
+0750,TODOS VECINOS            ,TODOS VECINOS                                                                                       ,E11599,110
+0754,UNION DEL PUEBLO LA PLATA,UNION DEL PUEBLO LA PLATA                                                                           ,26F2F1,111
+0758,UNA NUEVA OPORTUNIDAD SUA,UNA NUEVA OPORTUNIDAD SUARENSE-UNOS                                                                 ,131DEE,112
+0768,CAUSA POPULAR BRANDSEN   ,CAUSA POPULAR BRANDSEN                                                                              ,172438,113
+0769,MIRADA AMPLIA REGIONAL   ,MIRADA AMPLIA REGIONAL                                                                              ,0BF9D1,114
+0774,VECINOS EN ACCION PINAMAR,VECINOS EN ACCION PINAMAR-VENAP                                                                     ,15E365,115
+0777,AGR.MUNICIPAL DE INT.PACE,AGR.MUNICIPAL DE INT.PACEÑA                                                                         ,08F210,116
+0782,UNIDAD PACEÑA            ,UNIDAD PACEÑA                                                                                       ,18821F,117
+0787,SOMOS RODRIGUEZ          ,SOMOS RODRIGUEZ                                                                                     ,7B6615,118
+0789,ACUERDO CIUDADANO X TRENQ,ACUERDO CIUDADANO X TRENQUE LAUQUEN                                                                 ,7B4833,119
+0792,UNION VECINAL SALLIQUELO ,UNION VECINAL SALLIQUELO                                                                            ,0015E1,120
+0794,VAMOS                    ,VAMOS                                                                                               ,E1337B,121
+0799,UNIDOS POR NECOCHEA      ,UNIDOS POR NECOCHEA                                                                                 ,48E100,122
+0803,FRENTE MXC               ,FRENTE MXC                                                                                          ,000215,123
+0821,JUNTOS POR SAN JUAN      ,JUNTOS POR SAN JUAN                                                                                 ,628062,124
+1806,ALIANZA FRENTE MARPLATENS,ALIANZA FRENTE MARPLATENSE                                                                          ,68A309,125
+3001,A                        ,A                                                                                                   ,dedede,126
+3002,A COMPROMISO CON SAN JUAN,A COMPROMISO CON SAN JUAN                                                                           ,B8CCE4,127
+3003,CELESTE Y BLANCA         ,CELESTE Y BLANCA                                                                                    ,CCC0DA,128
+3004,FRENTE VERDE             ,FRENTE VERDE                                                                                        ,E6B9B8,129
+3005,17 DE OCTUBRE            ,17 DE OCTUBRE                                                                                       ,92D050,130
+3006,UNIDOS                   ,UNIDOS                                                                                              ,C5BE97,131
+3007,LISTA A UNIDAD           ,LISTA A UNIDAD                                                                                      ,33AEE1,132
+3008,LISTA IGUALDAD Y DECENCIA,LISTA IGUALDAD Y DECENCIA MS                                                                        ,C0504D,133
+3009,LISTA MS - IGUALDAD Y DEC,LISTA MS - IGUALDAD Y DECENCIA                                                                      ,96B4D8,134
+3010,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K NESTOR KIRCHNER                                                            ,00FFFF,135
+3011,LISTA A UNIDAD Nº1       ,LISTA A UNIDAD Nº1                                                                                  ,54CC54,136
+3012,LISTA A DIGNIDAD         ,LISTA A DIGNIDAD                                                                                    ,33AE48,137
+3013,PARA LA LIBERACION       ,PARA LA LIBERACION                                                                                  ,973315,138
+3014,LISTA 1 A RENOVAR Y FORTA,LISTA 1 A RENOVAR Y FORTALECER EL FRENTE                                                            ,D99795,139
+3015,LISTA LEALTAD A          ,LISTA LEALTAD A                                                                                     ,0CE1DF,140
+3018,LISTA UNIDAD A           ,LISTA UNIDAD A                                                                                      ,95B3D7,141
+3019,LISTA A - UNIDAD         ,LISTA A - UNIDAD                                                                                    ,990000,142
+3033,A - SANTA FE AVANZA      ,A - SANTA FE AVANZA                                                                                 ,6666FF,143
+3050,LISTA 1 - MST            ,LISTA 1 - MST                                                                                       ,33CC33,144
+3054,PODEMOS SAN JUAN         ,PODEMOS SAN JUAN                                                                                    ,414141,145
+3064,3 C VAMOS POR MAS        ,3 C VAMOS POR MAS                                                                                   ,4BACC6,146
+3066,F - UNIDAD               ,F - UNIDAD                                                                                          ,96B4D8,147
+3071,AHORA EL PUEBLO          ,AHORA EL PUEBLO                                                                                     ,75923C,148
+3073,A - GENTE EN ACCION      ,A - GENTE EN ACCION                                                                                 ,9933FF,149
+3100,LISTA A 1                ,LISTA A 1                                                                                           ,993366,150
+3101,1 A POR LOS JUBILADOS    ,1 A POR LOS JUBILADOS                                                                               ,CC3300,151
+3102,LISTA A - ACCION POPULAR ,LISTA A - ACCION POPULAR                                                                            ,CC0066,152
+3103,LISTA A - 1              ,LISTA A - 1                                                                                         ,F2DDDC,153
+3110,LISTA 10 - AZUL Y BLANCA ,LISTA 10 - AZUL Y BLANCA                                                                            ,FDE9D9,154
+3112,2 B DESARROLLO AGRO-INDUS,2 B DESARROLLO AGRO-INDUSTRIAL                                                                      ,D7E4BC,155
+3115,LISTA A                  ,LISTA A                                                                                             ,D7E4BC,156
+3123,A AHORA EL PUEBLO        ,A AHORA EL PUEBLO                                                                                   ,00B050,157
+3124,A - LISTA UNIDAD 2 U     ,A - LISTA UNIDAD 2 U                                                                                ,F2DDDC,158
+3126,A CELESTE Y BLANCA K NEST,A CELESTE Y BLANCA K NESTOR KIRCHNER                                                                ,E46D0A,159
+3128,LISTA A - CREO           ,LISTA A - CREO                                                                                      ,663300,160
+3129,LISTA CREO A             ,LISTA CREO A                                                                                        ,663300,161
+3130,1 A EL CAMINO DEL CAMBIO ,1 A EL CAMINO DEL CAMBIO                                                                            ,CCFFCC,162
+3133,LISTA 3A - POR MISIONES  ,LISTA 3A - POR MISIONES                                                                             ,CCFF66,163
+3136,A - NUEVA DEMOCRACIA     ,A - NUEVA DEMOCRACIA                                                                                ,33CCCC,164
+3137,A UN NUEVO JUJUY         ,A UN NUEVO JUJUY                                                                                    ,CCECFF,165
+3138,A UNA OPCION SANTAFESINA ,A UNA OPCION SANTAFESINA                                                                            ,4D4D4D,166
+3139,A UNIDAD                 ,A UNIDAD                                                                                            ,538ED5,167
+3142,ADELANTE CORRIENTES B    ,ADELANTE CORRIENTES B                                                                               ,FF99CC,168
+3143,AMARILLA EL EQUIPO DEL CA,AMARILLA EL EQUIPO DEL CAMBIO                                                                       ,FFFF00,169
+3144,AMARILLA EL EQUIPO DEL CA,AMARILLA EL EQUIPO DEL CAMBIO                                                                       ,FF9933,170
+3145,AMARILLA Y NEGRA A       ,AMARILLA Y NEGRA A                                                                                  ,820000,171
+3148,LISTA  1 - AMARILLO Y NEG,LISTA  1 - AMARILLO Y NEGRO                                                                         ,f6ccac,172
+3149,AZUL A                   ,AZUL A                                                                                              ,808000,173
+3150,LISTA AZUL PRIMERO NEUQUE,LISTA AZUL PRIMERO NEUQUEN A                                                                        ,B39515,174
+3151,LISTA 3B - FUERZA Y FUTUR,LISTA 3B - FUERZA Y FUTURO                                                                          ,17375D,175
+3152,B JUNTOS PODEMOS         ,B JUNTOS PODEMOS                                                                                    ,FFFF00,176
+3153,B UNAMOS JUJUY           ,B UNAMOS JUJUY                                                                                      ,CCCC00,177
+3154,LISTA 3C - LEGISLAR POR L,LISTA 3C - LEGISLAR POR LA VIDA                                                                     ,CCC0DA,178
+3155,C REPUBLICA DE LIBRES E I,C REPUBLICA DE LIBRES E IGUALES                                                                     ,92D050,179
+3156,LISTA H CAMBIEMOS EL PAIS,LISTA H CAMBIEMOS EL PAIS                                                                           ,dedede,180
+3157,CAMBIEMOS LA PAMPA       ,CAMBIEMOS LA PAMPA                                                                                  ,B8CCE4,181
+3158,CAMBIEMOS SANTA CRUZ     ,CAMBIEMOS SANTA CRUZ                                                                                ,CCC0DA,182
+3160,LISTA 1                  ,LISTA 1                                                                                             ,E6B9B8,183
+3161,CELESTE RENOVACION       ,CELESTE RENOVACION                                                                                  ,92D050,184
+3164,LISTA K CELESTE Y BLANCA ,LISTA K CELESTE Y BLANCA K                                                                          ,C5BE97,185
+3165,CELESTE Y BLANCA K NESTOR,CELESTE Y BLANCA K NESTOR KIRCHNER                                                                  ,C0504D,186
+3166,A LISTA CELESTE Y BLANCA ,A LISTA CELESTE Y BLANCA K NESTOR KIRCHNER                                                          ,96B4D8,187
+3167,LISTA A - CELESTE Y BLANC,LISTA A - CELESTE Y BLANCA K NESTOR KIRCHNER                                                        ,00FFFF,188
+3168,A - CELESTE Y BLANCA K NE,A - CELESTE Y BLANCA K NESTOR KIRCHNER                                                              ,2C6A72,189
+3169,COMPROMISO FEDERAL       ,COMPROMISO FEDERAL                                                                                  ,D99795,190
+3170,EL CAMINO DEL CAMBIO     ,EL CAMINO DEL CAMBIO                                                                                ,95B3D7,191
+3171,EL CAMINO DEL CAMBIO     ,EL CAMINO DEL CAMBIO                                                                                ,990000,192
+3172,COMPROMISO VECINAL LISTA ,COMPROMISO VECINAL LISTA A                                                                          ,6666FF,193
+3173,CON FE Y ESPERANZA       ,CON FE Y ESPERANZA                                                                                  ,33CC33,194
+3174,CONDUCCION MENDOZA       ,CONDUCCION MENDOZA                                                                                  ,414141,195
+3175,EL CAMBIO JUSTO          ,EL CAMBIO JUSTO                                                                                     ,4BACC6,196
+3176,EL CAMBIO JUSTO          ,EL CAMBIO JUSTO                                                                                     ,96B4D8,197
+3177,A-CORDOBA PROGRESISTA    ,  A-CORDOBA PROGRESISTA                                                                             ,75923C,198
+3178,DIGNIDAD                 ,DIGNIDAD                                                                                            ,9933FF,199
+3179,EL CAMBIO JUSTO          ,EL CAMBIO JUSTO                                                                                     ,993366,200
+3180,EL CAMINO DEL CAMBIO     ,EL CAMINO DEL CAMBIO                                                                                ,CC3300,201
+3181,LISTA A - EL CAMINO DEL C,LISTA A - EL CAMINO DEL CAMBIO                                                                      ,CC0066,202
+3182,LISTA G EL CAMINO DEL CAM,LISTA G EL CAMINO DEL CAMBIO                                                                        ,F2DDDC,203
+3183,EL NUEVO CAMINO          ,EL NUEVO CAMINO                                                                                     ,FDE9D9,204
+3185,LISTA E EL PODER DE LA UN,LISTA E EL PODER DE LA UNION                                                                        ,D7E4BC,205
+3186,LISTA E - EL PODER DE LA ,LISTA E - EL PODER DE LA UNION                                                                      ,D7E4BC,206
+3187,EQUIPO CON FUTURO VERDE Y,EQUIPO CON FUTURO VERDE Y BLANCO                                                                    ,00B050,207
+3188,LISTA G - EL CAMINO DEL C,LISTA G - EL CAMINO DEL CAMBIO                                                                      ,F2DDDC,208
+3189,FRENTE COMPROMISO FEDERAL,FRENTE COMPROMISO FEDERAL A                                                                         ,E46D0A,209
+3191,FRENTE POPULAR A         ,FRENTE POPULAR A                                                                                    ,663300,210
+3192,A FRENTE RENOVADOR +A15  ,A FRENTE RENOVADOR +A15                                                                             ,663300,211
+3193,A FRENTE RENOVADOR +A15  ,A FRENTE RENOVADOR +A15                                                                             ,CCFFCC,212
+3199,HACIA EL FRENTE DE IZQUIE,HACIA EL FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES                                                  ,CCFF66,213
+3202,IZQUIERDA TRICOLOR       ,IZQUIERDA TRICOLOR                                                                                  ,33CCCC,214
+3203,JUJUY UNIDO              ,JUJUY UNIDO                                                                                         ,CCECFF,215
+3204,JUNTOS PODEMOS M         ,JUNTOS PODEMOS M                                                                                    ,4D4D4D,216
+3205,JUNTOS POR EL CAMBIO     ,JUNTOS POR EL CAMBIO                                                                                ,538ED5,217
+3206,JUNTOS POR LA PAMPA      ,JUNTOS POR LA PAMPA                                                                                 ,FF99CC,218
+3208,CAMBIA SANTIAGO LETRA A  ,CAMBIA SANTIAGO LETRA A                                                                             ,FFFF00,219
+3209,K CELESTE Y BLANCA NESTOR,K CELESTE Y BLANCA NESTOR KIRCHNER                                                                  ,FF9933,220
+3210,LO MEJOR ESTA POR VENIR  ,LO MEJOR ESTA POR VENIR                                                                             ,820000,221
+3214,D MOVIMIENTO DE UNIDAD   ,D MOVIMIENTO DE UNIDAD                                                                              ,f6ccac,222
+3215,LISTA MOVIMIENTO DE UNIDA,LISTA MOVIMIENTO DE UNIDAD PERONISTA U                                                              ,808000,223
+3217,LISTA A MOVIMIENTO SOLIDA,LISTA A MOVIMIENTO SOLIDARIO POPULAR                                                                ,17375D,224
+3219,"NESTOR VIVE, SOMOS EL PRO","NESTOR VIVE, SOMOS EL PROYECTO                                                                      ",FFFF00,225
+3220,LISTA 3NR - NUEVO RADICAL,LISTA 3NR - NUEVO RADICALISMO                                                                       ,CCCC00,226
+3221,NUEVA ALTERNATIVA PARA EL,NUEVA ALTERNATIVA PARA EL CAMBIO                                                                    ,CCC0DA,227
+3223,NUEVA IZQUIERDA          ,NUEVA IZQUIERDA                                                                                     ,92D050,228
+3225,LISTA 1-SOMOS BRANDSEN   ,LISTA 1-SOMOS BRANDSEN                                                                              ,3F3F99,229
+3228,PARTICIPACION            ,PARTICIPACION                                                                                       ,dedede,230
+3229,PERONISMO PAMPEANO 1-A-2 ,PERONISMO PAMPEANO 1-A-2                                                                            ,B8CCE4,231
+3230,LETRA C COMPROMISO PROGRE,LETRA C COMPROMISO PROGRESISTA                                                                      ,CCC0DA,232
+3231,LISTA 1 - PROGRESISTAS   ,LISTA 1 - PROGRESISTAS                                                                              ,E6B9B8,233
+3234,LISTA A PROTAGONISMO Y PA,LISTA A PROTAGONISMO Y PARTICIPACION                                                                ,92D050,234
+3235,PROYECTO AGRARIO Y SOCIAL,PROYECTO AGRARIO Y SOCIAL (PAYS)                                                                    ,C5BE97,235
+3237,RENOVACION Y FUTURO      ,RENOVACION Y FUTURO                                                                                 ,C0504D,236
+3238,RENOVAR Y FORTALECER EL C,RENOVAR Y FORTALECER EL CAMBIO 1 A                                                                  ,96B4D8,237
+3240,RENOVAR Y FORTALECER EL F,RENOVAR Y FORTALECER EL FRENTE A                                                                    ,00FFFF,238
+3241,RENOVAR Y FORTALECER EL F,RENOVAR Y FORTALECER EL FRENTE A                                                                    ,D99795,239
+3242,REPUBLICA DE LIBRES E IGU,REPUBLICA DE LIBRES E IGUALES                                                                       ,95B3D7,240
+3243,LISTA F REPUBLICA DE LIBR,LISTA F REPUBLICA DE LIBRES E IGUALES                                                               ,990000,241
+3244,LISTA F - REPUBLICA DE LI,LISTA F - REPUBLICA DE LIBRES E IGUALES                                                             ,6666FF,242
+3245,ROJO PUNZO A 1           ,ROJO PUNZO A 1                                                                                      ,33CC33,243
+3246,SALTA NOS UNE            ,SALTA NOS UNE                                                                                       ,414141,244
+3247,SALTA PARA TODOS O       ,SALTA PARA TODOS O                                                                                  ,4BACC6,245
+3248,SALTA POR LA IGUALDAD L  ,SALTA POR LA IGUALDAD L                                                                             ,96B4D8,246
+3249,SALTA TRABAJA I          ,SALTA TRABAJA I                                                                                     ,75923C,247
+3251,SEMBRANDO SOCIALISMO S   ,SEMBRANDO SOCIALISMO S                                                                              ,9933FF,248
+3253,LISTA A SoB              ,LISTA A SoB                                                                                         ,993366,249
+3255,TRICOLOR                 ,TRICOLOR                                                                                            ,CC3300,250
+3256,PROTAGONISMO Y PARTICIPAC,PROTAGONISMO Y PARTICIPACION                                                                        ,CC0066,251
+3257,U UNIDAD                 ,U UNIDAD                                                                                            ,F2DDDC,252
+3258,LISTA A - POR TU SALARIO ,LISTA A - POR TU SALARIO                                                                            ,FDE9D9,253
+3259,LISTA A - CAMINAMOS PREGU,LISTA A - CAMINAMOS PREGUNTANDO                                                                     ,D7E4BC,254
+3260,LISTA A - LEALTAD        ,LISTA A - LEALTAD                                                                                   ,D7E4BC,255
+3261,LISTA UNIDAD - 2 U       ,LISTA UNIDAD - 2 U                                                                                  ,00B050,256
+3262,LISTA A - DIGNIDAD       ,LISTA A - DIGNIDAD                                                                                  ,F2DDDC,257
+3263,UNIDAD BLANCA            ,UNIDAD BLANCA                                                                                       ,E46D0A,258
+3264,LISTA 1A - RENOVAR Y FORT,LISTA 1A - RENOVAR Y FORTALECER EL FTE                                                              ,663300,259
+3265,UNIDAD FORMOSEÑA         ,UNIDAD FORMOSEÑA                                                                                    ,663300,260
+3266,UNIDAD PROGRESISTA       ,UNIDAD PROGRESISTA                                                                                  ,CCFFCC,261
+3267,UNIDAD PROGRESISTA A     ,UNIDAD PROGRESISTA A                                                                                ,CCFF66,262
+3268,LISTA  - UNIDAD 2 U      ,LISTA  - UNIDAD 2 U                                                                                 ,33CCCC,263
+3270,UNIDAD TRICOLOR          ,UNIDAD TRICOLOR                                                                                     ,CCECFF,264
+3271,UNIDAD 2 U               ,UNIDAD 2 U                                                                                          ,4D4D4D,265
+3272,UNIDAD A                 ,UNIDAD A                                                                                            ,538ED5,266
+3274,LETRA P - UNIDOS POR EL C,LETRA P - UNIDOS POR EL CAMBIO                                                                      ,FF99CC,267
+3276,UNION PARA EL CAMBIO     ,UNION PARA EL CAMBIO                                                                                ,FFFF00,268
+3278,UNION Y LIBERTAD         ,UNION Y LIBERTAD                                                                                    ,FF9933,269
+3279,VAMOS POR SANTA CRUZ     ,VAMOS POR SANTA CRUZ                                                                                ,820000,270
+3280,VERDE                    ,VERDE                                                                                               ,f6ccac,271
+3281,VERDE A                  ,VERDE A                                                                                             ,808000,272
+3282,FRENTE JUSTICIALISTA PARA,FRENTE JUSTICIALISTA PARA LA VICTORIA                                                               ,E10015,273
+3283,50-ALTERNATIVA PROGRESIST,50-ALTERNATIVA PROGRESISTA POPULAR                                                                  ,F6EA41,274
+3284,LISTA 69 A               ,LISTA 69 A                                                                                          ,A70465,275
+3285,LISTA 68 UNIDAD          ,LISTA 68 UNIDAD                                                                                     ,090945,276
+3286,A-UNION POR ENTRE RIOS   ,A-UNION POR ENTRE RIOS                                                                              ,CD00F9,277
+3287,1 A COLOR ENTRERRIANO    ,1 A COLOR ENTRERRIANO                                                                               ,0C0074,278
+3300,LISTA V - HASTA LA VICTOR,LISTA V - HASTA LA VICTORIA SIEMPRE                                                                 ,17375D,279
+3301,LISTA SoB A              ,LISTA SoB A                                                                                         ,FFFF00,280
+3302,LISTA COMPROMISO FEDERAL ,LISTA COMPROMISO FEDERAL A                                                                          ,CCCC00,281
+3303,LISTA UNIDAD A           ,LISTA UNIDAD A                                                                                      ,CCC0DA,282
+3304,LISTA A - FRENTE PARA LA ,LISTA A - FRENTE PARA LA VICTORIA RIOJANO                                                           ,92D050,283
+3305,LISTA A - FUERZA CIVICA R,LISTA A - FUERZA CIVICA RIOJANA                                                                     ,dedede,284
+3306,LISTA UNIDAD - U         ,LISTA UNIDAD - U                                                                                    ,B8CCE4,285
+3307,FRENTE TERCERA POSICION A,FRENTE TERCERA POSICION A                                                                           ,CCC0DA,286
+3308,FRENTE AMPLIO PODEMOS A  ,FRENTE AMPLIO PODEMOS A                                                                             ,E6B9B8,287
+3309,FRENTE CIVICO Y SOCIAL A ,FRENTE CIVICO Y SOCIAL A                                                                            ,92D050,288
+3310,FRENTE CIVICO Y SOCIAL B ,FRENTE CIVICO Y SOCIAL B                                                                            ,C5BE97,289
+3311,MOVIMIENTO SOCIALISTA DE ,MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES A                                                         ,C0504D,290
+3312,PARTIDO OBRERO A         ,PARTIDO OBRERO A                                                                                    ,96B4D8,291
+3313,LISTA A FTP              ,LISTA A FTP                                                                                         ,00FFFF,292
+3314,LISTA A FPV              ,LISTA A FPV                                                                                         ,D99795,293
+3315,LISTA A FCS              ,LISTA A FCS                                                                                         ,95B3D7,294
+3316,LISTA B FCS              ,LISTA B FCS                                                                                         ,990000,295
+3317,LISTA MST                ,LISTA MST                                                                                           ,6666FF,296
+3318,LISTA MLSUR              ,LISTA MLSUR                                                                                         ,33CC33,297
+3319,LISTA GEN                ,LISTA GEN                                                                                           ,414141,298
+3320,LISTA P OBRERO           ,LISTA P OBRERO                                                                                      ,4BACC6,299
+3321,LISTA IE                 ,LISTA IE                                                                                            ,96B4D8,300
+3322,LISTA U - PROTAGONISMO Y ,LISTA U - PROTAGONISMO Y PARTICIPACION                                                              ,75923C,301
+3323,LISTA A - TRABAJANDO PARA,LISTA A - TRABAJANDO PARA CONSTRUIR LA T.D.F.                                                       ,9933FF,302
+3324,LISTA A - LA PROVINCIA SO,LISTA A - LA PROVINCIA SOMOS TODOS                                                                  ,993366,303
+3325,LISTA A - COLOR ROJO     ,LISTA A - COLOR ROJO                                                                                ,CC3300,304
+3326,LISTA W - COLOR AZUL     ,LISTA W - COLOR AZUL                                                                                ,CC0066,305
+3327,LISTA U - UNIDAD         ,LISTA U - UNIDAD                                                                                    ,F2DDDC,306
+3350,503 A UNIDOS POR UNA NUEV,503 A UNIDOS POR UNA NUEVA ALTERNATIVA                                                              ,FBECCD,307
+3351,50 ALTERNATIVA PROGRESIST,50 ALTERNATIVA PROGRESISTA POPULAR                                                                  ,A7E583,308
+3352,68 LISTA UNIDAD          ,68 LISTA UNIDAD                                                                                     ,F8D3AC,309
+3353,2 FRENTE JUSTICIALISTA PA,2 FRENTE JUSTICIALISTA PARA LA VICTORIA                                                             ,D58362,310
+3354,LISTA 502 A UNION POR ENT,LISTA 502 A UNION POR ENTRE RIOS                                                                    ,ABC90C,311
+3355,LISTA 502 C              ,LISTA 502 C                                                                                         ,331515,312
+3356,322 GESTION Y COMPROMISO ,322 GESTION Y COMPROMISO DEPARTAMENTAL                                                              ,04FDBF,313
+3357,LISTA 502 B              ,LISTA 502 B                                                                                         ,C8C8EC,314
+3358,127 SE VIENE EL CAMBIO   ,127 SE VIENE EL CAMBIO                                                                              ,AE3315,315
+3359,9 COMPROMISO SOCIAL      ,9 COMPROMISO SOCIAL                                                                                 ,7B7B33,316
+3360,915 GUALEGUAY PUEDE      ,915 GUALEGUAY PUEDE                                                                                 ,66E148,317
+3361,LISTA 502 B              ,LISTA 502 B                                                                                         ,567456,318
+3362,LISTA 502 C              ,LISTA 502 C                                                                                         ,60C1F9,319
+3363,LISTA 502 D              ,LISTA 502 D                                                                                         ,C9C9ED,320
+3364,269 DESARROLLO Y PRODUCCI,269 DESARROLLO Y PRODUCCION                                                                         ,9FF866,321
+3365,LISTA 503B UNA ENTRE RIOS,LISTA 503B UNA ENTRE RIOS                                                                           ,CC4815,322
+3366,LISTA 503C UNA ENTRE RIOS,LISTA 503C UNA ENTRE RIOS                                                                           ,AE667B,323
+3367,75 VIENTOS DE CAMBIO     ,75 VIENTOS DE CAMBIO                                                                                ,E14833,324
+3368,402 SIGAMOS AVANZANDO    ,402 SIGAMOS AVANZANDO                                                                               ,00157B,325
+3369,14 PARA VOLVER A CREER   ,14 PARA VOLVER A CREER                                                                              ,0811F1,326
+3370,20 JUANA AZURDUY         ,20 JUANA AZURDUY                                                                                    ,13FE0D,327
+3371,64 TODOS POR SCIOLI PRESI,64 TODOS POR SCIOLI PRESIDENTE                                                                      ,3E0FE6,328
+3372,LISTA 502 B RADICALES POR,LISTA 502 B RADICALES POR FELICIANO                                                                 ,2C396B,329
+3373,197 MOVIMIENTO DEPARTAMEN,197 MOVIMIENTO DEPARTAMENTAL FEDERACION                                                             ,2A177A,330
+3400,LISTA A TOBA             ,LISTA A TOBA                                                                                        ,590807,331
+3401,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K 1                                                                          ,F9823D,332
+3402,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K 10                                                                         ,994815,333
+3403,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K 2                                                                          ,90992A,334
+3404,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K 4                                                                          ,332AF6,335
+3405,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K 6                                                                          ,F62ACC,336
+3406,LISTA P                  ,LISTA P                                                                                             ,4800E1,337
+3407,LISTA 1 A AMARILLO       ,LISTA 1 A AMARILLO                                                                                  ,E10233,338
+3408,LISTA B AHORA EL PUEBLO  ,LISTA B AHORA EL PUEBLO                                                                             ,806262,339
+3409,LISTA C CON TERNURA VENCE,LISTA C CON TERNURA VENCEREMOS                                                                      ,68C1EA,340
+3410,VAMOS POR BERISSO        ,VAMOS POR BERISSO                                                                                   ,15AE00,341
+3411,LISTA 3 A ROJO           ,LISTA 3 A ROJO                                                                                      ,662A2A,342
+3412,LISTA 34                 ,LISTA 34                                                                                            ,15AE66,343
+3413,LISTA 300 A ROJO         ,LISTA 300 A ROJO                                                                                    ,E82A2A,344
+3414,LISTA CELESTE Y BLANCA K ,LISTA CELESTE Y BLANCA K 8                                                                          ,21F613,345
+3415,LISTA SOCIALISMO Y PARTIC,LISTA SOCIALISMO Y PARTICIPACION SP                                                                 ,95B315,346
+3416,LISTA M                  ,LISTA M                                                                                             ,2C4C90,347
+3417,LISTA C LINEA RENOVADORA ,LISTA C LINEA RENOVADORA                                                                            ,993F3F,348
+3418,LISTA D MOVIMIENTO RENOVA,LISTA D MOVIMIENTO RENOVADOR                                                                        ,E1E133,349
+3419,LISTA 4 A FUCSIA         ,LISTA 4 A FUCSIA                                                                                    ,00D5EF,350
+3420,LISTA B CORRIENTE RENOVAD,LISTA B CORRIENTE RENOVADORA                                                                        ,BC377A,351
+3421,LISTA 38                 ,LISTA 38                                                                                            ,12F3F3,352
+3422,LISTA 2 A A AMARILLO     ,LISTA 2 A A AMARILLO                                                                                ,E2330F,353
+3423,LISTA 36                 ,LISTA 36                                                                                            ,33EA05,354
+3424,LISTA 301 A ROJO         ,LISTA 301 A ROJO                                                                                    ,FBCEEB,355
+3426,NUEVA ALTERNATIVA CARMEÑA,NUEVA ALTERNATIVA CARMEÑA                                                                           ,C5E565,356
+3427,LISTA UNICA              ,LISTA UNICA                                                                                         ,DAF1AC,357
+3428,LISTA UNICA              ,LISTA UNICA                                                                                         ,D56580,358
+3429,LISTA 6 A B AMARILLO     ,LISTA 6 A B AMARILLO                                                                                ,FCDE03,359
+3430,COMPROMISO PRINGLES      ,COMPROMISO PRINGLES                                                                                 ,5454CC,360
+3431,LISTA BLANCA             ,LISTA BLANCA                                                                                        ,1931D4,361
+3432,UNA NUEVA OPORTUNIDAD SUA,UNA NUEVA OPORTUNIDAD SUARENSE-UNOS                                                                 ,FBDD02,362
+3433,LISTA E FUERZA RENOVADORA,LISTA E FUERZA RENOVADORA                                                                           ,AE1533,363
+3435,LISTA 11 DE MAYO         ,LISTA 11 DE MAYO                                                                                    ,997B15,364
+3436,LISTA 1 MARPLATENSE      ,LISTA 1 MARPLATENSE                                                                                 ,480048,365
+3437,UNION POR MORON          ,UNION POR MORON                                                                                     ,565674,366
+3438,SOMOS RODRIGUEZ 03       ,SOMOS RODRIGUEZ 03                                                                                  ,7EC1DB,367
+3439,LISTA UNIDAD             ,LISTA UNIDAD                                                                                        ,ABE7ED,368
+3440,LISTA UNICA              ,LISTA UNICA                                                                                         ,8AA76F,369
+3441,LISTA 1 TODOS POR JUNIN  ,LISTA 1 TODOS POR JUNIN                                                                             ,005D2A,370
+3442,UNION DEL PUEBLO LA PLATA,UNION DEL PUEBLO LA PLATA                                                                           ,AE4899,371
+3443,LISTA F UNION RENOVADORA ,LINEA F UNION RENOVADORA                                                                            ,335D2A,372
+3444,LISTA E                  ,LISTA E                                                                                             ,0C3F00,373
+3445,ACCION CIUDADANA         ,ACCION CIUDADANA                                                                                    ,1D4407,374
+3446,LISTA 1                  ,LISTA 1                                                                                             ,31FEEE,375
+3447,LISTA 301 A ROJO         ,LISTA 301 A ROJO                                                                                    ,EC18D1,376
+3448,LISTA 302 A ROJO         ,LISTA 302 A ROJO                                                                                    ,414E9E,377
+3449,UNIDOS POR NECOCHEA      ,UNIDOS POR NECOCHEA                                                                                 ,3F4A8F,378
+3450,LISTA PRIMERO PINAMAR    ,LISTA PRIMERO PINAMAR                                                                               ,8C1D1C,379
+3451,LISTA 1                  ,LISTA 1                                                                                             ,0F9770,380
+3452,LISTA A                  ,LISTA A                                                                                             ,A5CC3F,381
+3453,BOEING 737               ,BOEING 737                                                                                          ,CC5D2A,382
+3454,LISTA ACCION BLANCA 1    ,LISTA ACCION BLANCA 1                                                                               ,E11500,383
+3455,RIVADAVIA PRIMERO        ,RIVADAVIA PRIMERO                                                                                   ,332A90,384
+3456,ENCUENTRO A              ,ENCUENTRO A                                                                                         ,5DF633,385
+3457,JUNTOS PODEMOS           ,JUNTOS PODEMOS                                                                                      ,E12015,386
+3458,PARA UN SAN ISIDRO MEJOR ,PARA UN SAN ISIDRO MEJOR                                                                            ,626280,387
+3459,UNION VECINALISTA DIGNIDA,UNION VECINALISTA DIGNIDAD PARA TODOS                                                               ,B9B800,388
+3460,ACUERDO CIUDADANO X TRENQ,ACUERDO CIUDADANO X TRENQUE LAUQUEN                                                                 ,2AC333,389
+3461,LISTA DE ACCION COMUNAL  ,LISTA DE ACCION COMUNAL                                                                             ,690069,390
+3462,LISTA UNICA A            ,LISTA UNICA A                                                                                       ,66C35D,391
+3463,LISTA UNEN POR VILLARINO ,LISTA UNEN POR VILLARINO V                                                                          ,971533,392
+3464,LISTA UNICA              ,LISTA UNICA                                                                                         ,2AE1C1,393
+3465,LISTA 1                  ,LISTA 1                                                                                             ,AAE62A,394
+3466,LISTA UNIDAD             ,LISTA UNIDAD                                                                                        ,4A4C72,395
+3471,LISTA 1 A                ,LISTA 1 A                                                                                           ,7E337E,396
+3474,SE PUEDE                 ,SE PUEDE                                                                                            ,00E115,397
+3477,AGRUPACION RENOVACION SAN,AGRUPACION RENOVACION SAN ISIDRO R                                                                  ,E1F3EF,398
+3500,LISTA 501 A UNIDOS POR UN,LISTA 501 A UNIDOS POR UNA NUEVA ALTERNATIVA                                                        ,BCFAB6,399
+3501,LISTA 503 A 20 DE JUNIO  ,LISTA 503 A 20 DE JUNIO                                                                             ,F312F3,400
+3502,LISTA A CATAMARCA PUEDE M,LISTA A CATAMARCA PUEDE MAS Y MEJOR                                                                 ,CDE118,401
+3503,LISTA B UNIDAD Y CAMBIO  ,LISTA B UNIDAD Y CAMBIO                                                                             ,66001A,402
+3504,UNIDAD-A                 ,UNIDAD-A                                                                                            ,11E31F,403
+3505,LISTA 1 A UNIDAD ROJO    ,LISTA 1 A UNIDAD ROJO                                                                               ,D16A8F,404
+3506,LISTA A                  ,LISTA A                                                                                             ,2CE8C1,405
+3507,LISTA A                  ,LISTA A                                                                                             ,EA7AB3,406
+3508,LISTA B                  ,LISTA B                                                                                             ,C01B03,407
+3509,LISTA A                  ,LISTA A                                                                                             ,CC5454,408
+3510,LISTA B                  ,LISTA B                                                                                             ,EEACC8,409
+3511,MST                      ,MST                                                                                                 ,2FF217,410
+3512,MOVIMIENTO LIBRES DEL SUR,MOVIMIENTO LIBRES DEL SUR                                                                           ,C32A66,411
+3513,GEN LISTA A              ,GEN LISTA A                                                                                         ,90CC2A,412
+3514,PARTIDO OBRERO           ,PARTIDO OBRERO                                                                                      ,99F65D,413
+3515,INSTRUMENTO ELECTORAL    ,INSTRUMENTO ELECTORAL                                                                               ,6B6BA7,414
+3516,LISTA C                  ,LISTA C                                                                                             ,7513F0,415
+3517,LISTA D                  ,LISTA D                                                                                             ,30F318,416
+3518,LISTA E                  ,LISTA E                                                                                             ,9FBCA2,417
+3519,LISTA C                  ,LISTA C                                                                                             ,AE6615,418
+3520,LISTA B                  ,LISTA B                                                                                             ,C35DCC,419
+3521,LISTA C                  ,LISTA C                                                                                             ,F6992A,420
+3522,LISTA F                  ,LISTA F                                                                                             ,663FA5,421
+3523,LISTA G                  ,LISTA G                                                                                             ,1D0843,422
+3530,LISTA CELESTE Y BLANCA K , CELESTE Y BLANCA K NESTOR KIRCHNER                                                                 ,285004,423
+3531,LISTA A MUCHOS POR CHUBUT,LISTA A MUCHOS POR CHUBUT                                                                           ,7124FB,424
+3532,LISTA IGUALDAD Y DECENCIA,LISTA IGUALDAD Y DECENCIA                                                                           ,5663D1,425
+3533,LISTA A JUSTICIA Y DIGNID,LISTA A JUSTICIA Y DIGNIDAD                                                                         ,547DA4,426
+3534,LISTA TRICOLOR           ,LISTA TRICOLOR                                                                                      ,BF3231,427
+3535,LISTA A EL VERDADERO CAMB,LISTA A EL VERDADERO CAMBIO                                                                         ,24ACA3,428
+3536,LISTA I ACTITUD          ,LISTA I ACTITUD                                                                                     ,BA0054,429
+3537,LISTA A UNIDAD           ,LISTA A UNIDAD                                                                                      ,00723F,430
+3538,LISTA FEDERAL Y POPULAR R,LISTA FEDERAL Y POPULAR ROJA                                                                        ,F62A33,431
+3539,LISTA A POR SIEMPRE CHUBU,LISTA A POR SIEMPRE CHUBUT                                                                          ,F66690,432
+3540,LISTA G FRACH            ,LISTA G FRACH                                                                                       ,66E1E1,433
+3541,LISTA A PARTICIPACION PAR,LISTA A PARTICIPACION PARA LA TRANSPARENCIA                                                         ,F6532A,434
+3542,LISTA MS IGUALDAD Y DECEN,LISTA MS IGUALDAD Y DECENCIA                                                                        ,B37777,435
+3550,LISTA CREO               ,LISTA CREO                                                                                          ,7DB83C,436
+3551,MOVIMIENTO NACIONAL ALFON,MOVIMIENTO NACIONAL ALFONSINISTA                                                                    ,15CCE1,437
+3552,LISTA A.CELESTE UNIDAD   ,LISTA A.CELESTE UNIDAD                                                                              ,696900,438
+3553,LISTA A EL CAMINO DEL CAM,LISTA A EL CAMINO DEL CAMBIO                                                                        ,2A005D,439
+3554,LISTA C EL PODER DE LA UN,LISTA C                                                                                             ,1C3F3F,440
+3555,LISTA 9                  ,LISTA 9                                                                                             ,360C46,441
+3556,LISTA 30                 ,LISTA 30                                                                                            ,BF1A3F,442
+3557,LISTA 77                 ,LISTA 77                                                                                            ,7D6187,443
+3558,LISTA 1A                 ,LISTA 1A                                                                                            ,7E7E33,444
+3559,LISTA VECINALISTAS DE PIE,LISTA VECINALISTAS DE PIE                                                                           ,F6332A,445
+3560,LISTA A                  ,LISTA A                                                                                             ,99152F,446
+3561,LISTA UNICA              ,LISTA UNICA                                                                                         ,D110E9,447
+3562,LISTA CANPO              ,LISTA CANPO                                                                                         ,094509,448
+3563,LISTA C DESCAMISADOS SL  ,LISTA C DESCAMISADOS SL                                                                             ,EBE1F9,449
+3564,LISTA CONFLUENCIA NARANJA,LISTA CONFLUENCIA NARANJA                                                                           ,F62705,450
+3565,LISTA MAS SAN LUIS       ,LISTA MAS SAN LUIS                                                                                  ,1ACECD,451
+3566,LISTA NUEVO ENCUENTRO    ,LISTA NUEVO ENCUENTRO                                                                               ,E69DA4,452
+3567,LISTA CALEUCHE K         ,LISTA CALEUCHE K                                                                                    ,5FFDD6,453
+3568,LISTA OLA NARANJA        ,LISTA OLA NARANJA                                                                                   ,008FE6,454
+3569,LISTA NESTOR KIRCHNER    ,LISTA NESTOR KIRCHNER                                                                               ,D54E18,455
+3570,LISTA OKTUBRE K          ,LISTA OKTUBRE K                                                                                     ,006969,456
+3571,LISTA CELESTE Y BLANCA   ,LISTA CELESTE Y BLANCA                                                                              ,04C1FB,457
+3572,LISTA 22                 ,LISTA 22                                                                                            ,AAE6EC,458
+3573,LISTA 38                 ,LISTA 38                                                                                            ,D83F99,459
+3574,LISTA 402                ,LISTA 402                                                                                           ,A5003F,460
+3575,LISTA A                  ,LISTA A                                                                                             ,CC0C72,461
+3576,LISTA KOLINA             ,LISTA KOLINA                                                                                        ,8080DA,462
+3577,LISTA 12                 ,LISTA 12                                                                                            ,8A4606,463
+3578,LISTA 31                 ,LISTA 31                                                                                            ,63092D,464
+3579,LISTA 32                 ,LISTA 32                                                                                            ,B4D1D5,465
+3580,LISTA CONCERTACION POPULA,LISTA CONCERTACION POPULAR                                                                          ,C3992A,466
+3581,LISTA UNIDOS POR AYACUCHO,LISTA UNIDOS POR AYACUCHO                                                                           ,005D90,467
+3582,LISTA 97                 ,LISTA 97                                                                                            ,F65D66,468
+3583,LISTA 201                ,LISTA 201                                                                                           ,0C99A5,469
+3600,LO MEJOR ESTA POR VENIR  ,LO MEJOR ESTA POR VENIR                                                                             ,F24746,470
+3601,EQUIPO CON FUTURO VERDE Y,EQUIPO CON FUTURO VERDE Y BLANCO                                                                    ,A183A1,471
+3602,UNION Y LIBERTAD         ,UNION Y LIBERTAD                                                                                    ,B14893,472
+3603,AMARILLA: EL EQUIPO DEL C,AMARILLA: EL EQUIPO DEL CAMBIO                                                                      ,CD4D49,473
+3604,CELESTE RENOVACION       ,CELESTE RENOVACION                                                                                  ,092A48,474
+3605,RENOVACION Y FUTURO      ,RENOVACION Y FUTURO                                                                                 ,40DE70,475
+3606,UNIDAD BLANCA            ,UNIDAD BLANCA                                                                                       ,22DE8E,476
+3607,AHORA EL PUEBLO          ,AHORA EL PUEBLO                                                                                     ,315472,477
+3608,PARTICIPACION            ,PARTICIPACION                                                                                       ,AE152A,478
+3609,IZQUIERDA TRICOLOR       ,IZQUIERDA TRICOLOR                                                                                  ,2AC848,479
+3610,HACIA EL FRENTE DE IZQ Y ,HACIA EL FRENTE DE IZQ Y DE LOS TRAB                                                                ,152A48,480
+3611,PODEMOS SAN JUAN         ,PODEMOS SAN JUAN                                                                                    ,48F81B,481
+3612,LISTA A                  ,LISTA A                                                                                             ,2A48E1,482
+3613,AMARILLA: EL EQUIPO DEL C,AMARILLA: EL EQUIPO DEL CAMBIO                                                                      ,487A98,483
+3620,LISTA A TRICOLOR         ,LISTA A TRICOLOR                                                                                    ,5D1572,484
+3621,LISTA A ALFREDO BRAVO    ,LISTA A ALFREDO BRAVO                                                                               ,93B148,485
+3622,LISTA B CARLOS GARCIA    ,LISTA B CARLOS GARCIA                                                                               ,48725D,486
+3623,LISTA UNIDAD ROJO 1 A    ,LISTA UNIDAD ROJO 1 A                                                                               ,2622ED,487
+3624,LISTA A CELESTE Y BLANCA ,LISTA A CELESTE Y BLANCA K NESTOR KIRCHNER                                                          ,213389,488
+3625,"LISTA A AMARILLO, BLANCO ","LISTA A AMARILLO, BLANCO Y ROJO                                                                     ",48F648,489
+3631,LISTA UNIDAD - 2 U       ,LISTA UNIDAD - 2 U                                                                                  ,4FF535,490
+3632,LISTA UNIDAD - 2 U       ,LISTA UNIDAD - 2 U                                                                                  ,1E3C5A,491
+3633,LISTA UNIDAD - 2 U       ,LISTA UNIDAD - 2 U                                                                                  ,CECD33,492
+3634,LISTA FUTURO             ,LISTA FUTURO                                                                                        ,3C556E,493
+3635,UNA NUEVA ARGENTINA FEDER,UNA NUEVA ARGENTINA FEDERAL (UNA FEDERAL)                                                           ,9F1D22,494
+3636,LISTA A                  ,LISTA A                                                                                             ,32B3C7,495
+3637,CORRIENTE PROVINCIAL Y PO,CORRIENTE PROVINCIAL Y POPULAR B                                                                    ,5D7B3F,496
+3638,MILITANCIA POPULAR NEUQUI,MILITANCIA POPULAR NEUQUINA C                                                                       ,487B90,497
+3639,LISTA TRICOLOR           ,LISTA TRICOLOR                                                                                      ,54AE72,498
+3640,LISTA COMPROMISO JUSTICIA,LISTA COMPROMISO JUSTICIA Y DIGNIDAD                                                                ,996079,499
+3641,LISTA 25 DE MAYO 1 A     ,LISTA 25 DE MAYO 1 A                                                                                ,2E64E9,500
+3642,CELESTE Y BLANCA K-NESTOR,CELESTE Y BLANCA K-NESTOR KIRCHNER (A)                                                              ,BFDD3E,501
+3643,LISTA UNIDAD POR LA REPUB,LISTA UNIDAD POR LA REPUBLICA LISTA A                                                               ,002A2A,502
+3644,PROTAGONISMO Y PARTICIPAC,PROTAGONISMO Y PARTICIPACION LISTA A                                                                ,BA3354,503
+3645,LISTA 1 A RENOVAR Y FORTA,LISTA 1 A RENOVAR Y FORTALECER EL FRENTE                                                            ,5DF699,504
+3646,LISTA UNIDAD - 2 U       ,LISTA UNIDAD - 2 U                                                                                  ,A76B6B,505
+3647,LISTA TRICOLOR           ,LISTA TRICOLOR                                                                                      ,9F791B,506
+3666,237 - SAN SALVADOR NOS UN,237 - SAN SALVADOR NOS UNE                                                                          ,8769E1,507
+9997,OTROS                    ,OTROS                                                                                               ,B40E99,508
+9998,RESTO DE AGRUPACIONES    ,RESTO DE AGRUPACIONES                                                                               ,E15D48,509

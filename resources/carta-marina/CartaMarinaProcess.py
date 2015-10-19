@@ -32,6 +32,9 @@ cnt = 0
 errores=0
 
 escuelas = [] # resultados finales
+secciones = {} # secciones electorales (una por departamentpos de Córdoba)
+circuitos = {} # subdivision de las secciones, en la práctica es una por cada municpio, salvo la Capital
+
 last_mesa= 0 # controlar que todos los numeros de mesa esten incluidos
 
 for r in lines:
@@ -99,8 +102,7 @@ for r in lines:
                 'desde': mesa_desde, 'hasta': mesa_hasta,
                 'electores': cant_electores}
         escuelas.append(elem)
-        continue
-
+        
 print "Escuelas: %d" % len(escuelas)
 
 f = codecs.open('escuelas-elecciones-2015-cordoba.csv', 'w', encoding='utf8')
