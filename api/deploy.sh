@@ -1,0 +1,1 @@
+rsync -av --progress --rsh='ssh -p 987' ../api opendata@opendatacordoba.org:/home/opendata/www/elecciones2015/
