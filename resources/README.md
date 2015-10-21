@@ -27,3 +27,6 @@ http://web2.cba.gov.ar/actual_web/estadisticas/anuario06_07/electoral/ubicacion_
 #### Legislacion electoral Córdoba
 https://www.justiciacordoba.gob.ar/jel/pdf/capacitacion/CompendioLegislacionElectoral.pdf  
 No rige para las nacionales pero habla de las divisiones geográficas
+
+#### Unquillo
+Sus candidatos: http://www.launionregional.com.ar/wordpress/8-propuestas/
