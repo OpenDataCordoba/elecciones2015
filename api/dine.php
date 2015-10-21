@@ -148,6 +148,7 @@ class Dine {
 		$lines = $this->read_file($this->listas);
 		$this->lg(count($lines) . " lineas en listas");
 		foreach ($lines as $line) {
+			$line = iconv("ISO-8859-1", "UTF-8", $line);
 			$flds = explode(';', $line);
 			if (!$flds[0]) continue;
 			$res[] = ['codigo'=>$flds[0], 'siglas'=>trim($flds[1]), 'denominacion'=>trim($flds[2])];
@@ -158,7 +159,7 @@ class Dine {
 	}
 
 	function listas(){
-		echo "<br />Formulas ... ";
+		echo "<br />Listas ... ";
 		$r = $this->get_listas();
 		$this->write_json($r, 'listas.json');
 	}
@@ -171,6 +172,7 @@ class Dine {
 		$this->lg(count($lines) . " lineas en ambitos");
 		$myid=0;
 		foreach ($lines as $line) {
+			$line = iconv("ISO-8859-1", "UTF-8", $line);
 			$flds = explode(';', $line);
 			if (!$flds[0]) continue;
 			$myid++;
@@ -193,6 +195,7 @@ class Dine {
 		$lines = $this->read_file($this->formulas);
 		$this->lg(count($lines) . " lineas en formulas");
 		foreach ($lines as $line) {
+			$line = iconv("ISO-8859-1", "UTF-8", $line);
 			$flds = explode(';', $line);
 			if (!$flds[0]) continue;
 			$nombre = trim($flds[2]);
