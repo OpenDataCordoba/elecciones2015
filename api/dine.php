@@ -15,6 +15,15 @@ class Dine {
 		$this->formulas = $this->base_path_extras . '/formulas_000.csv';
 		$this->listas = $this->base_path_extras . '/listas_000.csv';
 
+		$this->provincias = range(1,24);
+		$this->provincias[] = 99; # total nacional
+
+		$this->eleccion = [1=>"Presidente", 2=>"Senadores Nacionales",
+							3=>"Diputados Nacionales", 4=>"Gobernador",
+							5=>"Senadores Provinciales / Diputados Proporcionales de San Juan",
+							6=>"Diputados Provinciales / Diputados Departamentales de San Juan",
+							7=>"Concejales de Buenos Aires",
+							8=>"Parlasur Nacional", 9=>"Parlasur Provincial"];
 	}
 
 	private function read_file($url) {
@@ -34,6 +43,66 @@ class Dine {
 		return TRUE;
 	}
 
+	# ---- TOTALES 
+	function totales_prov() {
+		$totales_prov=[]; # acumulando entre deptos
+		foreach ($this->provincias as $prov) {
+			$prov = ($prov < 10 ) ? $prov = "0" . $prov : (string)$prov;
+			$lines = $this->read_file($this->base_path_extras . '/totales_' . $prov . '.csv');
+			$this->lg(count($lines) . " lineas en totales prov " . $prov);
+			foreach ($lines as $line) {
+				$flds = explode(';', $line);
+				if (!$flds[0]) continue;
+				# print_r($flds); 
+				$eleccion = (int)$flds[0];
+				$distrito = (int)$flds[1];
+				$seccion = (int)$flds[2];
+				$res = ['mesas_totales'=>(int)$flds[3], 
+						  'mesas_escrutadas'=>(int)$flds[4], 
+						  'porc_mesas_escrutadas'=>(int)$flds[5],
+						  'electores'=>(int)$flds[6],
+						  'votantes'=>(int)$flds[7],
+						  'participacion_sobre_censo'=>(int)$flds[8],
+						  'participacion_sobre_escrutado'=>(int)$flds[9],
+						  'electores_escrutados'=>(int)$flds[10],
+						  'porc_electores_escrutados'=>(int)$flds[11],
+						  'votos_validos'=>(int)$flds[12],
+						  'porc_votos_validos'=>(int)$flds[13],
+						  'votos_positivos'=>(int)$flds[14],
+						  'porc_votos_positivos'=>(int)$flds[15],
+						  'votos_en_blanco'=>(int)$flds[16],
+						  'porc_votos_en_blanco'=>(int)$flds[17],
+						  'votos_nulos'=>(int)$flds[18],
+						  'porc_votos_nulos'=>(int)$flds[19],
+						  'votos_recurridos_impugnados'=>(int)$flds[20],
+						  'porc_votos_recurridos_impugnados'=>(int)$flds[21],
+						  'cargos_a_elegir'=>(int)$flds[22],
+						  'dia'=>(int)$flds[23],
+						  'hora'=>(int)$flds[24],
+						  'minuto'=>(int)$flds[25]
+						  ];
+
+				# $this->lg("Line " . trim($flds[2]));
+			  	echo "<br />Totales prov " . $distrito . " - seccion " . $seccion . " - eleccion " . $this->eleccion[$eleccion];
+				$f = 'totales_' . $distrito . "_" . $seccion . "_" . $eleccion;
+				$this->write_json($res, $f . '.json');
+				
+				
+
+				}
+			}
+
+		foreach ($totales_prov as $prov_eleccion => $values) {	
+			echo "<br />TOTALES " . $prov_eleccion;
+			$f = 'totales_' . $prov_eleccion;
+			$this->write_json($values, $f . '.json');
+			
+			}	
+		
+		return $res;
+	}
+
+	
 	# ---- LISTAS 
 	function get_listas() {
 		$res = [];

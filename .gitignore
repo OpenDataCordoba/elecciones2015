@@ -1,5 +1,5 @@
 *.nja
 .~*
 *~
-
+api/json/*
 *.pyc

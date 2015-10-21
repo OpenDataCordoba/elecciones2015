@@ -4,15 +4,23 @@ include_once 'dine.php';
 $d = new Dine();
 # abrir los ambitos para grabarlos en JSON
 
-if ($_GET['do'] == 'ambitos' || $_GET['do'] == 'all') {
+$do = (array_key_exists('do', $_GET)) ? $_GET['do'] : '';
+$do = filter_var($do, FILTER_SANITIZE_ENCODED);
+print "DO: " . $do;
+
+if ($do == 'totales_prov' || $do == 'all') {
+	$d->totales_prov();
+}
+
+if ($do == 'ambitos' || $do == 'all') {
 	$d->ambitos();
 }
 
-if ($_GET['do'] == 'formulas' || $_GET['do'] == 'all') {
+if ($do == 'formulas' || $do == 'all') {
 	$d->formulas();
 }
 
-if ($_GET['do'] == 'listas' || $_GET['do'] == 'listas') {
+if ($do == 'listas' || $do == 'listas') {
 	$d->listas();
 }
 
