@@ -12,6 +12,10 @@ if ($do == 'totales_prov' || $do == 'all') {
 	$d->totales_prov();
 }
 
+if ($do == 'totales_listas' || $do == 'all') {
+	$d->totales_listas();
+}
+
 if ($do == 'ambitos' || $do == 'all') {
 	$d->ambitos();
 }

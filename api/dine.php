@@ -44,8 +44,55 @@ class Dine {
 	}
 
 	# ---- TOTALES 
+	function totales_listas() {
+		
+		foreach ($this->provincias as $prov) {
+			$res = [];
+			$prov = ($prov < 10 ) ? $prov = "0" . $prov : (string)$prov;
+			$lines = $this->read_file($this->base_path_extras . '/totaleslistas_' . $prov . '.csv');
+			$this->lg(count($lines) . " lineas en totales prov " . $prov);
+			foreach ($lines as $line) {
+				$flds = explode(';', $line);
+				if (!$flds[0]) continue;
+				# print_r($flds); 
+				$eleccion = (int)$flds[0];
+				$distrito = (int)$flds[1];
+				$seccion = (int)$flds[2];
+				$idf = $distrito.'_'.$seccion.'_'.$eleccion;
+				if (!array_key_exists($idf, $res)) $res[$idf] = [];
+				$res[$idf][] = ['dia'=>(int)$flds[3],
+						  'hora'=>(int)$flds[4],
+						  'minuto'=>(int)$flds[5],
+						  'codigo_agrupacion'=>(int)$flds[6],
+						  'votos_agrupacion'=>(int)$flds[7],
+						  'porc_final_agrupacion'=>(int)$flds[8], # sobre votos validos emitidos
+						  'cargos_electos'=>(int)$flds[9],
+						  ];
+
+				}
+
+			# $this->lg("Line " . trim($flds[2]));
+		  	foreach ($res as $idf => $values) {
+		  		$p = explode('_', $idf);
+		  		$distrito = $p[0];
+		  		$seccion = $p[1];
+		  		$eleccion = $p[2];
+		  		echo "<br />Totales lisas prov " . $distrito . " - seccion " . $seccion . " - eleccion " . $this->eleccion[$eleccion];
+		  		$f = 'totales_listas_' . $distrito . "_" . $seccion . "_" . $eleccion;
+				$this->write_json($values, $f . '.json');
+				
+		  		}
+			
+			}
+
+
+				
+
+		return $res;
+	}
+
+	# ---- TOTALES 
 	function totales_prov() {
-		$totales_prov=[]; # acumulando entre deptos
 		foreach ($this->provincias as $prov) {
 			$prov = ($prov < 10 ) ? $prov = "0" . $prov : (string)$prov;
 			$lines = $this->read_file($this->base_path_extras . '/totales_' . $prov . '.csv');
@@ -92,16 +139,8 @@ class Dine {
 				}
 			}
 
-		foreach ($totales_prov as $prov_eleccion => $values) {	
-			echo "<br />TOTALES " . $prov_eleccion;
-			$f = 'totales_' . $prov_eleccion;
-			$this->write_json($values, $f . '.json');
-			
-			}	
-		
 		return $res;
 	}
-
 	
 	# ---- LISTAS 
 	function get_listas() {
