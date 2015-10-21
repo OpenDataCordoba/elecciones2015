@@ -29,7 +29,7 @@ http://opendatacordoba.org/elecciones2015/api/json/totales_99_999_1.json
 #### Releer los totales de cada lista por provincia, seccion y eleccion  
 http://opendatacordoba.org/elecciones2015/api/?do=totales_listas  
 Esto genera un json con todas las listas en cada sección electoral.  
-Los resultados de Unquillo para diputados serían:  
+Los resultados de Colon/Cba para diputados serían:  
 http://opendatacordoba.org/elecciones2015/api/json/totales_listas_4_3_3.json  
 Los acumulados son con distrito en 99 y seccion 999, entonces:  
 Totales de Córdoba a senadores: http://opendatacordoba.org/elecciones2015/api/json/totales_listas_4_999_2.json  
