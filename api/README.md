@@ -1,6 +1,16 @@
 # PHP API
 
-Para leer los CSV de DINE+INDRA y sacar Json listos para usar.  
+# datos de las PASO 2015
+
+Totales nacionales por alianzas (sin los lemas):  
+http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-nacionales-Alinazas-sin-lemas.json
+
+Totales por provincia por alianza (sin lemas):  
+http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-por-provincia-Alinazas-sin-lemas.json
+
+
+
+Para leer los CSV de DINE+INDRA y sacar Json listos para usar en vivo.  
   
 #### Releer los totales generales de mesa por provincia, seccion y eleccion  
 http://opendatacordoba.org/elecciones2015/api/?do=totales_prov  
