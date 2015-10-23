@@ -1,0 +1,3362 @@
+[
+    {
+        "myid": 1,
+        "distrito": "01",
+        "subdiv": "001",
+        "subdiv_nombre": "Comuna 1"
+    },
+    {
+        "myid": 2,
+        "distrito": "01",
+        "subdiv": "002",
+        "subdiv_nombre": "Comuna 2"
+    },
+    {
+        "myid": 3,
+        "distrito": "01",
+        "subdiv": "003",
+        "subdiv_nombre": "Comuna 3"
+    },
+    {
+        "myid": 4,
+        "distrito": "01",
+        "subdiv": "004",
+        "subdiv_nombre": "Comuna 4"
+    },
+    {
+        "myid": 5,
+        "distrito": "01",
+        "subdiv": "005",
+        "subdiv_nombre": "Comuna 5"
+    },
+    {
+        "myid": 6,
+        "distrito": "01",
+        "subdiv": "006",
+        "subdiv_nombre": "Comuna 6"
+    },
+    {
+        "myid": 7,
+        "distrito": "01",
+        "subdiv": "007",
+        "subdiv_nombre": "Comuna 7"
+    },
+    {
+        "myid": 8,
+        "distrito": "01",
+        "subdiv": "008",
+        "subdiv_nombre": "Comuna 8"
+    },
+    {
+        "myid": 9,
+        "distrito": "01",
+        "subdiv": "009",
+        "subdiv_nombre": "Comuna 9"
+    },
+    {
+        "myid": 10,
+        "distrito": "01",
+        "subdiv": "010",
+        "subdiv_nombre": "Comuna 10"
+    },
+    {
+        "myid": 11,
+        "distrito": "01",
+        "subdiv": "011",
+        "subdiv_nombre": "Comuna 11"
+    },
+    {
+        "myid": 12,
+        "distrito": "01",
+        "subdiv": "012",
+        "subdiv_nombre": "Comuna 12"
+    },
+    {
+        "myid": 13,
+        "distrito": "01",
+        "subdiv": "013",
+        "subdiv_nombre": "Comuna 13"
+    },
+    {
+        "myid": 14,
+        "distrito": "01",
+        "subdiv": "014",
+        "subdiv_nombre": "Comuna 14"
+    },
+    {
+        "myid": 15,
+        "distrito": "01",
+        "subdiv": "015",
+        "subdiv_nombre": "Comuna 15"
+    },
+    {
+        "myid": 16,
+        "distrito": "01",
+        "subdiv": "999",
+        "subdiv_nombre": "Ciudad Aut\u00f3noma Bs.As."
+    },
+    {
+        "myid": 17,
+        "distrito": "02",
+        "subdiv": "001",
+        "subdiv_nombre": "Adolfo Alsina"
+    },
+    {
+        "myid": 18,
+        "distrito": "02",
+        "subdiv": "002",
+        "subdiv_nombre": "Alberti"
+    },
+    {
+        "myid": 19,
+        "distrito": "02",
+        "subdiv": "003",
+        "subdiv_nombre": "Almirante Brown"
+    },
+    {
+        "myid": 20,
+        "distrito": "02",
+        "subdiv": "004",
+        "subdiv_nombre": "Avellaneda"
+    },
+    {
+        "myid": 21,
+        "distrito": "02",
+        "subdiv": "005",
+        "subdiv_nombre": "Ayacucho"
+    },
+    {
+        "myid": 22,
+        "distrito": "02",
+        "subdiv": "006",
+        "subdiv_nombre": "Azul"
+    },
+    {
+        "myid": 23,
+        "distrito": "02",
+        "subdiv": "007",
+        "subdiv_nombre": "Bah\u00eda Blanca"
+    },
+    {
+        "myid": 24,
+        "distrito": "02",
+        "subdiv": "008",
+        "subdiv_nombre": "Balcarce"
+    },
+    {
+        "myid": 25,
+        "distrito": "02",
+        "subdiv": "009",
+        "subdiv_nombre": "Baradero"
+    },
+    {
+        "myid": 26,
+        "distrito": "02",
+        "subdiv": "010",
+        "subdiv_nombre": "Arrecifes"
+    },
+    {
+        "myid": 27,
+        "distrito": "02",
+        "subdiv": "011",
+        "subdiv_nombre": "Berazategui"
+    },
+    {
+        "myid": 28,
+        "distrito": "02",
+        "subdiv": "012",
+        "subdiv_nombre": "Berisso"
+    },
+    {
+        "myid": 29,
+        "distrito": "02",
+        "subdiv": "013",
+        "subdiv_nombre": "Bol\u00edvar"
+    },
+    {
+        "myid": 30,
+        "distrito": "02",
+        "subdiv": "014",
+        "subdiv_nombre": "Bragado"
+    },
+    {
+        "myid": 31,
+        "distrito": "02",
+        "subdiv": "015",
+        "subdiv_nombre": "Brandsen"
+    },
+    {
+        "myid": 32,
+        "distrito": "02",
+        "subdiv": "016",
+        "subdiv_nombre": "Campana"
+    },
+    {
+        "myid": 33,
+        "distrito": "02",
+        "subdiv": "017",
+        "subdiv_nombre": "Ca\u00f1uelas"
+    },
+    {
+        "myid": 34,
+        "distrito": "02",
+        "subdiv": "018",
+        "subdiv_nombre": "Capit\u00e1n Sarmiento"
+    },
+    {
+        "myid": 35,
+        "distrito": "02",
+        "subdiv": "019",
+        "subdiv_nombre": "Carlos Casares"
+    },
+    {
+        "myid": 36,
+        "distrito": "02",
+        "subdiv": "020",
+        "subdiv_nombre": "Carlos Tejedor"
+    },
+    {
+        "myid": 37,
+        "distrito": "02",
+        "subdiv": "021",
+        "subdiv_nombre": "Carmen de Areco"
+    },
+    {
+        "myid": 38,
+        "distrito": "02",
+        "subdiv": "022",
+        "subdiv_nombre": "Patagones"
+    },
+    {
+        "myid": 39,
+        "distrito": "02",
+        "subdiv": "023",
+        "subdiv_nombre": "Castelli"
+    },
+    {
+        "myid": 40,
+        "distrito": "02",
+        "subdiv": "024",
+        "subdiv_nombre": "Col\u00f3n"
+    },
+    {
+        "myid": 41,
+        "distrito": "02",
+        "subdiv": "025",
+        "subdiv_nombre": "Coronel Dorrego"
+    },
+    {
+        "myid": 42,
+        "distrito": "02",
+        "subdiv": "026",
+        "subdiv_nombre": "Coronel Pringles"
+    },
+    {
+        "myid": 43,
+        "distrito": "02",
+        "subdiv": "027",
+        "subdiv_nombre": "Coronel Rosales"
+    },
+    {
+        "myid": 44,
+        "distrito": "02",
+        "subdiv": "028",
+        "subdiv_nombre": "Coronel Su\u00e1rez"
+    },
+    {
+        "myid": 45,
+        "distrito": "02",
+        "subdiv": "029",
+        "subdiv_nombre": "Chacabuco"
+    },
+    {
+        "myid": 46,
+        "distrito": "02",
+        "subdiv": "030",
+        "subdiv_nombre": "Chascom\u00fas"
+    },
+    {
+        "myid": 47,
+        "distrito": "02",
+        "subdiv": "031",
+        "subdiv_nombre": "Chivilcoy"
+    },
+    {
+        "myid": 48,
+        "distrito": "02",
+        "subdiv": "032",
+        "subdiv_nombre": "Daireaux"
+    },
+    {
+        "myid": 49,
+        "distrito": "02",
+        "subdiv": "033",
+        "subdiv_nombre": "Dolores"
+    },
+    {
+        "myid": 50,
+        "distrito": "02",
+        "subdiv": "034",
+        "subdiv_nombre": "Ensenada"
+    },
+    {
+        "myid": 51,
+        "distrito": "02",
+        "subdiv": "035",
+        "subdiv_nombre": "Escobar"
+    },
+    {
+        "myid": 52,
+        "distrito": "02",
+        "subdiv": "036",
+        "subdiv_nombre": "Esteban Echeverr\u00eda"
+    },
+    {
+        "myid": 53,
+        "distrito": "02",
+        "subdiv": "037",
+        "subdiv_nombre": "Exaltaci\u00f3n de la Cruz"
+    },
+    {
+        "myid": 54,
+        "distrito": "02",
+        "subdiv": "038",
+        "subdiv_nombre": "Florencio Varela"
+    },
+    {
+        "myid": 55,
+        "distrito": "02",
+        "subdiv": "039",
+        "subdiv_nombre": "General Alvarado"
+    },
+    {
+        "myid": 56,
+        "distrito": "02",
+        "subdiv": "040",
+        "subdiv_nombre": "General Alvear"
+    },
+    {
+        "myid": 57,
+        "distrito": "02",
+        "subdiv": "041",
+        "subdiv_nombre": "General Arenales"
+    },
+    {
+        "myid": 58,
+        "distrito": "02",
+        "subdiv": "042",
+        "subdiv_nombre": "General Belgrano"
+    },
+    {
+        "myid": 59,
+        "distrito": "02",
+        "subdiv": "043",
+        "subdiv_nombre": "General Guido"
+    },
+    {
+        "myid": 60,
+        "distrito": "02",
+        "subdiv": "044",
+        "subdiv_nombre": "General Lamadrid"
+    },
+    {
+        "myid": 61,
+        "distrito": "02",
+        "subdiv": "045",
+        "subdiv_nombre": "Las Heras"
+    },
+    {
+        "myid": 62,
+        "distrito": "02",
+        "subdiv": "046",
+        "subdiv_nombre": "General Lavalle"
+    },
+    {
+        "myid": 63,
+        "distrito": "02",
+        "subdiv": "047",
+        "subdiv_nombre": "General Madariaga"
+    },
+    {
+        "myid": 64,
+        "distrito": "02",
+        "subdiv": "048",
+        "subdiv_nombre": "General Paz"
+    },
+    {
+        "myid": 65,
+        "distrito": "02",
+        "subdiv": "049",
+        "subdiv_nombre": "General Pinto"
+    },
+    {
+        "myid": 66,
+        "distrito": "02",
+        "subdiv": "050",
+        "subdiv_nombre": "General Pueyrred\u00f3n"
+    },
+    {
+        "myid": 67,
+        "distrito": "02",
+        "subdiv": "051",
+        "subdiv_nombre": "General Rodr\u00edguez"
+    },
+    {
+        "myid": 68,
+        "distrito": "02",
+        "subdiv": "052",
+        "subdiv_nombre": "General San Mart\u00edn"
+    },
+    {
+        "myid": 69,
+        "distrito": "02",
+        "subdiv": "053",
+        "subdiv_nombre": "San Miguel"
+    },
+    {
+        "myid": 70,
+        "distrito": "02",
+        "subdiv": "054",
+        "subdiv_nombre": "General Viamonte"
+    },
+    {
+        "myid": 71,
+        "distrito": "02",
+        "subdiv": "055",
+        "subdiv_nombre": "General Villegas"
+    },
+    {
+        "myid": 72,
+        "distrito": "02",
+        "subdiv": "056",
+        "subdiv_nombre": "Gonzales Chaves"
+    },
+    {
+        "myid": 73,
+        "distrito": "02",
+        "subdiv": "057",
+        "subdiv_nombre": "Guamini"
+    },
+    {
+        "myid": 74,
+        "distrito": "02",
+        "subdiv": "058",
+        "subdiv_nombre": "Hip\u00f3lito Yrigoyen"
+    },
+    {
+        "myid": 75,
+        "distrito": "02",
+        "subdiv": "059",
+        "subdiv_nombre": "Ju\u00e1rez"
+    },
+    {
+        "myid": 76,
+        "distrito": "02",
+        "subdiv": "060",
+        "subdiv_nombre": "Jun\u00edn"
+    },
+    {
+        "myid": 77,
+        "distrito": "02",
+        "subdiv": "061",
+        "subdiv_nombre": "Matanza"
+    },
+    {
+        "myid": 78,
+        "distrito": "02",
+        "subdiv": "062",
+        "subdiv_nombre": "Lan\u00fas"
+    },
+    {
+        "myid": 79,
+        "distrito": "02",
+        "subdiv": "063",
+        "subdiv_nombre": "La Plata"
+    },
+    {
+        "myid": 80,
+        "distrito": "02",
+        "subdiv": "064",
+        "subdiv_nombre": "Laprida"
+    },
+    {
+        "myid": 81,
+        "distrito": "02",
+        "subdiv": "065",
+        "subdiv_nombre": "Las Flores"
+    },
+    {
+        "myid": 82,
+        "distrito": "02",
+        "subdiv": "066",
+        "subdiv_nombre": "Leandro N. Alem"
+    },
+    {
+        "myid": 83,
+        "distrito": "02",
+        "subdiv": "067",
+        "subdiv_nombre": "Lincoln"
+    },
+    {
+        "myid": 84,
+        "distrito": "02",
+        "subdiv": "068",
+        "subdiv_nombre": "Loberia"
+    },
+    {
+        "myid": 85,
+        "distrito": "02",
+        "subdiv": "069",
+        "subdiv_nombre": "Lobos"
+    },
+    {
+        "myid": 86,
+        "distrito": "02",
+        "subdiv": "070",
+        "subdiv_nombre": "Lomas de Zamora"
+    },
+    {
+        "myid": 87,
+        "distrito": "02",
+        "subdiv": "071",
+        "subdiv_nombre": "Luj\u00e1n"
+    },
+    {
+        "myid": 88,
+        "distrito": "02",
+        "subdiv": "072",
+        "subdiv_nombre": "Magdalena"
+    },
+    {
+        "myid": 89,
+        "distrito": "02",
+        "subdiv": "073",
+        "subdiv_nombre": "Maip\u00fa"
+    },
+    {
+        "myid": 90,
+        "distrito": "02",
+        "subdiv": "074",
+        "subdiv_nombre": "Mar Chiquita"
+    },
+    {
+        "myid": 91,
+        "distrito": "02",
+        "subdiv": "075",
+        "subdiv_nombre": "Marcos Paz"
+    },
+    {
+        "myid": 92,
+        "distrito": "02",
+        "subdiv": "076",
+        "subdiv_nombre": "Mercedes"
+    },
+    {
+        "myid": 93,
+        "distrito": "02",
+        "subdiv": "077",
+        "subdiv_nombre": "Merlo"
+    },
+    {
+        "myid": 94,
+        "distrito": "02",
+        "subdiv": "078",
+        "subdiv_nombre": "Monte"
+    },
+    {
+        "myid": 95,
+        "distrito": "02",
+        "subdiv": "079",
+        "subdiv_nombre": "Moreno"
+    },
+    {
+        "myid": 96,
+        "distrito": "02",
+        "subdiv": "080",
+        "subdiv_nombre": "Mor\u00f3n"
+    },
+    {
+        "myid": 97,
+        "distrito": "02",
+        "subdiv": "081",
+        "subdiv_nombre": "Navarro"
+    },
+    {
+        "myid": 98,
+        "distrito": "02",
+        "subdiv": "082",
+        "subdiv_nombre": "Necochea"
+    },
+    {
+        "myid": 99,
+        "distrito": "02",
+        "subdiv": "083",
+        "subdiv_nombre": "Nueve de Julio"
+    },
+    {
+        "myid": 100,
+        "distrito": "02",
+        "subdiv": "084",
+        "subdiv_nombre": "Olavarr\u00eda"
+    },
+    {
+        "myid": 101,
+        "distrito": "02",
+        "subdiv": "085",
+        "subdiv_nombre": "Pehuaj\u00f3"
+    },
+    {
+        "myid": 102,
+        "distrito": "02",
+        "subdiv": "086",
+        "subdiv_nombre": "Pellegrini"
+    },
+    {
+        "myid": 103,
+        "distrito": "02",
+        "subdiv": "087",
+        "subdiv_nombre": "Pergamino"
+    },
+    {
+        "myid": 104,
+        "distrito": "02",
+        "subdiv": "088",
+        "subdiv_nombre": "Pila"
+    },
+    {
+        "myid": 105,
+        "distrito": "02",
+        "subdiv": "089",
+        "subdiv_nombre": "Pilar"
+    },
+    {
+        "myid": 106,
+        "distrito": "02",
+        "subdiv": "090",
+        "subdiv_nombre": "Pinamar"
+    },
+    {
+        "myid": 107,
+        "distrito": "02",
+        "subdiv": "091",
+        "subdiv_nombre": "Puan"
+    },
+    {
+        "myid": 108,
+        "distrito": "02",
+        "subdiv": "092",
+        "subdiv_nombre": "Quilmes"
+    },
+    {
+        "myid": 109,
+        "distrito": "02",
+        "subdiv": "093",
+        "subdiv_nombre": "Ramallo"
+    },
+    {
+        "myid": 110,
+        "distrito": "02",
+        "subdiv": "094",
+        "subdiv_nombre": "Rauch"
+    },
+    {
+        "myid": 111,
+        "distrito": "02",
+        "subdiv": "095",
+        "subdiv_nombre": "Rivadavia"
+    },
+    {
+        "myid": 112,
+        "distrito": "02",
+        "subdiv": "096",
+        "subdiv_nombre": "Rojas"
+    },
+    {
+        "myid": 113,
+        "distrito": "02",
+        "subdiv": "097",
+        "subdiv_nombre": "Roque P\u00e9rez"
+    },
+    {
+        "myid": 114,
+        "distrito": "02",
+        "subdiv": "098",
+        "subdiv_nombre": "Saavedra"
+    },
+    {
+        "myid": 115,
+        "distrito": "02",
+        "subdiv": "099",
+        "subdiv_nombre": "Saladillo"
+    },
+    {
+        "myid": 116,
+        "distrito": "02",
+        "subdiv": "100",
+        "subdiv_nombre": "Salliquel\u00f3"
+    },
+    {
+        "myid": 117,
+        "distrito": "02",
+        "subdiv": "101",
+        "subdiv_nombre": "Salto"
+    },
+    {
+        "myid": 118,
+        "distrito": "02",
+        "subdiv": "102",
+        "subdiv_nombre": "San Andr\u00e9s de Giles"
+    },
+    {
+        "myid": 119,
+        "distrito": "02",
+        "subdiv": "103",
+        "subdiv_nombre": "San Antonio de Areco"
+    },
+    {
+        "myid": 120,
+        "distrito": "02",
+        "subdiv": "104",
+        "subdiv_nombre": "San Cayetano"
+    },
+    {
+        "myid": 121,
+        "distrito": "02",
+        "subdiv": "105",
+        "subdiv_nombre": "San Fernando"
+    },
+    {
+        "myid": 122,
+        "distrito": "02",
+        "subdiv": "106",
+        "subdiv_nombre": "San Isidro"
+    },
+    {
+        "myid": 123,
+        "distrito": "02",
+        "subdiv": "107",
+        "subdiv_nombre": "San Nicol\u00e1s"
+    },
+    {
+        "myid": 124,
+        "distrito": "02",
+        "subdiv": "108",
+        "subdiv_nombre": "San Pedro"
+    },
+    {
+        "myid": 125,
+        "distrito": "02",
+        "subdiv": "109",
+        "subdiv_nombre": "San Vicente"
+    },
+    {
+        "myid": 126,
+        "distrito": "02",
+        "subdiv": "110",
+        "subdiv_nombre": "Suipacha"
+    },
+    {
+        "myid": 127,
+        "distrito": "02",
+        "subdiv": "111",
+        "subdiv_nombre": "Tandil"
+    },
+    {
+        "myid": 128,
+        "distrito": "02",
+        "subdiv": "112",
+        "subdiv_nombre": "Tapalqu\u00e9"
+    },
+    {
+        "myid": 129,
+        "distrito": "02",
+        "subdiv": "113",
+        "subdiv_nombre": "Tigre"
+    },
+    {
+        "myid": 130,
+        "distrito": "02",
+        "subdiv": "114",
+        "subdiv_nombre": "Tornquist"
+    },
+    {
+        "myid": 131,
+        "distrito": "02",
+        "subdiv": "115",
+        "subdiv_nombre": "Trenque Lauqu\u00e9n"
+    },
+    {
+        "myid": 132,
+        "distrito": "02",
+        "subdiv": "116",
+        "subdiv_nombre": "Tordillo"
+    },
+    {
+        "myid": 133,
+        "distrito": "02",
+        "subdiv": "117",
+        "subdiv_nombre": "Tres Arroyos"
+    },
+    {
+        "myid": 134,
+        "distrito": "02",
+        "subdiv": "118",
+        "subdiv_nombre": "Tres de Febrero"
+    },
+    {
+        "myid": 135,
+        "distrito": "02",
+        "subdiv": "119",
+        "subdiv_nombre": "La Costa"
+    },
+    {
+        "myid": 136,
+        "distrito": "02",
+        "subdiv": "120",
+        "subdiv_nombre": "Monte Hermoso"
+    },
+    {
+        "myid": 137,
+        "distrito": "02",
+        "subdiv": "121",
+        "subdiv_nombre": "Veinticinco de Mayo"
+    },
+    {
+        "myid": 138,
+        "distrito": "02",
+        "subdiv": "122",
+        "subdiv_nombre": "Vicente L\u00f3pez"
+    },
+    {
+        "myid": 139,
+        "distrito": "02",
+        "subdiv": "123",
+        "subdiv_nombre": "Villa Gesell"
+    },
+    {
+        "myid": 140,
+        "distrito": "02",
+        "subdiv": "124",
+        "subdiv_nombre": "Villarino"
+    },
+    {
+        "myid": 141,
+        "distrito": "02",
+        "subdiv": "125",
+        "subdiv_nombre": "Z\u00e1rate"
+    },
+    {
+        "myid": 142,
+        "distrito": "02",
+        "subdiv": "126",
+        "subdiv_nombre": "Tres Lomas"
+    },
+    {
+        "myid": 143,
+        "distrito": "02",
+        "subdiv": "127",
+        "subdiv_nombre": "F. Ameghino"
+    },
+    {
+        "myid": 144,
+        "distrito": "02",
+        "subdiv": "128",
+        "subdiv_nombre": "Presidente Per\u00f3n"
+    },
+    {
+        "myid": 145,
+        "distrito": "02",
+        "subdiv": "129",
+        "subdiv_nombre": "J. C. Paz"
+    },
+    {
+        "myid": 146,
+        "distrito": "02",
+        "subdiv": "130",
+        "subdiv_nombre": "Malvinas Argentinas"
+    },
+    {
+        "myid": 147,
+        "distrito": "02",
+        "subdiv": "131",
+        "subdiv_nombre": "Punta Indio"
+    },
+    {
+        "myid": 148,
+        "distrito": "02",
+        "subdiv": "132",
+        "subdiv_nombre": "Ezeiza"
+    },
+    {
+        "myid": 149,
+        "distrito": "02",
+        "subdiv": "133",
+        "subdiv_nombre": "Ituzaingo"
+    },
+    {
+        "myid": 150,
+        "distrito": "02",
+        "subdiv": "134",
+        "subdiv_nombre": "Hurlingham"
+    },
+    {
+        "myid": 151,
+        "distrito": "02",
+        "subdiv": "135",
+        "subdiv_nombre": "Lezama"
+    },
+    {
+        "myid": 152,
+        "distrito": "02",
+        "subdiv": "991",
+        "subdiv_nombre": "Secci\u00f3n Primera"
+    },
+    {
+        "myid": 153,
+        "distrito": "02",
+        "subdiv": "992",
+        "subdiv_nombre": "Secci\u00f3n Segunda"
+    },
+    {
+        "myid": 154,
+        "distrito": "02",
+        "subdiv": "993",
+        "subdiv_nombre": "Secci\u00f3n Tercera"
+    },
+    {
+        "myid": 155,
+        "distrito": "02",
+        "subdiv": "994",
+        "subdiv_nombre": "Secci\u00f3n Cuarta"
+    },
+    {
+        "myid": 156,
+        "distrito": "02",
+        "subdiv": "995",
+        "subdiv_nombre": "Secci\u00f3n Quinta"
+    },
+    {
+        "myid": 157,
+        "distrito": "02",
+        "subdiv": "996",
+        "subdiv_nombre": "Secci\u00f3n Sexta"
+    },
+    {
+        "myid": 158,
+        "distrito": "02",
+        "subdiv": "997",
+        "subdiv_nombre": "Secci\u00f3n S\u00e9ptima"
+    },
+    {
+        "myid": 159,
+        "distrito": "02",
+        "subdiv": "998",
+        "subdiv_nombre": "Secci\u00f3n Capital"
+    },
+    {
+        "myid": 160,
+        "distrito": "02",
+        "subdiv": "999",
+        "subdiv_nombre": "Buenos Aires"
+    },
+    {
+        "myid": 161,
+        "distrito": "03",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 162,
+        "distrito": "03",
+        "subdiv": "002",
+        "subdiv_nombre": "Capayan"
+    },
+    {
+        "myid": 163,
+        "distrito": "03",
+        "subdiv": "003",
+        "subdiv_nombre": "La Paz"
+    },
+    {
+        "myid": 164,
+        "distrito": "03",
+        "subdiv": "004",
+        "subdiv_nombre": "Ancasti"
+    },
+    {
+        "myid": 165,
+        "distrito": "03",
+        "subdiv": "005",
+        "subdiv_nombre": "El Alto"
+    },
+    {
+        "myid": 166,
+        "distrito": "03",
+        "subdiv": "006",
+        "subdiv_nombre": "Santa Rosa"
+    },
+    {
+        "myid": 167,
+        "distrito": "03",
+        "subdiv": "007",
+        "subdiv_nombre": "Paclin"
+    },
+    {
+        "myid": 168,
+        "distrito": "03",
+        "subdiv": "008",
+        "subdiv_nombre": "Valle Viejo"
+    },
+    {
+        "myid": 169,
+        "distrito": "03",
+        "subdiv": "009",
+        "subdiv_nombre": "Fray Mamerto Esqui\u00fa"
+    },
+    {
+        "myid": 170,
+        "distrito": "03",
+        "subdiv": "010",
+        "subdiv_nombre": "Ambato"
+    },
+    {
+        "myid": 171,
+        "distrito": "03",
+        "subdiv": "011",
+        "subdiv_nombre": "Pom\u00e1n"
+    },
+    {
+        "myid": 172,
+        "distrito": "03",
+        "subdiv": "012",
+        "subdiv_nombre": "Andalgal\u00e1"
+    },
+    {
+        "myid": 173,
+        "distrito": "03",
+        "subdiv": "013",
+        "subdiv_nombre": "Bel\u00e9n"
+    },
+    {
+        "myid": 174,
+        "distrito": "03",
+        "subdiv": "014",
+        "subdiv_nombre": "Antofagasta de la Sierra"
+    },
+    {
+        "myid": 175,
+        "distrito": "03",
+        "subdiv": "015",
+        "subdiv_nombre": "Tinogasta"
+    },
+    {
+        "myid": 176,
+        "distrito": "03",
+        "subdiv": "016",
+        "subdiv_nombre": "Santa Mar\u00eda"
+    },
+    {
+        "myid": 177,
+        "distrito": "03",
+        "subdiv": "999",
+        "subdiv_nombre": "Catamarca"
+    },
+    {
+        "myid": 178,
+        "distrito": "04",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 179,
+        "distrito": "04",
+        "subdiv": "002",
+        "subdiv_nombre": "Calamuchita"
+    },
+    {
+        "myid": 180,
+        "distrito": "04",
+        "subdiv": "003",
+        "subdiv_nombre": "Col\u00f3n"
+    },
+    {
+        "myid": 181,
+        "distrito": "04",
+        "subdiv": "004",
+        "subdiv_nombre": "Cruz del Eje"
+    },
+    {
+        "myid": 182,
+        "distrito": "04",
+        "subdiv": "005",
+        "subdiv_nombre": "General Roca"
+    },
+    {
+        "myid": 183,
+        "distrito": "04",
+        "subdiv": "006",
+        "subdiv_nombre": "General San Mart\u00edn"
+    },
+    {
+        "myid": 184,
+        "distrito": "04",
+        "subdiv": "007",
+        "subdiv_nombre": "Ischilin"
+    },
+    {
+        "myid": 185,
+        "distrito": "04",
+        "subdiv": "008",
+        "subdiv_nombre": "Ju\u00e1rez Celman"
+    },
+    {
+        "myid": 186,
+        "distrito": "04",
+        "subdiv": "009",
+        "subdiv_nombre": "Marcos Ju\u00e1rez"
+    },
+    {
+        "myid": 187,
+        "distrito": "04",
+        "subdiv": "010",
+        "subdiv_nombre": "Minas"
+    },
+    {
+        "myid": 188,
+        "distrito": "04",
+        "subdiv": "011",
+        "subdiv_nombre": "Pocho"
+    },
+    {
+        "myid": 189,
+        "distrito": "04",
+        "subdiv": "012",
+        "subdiv_nombre": "Punilla"
+    },
+    {
+        "myid": 190,
+        "distrito": "04",
+        "subdiv": "013",
+        "subdiv_nombre": "R\u00edo Cuarto"
+    },
+    {
+        "myid": 191,
+        "distrito": "04",
+        "subdiv": "014",
+        "subdiv_nombre": "R\u00edo Primero"
+    },
+    {
+        "myid": 192,
+        "distrito": "04",
+        "subdiv": "015",
+        "subdiv_nombre": "R\u00edo Seco"
+    },
+    {
+        "myid": 193,
+        "distrito": "04",
+        "subdiv": "016",
+        "subdiv_nombre": "R\u00edo Segundo"
+    },
+    {
+        "myid": 194,
+        "distrito": "04",
+        "subdiv": "017",
+        "subdiv_nombre": "Roque S\u00e1enz Pe\u00f1a"
+    },
+    {
+        "myid": 195,
+        "distrito": "04",
+        "subdiv": "018",
+        "subdiv_nombre": "San Alberto"
+    },
+    {
+        "myid": 196,
+        "distrito": "04",
+        "subdiv": "019",
+        "subdiv_nombre": "San Javier"
+    },
+    {
+        "myid": 197,
+        "distrito": "04",
+        "subdiv": "020",
+        "subdiv_nombre": "San Justo"
+    },
+    {
+        "myid": 198,
+        "distrito": "04",
+        "subdiv": "021",
+        "subdiv_nombre": "Santa Mar\u00eda"
+    },
+    {
+        "myid": 199,
+        "distrito": "04",
+        "subdiv": "022",
+        "subdiv_nombre": "Sobremonte"
+    },
+    {
+        "myid": 200,
+        "distrito": "04",
+        "subdiv": "023",
+        "subdiv_nombre": "Tercero Arriba"
+    },
+    {
+        "myid": 201,
+        "distrito": "04",
+        "subdiv": "024",
+        "subdiv_nombre": "Totoral"
+    },
+    {
+        "myid": 202,
+        "distrito": "04",
+        "subdiv": "025",
+        "subdiv_nombre": "Tulumba"
+    },
+    {
+        "myid": 203,
+        "distrito": "04",
+        "subdiv": "026",
+        "subdiv_nombre": "Uni\u00f3n"
+    },
+    {
+        "myid": 204,
+        "distrito": "04",
+        "subdiv": "999",
+        "subdiv_nombre": "C\u00f3rdoba"
+    },
+    {
+        "myid": 205,
+        "distrito": "05",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 206,
+        "distrito": "05",
+        "subdiv": "002",
+        "subdiv_nombre": "Goya"
+    },
+    {
+        "myid": 207,
+        "distrito": "05",
+        "subdiv": "003",
+        "subdiv_nombre": "Curuz\u00fa Cuati\u00e1"
+    },
+    {
+        "myid": 208,
+        "distrito": "05",
+        "subdiv": "004",
+        "subdiv_nombre": "Mercedes"
+    },
+    {
+        "myid": 209,
+        "distrito": "05",
+        "subdiv": "005",
+        "subdiv_nombre": "Esquina"
+    },
+    {
+        "myid": 210,
+        "distrito": "05",
+        "subdiv": "006",
+        "subdiv_nombre": "Lavalle"
+    },
+    {
+        "myid": 211,
+        "distrito": "05",
+        "subdiv": "007",
+        "subdiv_nombre": "Santo Tom\u00e9"
+    },
+    {
+        "myid": 212,
+        "distrito": "05",
+        "subdiv": "008",
+        "subdiv_nombre": "Paso de los Libres"
+    },
+    {
+        "myid": 213,
+        "distrito": "05",
+        "subdiv": "009",
+        "subdiv_nombre": "Monte Caseros"
+    },
+    {
+        "myid": 214,
+        "distrito": "05",
+        "subdiv": "010",
+        "subdiv_nombre": "San Luis del Palmar"
+    },
+    {
+        "myid": 215,
+        "distrito": "05",
+        "subdiv": "011",
+        "subdiv_nombre": "Bella Vista"
+    },
+    {
+        "myid": 216,
+        "distrito": "05",
+        "subdiv": "012",
+        "subdiv_nombre": "Empedrado"
+    },
+    {
+        "myid": 217,
+        "distrito": "05",
+        "subdiv": "013",
+        "subdiv_nombre": "San Roque"
+    },
+    {
+        "myid": 218,
+        "distrito": "05",
+        "subdiv": "014",
+        "subdiv_nombre": "General Paz"
+    },
+    {
+        "myid": 219,
+        "distrito": "05",
+        "subdiv": "015",
+        "subdiv_nombre": "Saladas"
+    },
+    {
+        "myid": 220,
+        "distrito": "05",
+        "subdiv": "016",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 221,
+        "distrito": "05",
+        "subdiv": "017",
+        "subdiv_nombre": "Concepci\u00f3n"
+    },
+    {
+        "myid": 222,
+        "distrito": "05",
+        "subdiv": "018",
+        "subdiv_nombre": "Mburucuya"
+    },
+    {
+        "myid": 223,
+        "distrito": "05",
+        "subdiv": "019",
+        "subdiv_nombre": "Ituzaingo"
+    },
+    {
+        "myid": 224,
+        "distrito": "05",
+        "subdiv": "020",
+        "subdiv_nombre": "Sauce"
+    },
+    {
+        "myid": 225,
+        "distrito": "05",
+        "subdiv": "021",
+        "subdiv_nombre": "San Cosme"
+    },
+    {
+        "myid": 226,
+        "distrito": "05",
+        "subdiv": "022",
+        "subdiv_nombre": "General Alvear"
+    },
+    {
+        "myid": 227,
+        "distrito": "05",
+        "subdiv": "023",
+        "subdiv_nombre": "San Miguel"
+    },
+    {
+        "myid": 228,
+        "distrito": "05",
+        "subdiv": "024",
+        "subdiv_nombre": "Itati"
+    },
+    {
+        "myid": 229,
+        "distrito": "05",
+        "subdiv": "025",
+        "subdiv_nombre": "Ber\u00f3n de Astrada"
+    },
+    {
+        "myid": 230,
+        "distrito": "05",
+        "subdiv": "999",
+        "subdiv_nombre": "Corrientes"
+    },
+    {
+        "myid": 231,
+        "distrito": "06",
+        "subdiv": "001",
+        "subdiv_nombre": "San Fernando"
+    },
+    {
+        "myid": 232,
+        "distrito": "06",
+        "subdiv": "002",
+        "subdiv_nombre": "Primero de Mayo"
+    },
+    {
+        "myid": 233,
+        "distrito": "06",
+        "subdiv": "003",
+        "subdiv_nombre": "Libertad"
+    },
+    {
+        "myid": 234,
+        "distrito": "06",
+        "subdiv": "004",
+        "subdiv_nombre": "General Donovan"
+    },
+    {
+        "myid": 235,
+        "distrito": "06",
+        "subdiv": "005",
+        "subdiv_nombre": "Sargento Cabral"
+    },
+    {
+        "myid": 236,
+        "distrito": "06",
+        "subdiv": "006",
+        "subdiv_nombre": "Pcia. de la Plaza"
+    },
+    {
+        "myid": 237,
+        "distrito": "06",
+        "subdiv": "007",
+        "subdiv_nombre": "Bermejo"
+    },
+    {
+        "myid": 238,
+        "distrito": "06",
+        "subdiv": "008",
+        "subdiv_nombre": "Lib. Gral. San Mart\u00edn"
+    },
+    {
+        "myid": 239,
+        "distrito": "06",
+        "subdiv": "009",
+        "subdiv_nombre": "Tapenaga"
+    },
+    {
+        "myid": 240,
+        "distrito": "06",
+        "subdiv": "010",
+        "subdiv_nombre": "San Lorenzo"
+    },
+    {
+        "myid": 241,
+        "distrito": "06",
+        "subdiv": "011",
+        "subdiv_nombre": "Mayor L. J. Fontana"
+    },
+    {
+        "myid": 242,
+        "distrito": "06",
+        "subdiv": "012",
+        "subdiv_nombre": "O'higgins"
+    },
+    {
+        "myid": 243,
+        "distrito": "06",
+        "subdiv": "013",
+        "subdiv_nombre": "Comandante Fern\u00e1ndez"
+    },
+    {
+        "myid": 244,
+        "distrito": "06",
+        "subdiv": "014",
+        "subdiv_nombre": "Quitilipi"
+    },
+    {
+        "myid": 245,
+        "distrito": "06",
+        "subdiv": "015",
+        "subdiv_nombre": "25 de Mayo"
+    },
+    {
+        "myid": 246,
+        "distrito": "06",
+        "subdiv": "016",
+        "subdiv_nombre": "Maip\u00fa"
+    },
+    {
+        "myid": 247,
+        "distrito": "06",
+        "subdiv": "017",
+        "subdiv_nombre": "Independencia"
+    },
+    {
+        "myid": 248,
+        "distrito": "06",
+        "subdiv": "018",
+        "subdiv_nombre": "General Belgrano"
+    },
+    {
+        "myid": 249,
+        "distrito": "06",
+        "subdiv": "019",
+        "subdiv_nombre": "9 de Julio"
+    },
+    {
+        "myid": 250,
+        "distrito": "06",
+        "subdiv": "020",
+        "subdiv_nombre": "Chacabuco"
+    },
+    {
+        "myid": 251,
+        "distrito": "06",
+        "subdiv": "021",
+        "subdiv_nombre": "12 de Octubre"
+    },
+    {
+        "myid": 252,
+        "distrito": "06",
+        "subdiv": "022",
+        "subdiv_nombre": "2 de Abril"
+    },
+    {
+        "myid": 253,
+        "distrito": "06",
+        "subdiv": "023",
+        "subdiv_nombre": "Fray J. Sta. Mar\u00eda de Oro"
+    },
+    {
+        "myid": 254,
+        "distrito": "06",
+        "subdiv": "024",
+        "subdiv_nombre": "Almirante Brown"
+    },
+    {
+        "myid": 255,
+        "distrito": "06",
+        "subdiv": "025",
+        "subdiv_nombre": "General G\u00fcemes"
+    },
+    {
+        "myid": 256,
+        "distrito": "06",
+        "subdiv": "999",
+        "subdiv_nombre": "Chaco"
+    },
+    {
+        "myid": 257,
+        "distrito": "07",
+        "subdiv": "001",
+        "subdiv_nombre": "Rawson"
+    },
+    {
+        "myid": 258,
+        "distrito": "07",
+        "subdiv": "002",
+        "subdiv_nombre": "Biedma"
+    },
+    {
+        "myid": 259,
+        "distrito": "07",
+        "subdiv": "003",
+        "subdiv_nombre": "Telsen"
+    },
+    {
+        "myid": 260,
+        "distrito": "07",
+        "subdiv": "004",
+        "subdiv_nombre": "Gastre"
+    },
+    {
+        "myid": 261,
+        "distrito": "07",
+        "subdiv": "005",
+        "subdiv_nombre": "Cushamen"
+    },
+    {
+        "myid": 262,
+        "distrito": "07",
+        "subdiv": "006",
+        "subdiv_nombre": "Futaleuf\u00fa"
+    },
+    {
+        "myid": 263,
+        "distrito": "07",
+        "subdiv": "007",
+        "subdiv_nombre": "Langui\u00f1eo"
+    },
+    {
+        "myid": 264,
+        "distrito": "07",
+        "subdiv": "008",
+        "subdiv_nombre": "Tehuelches"
+    },
+    {
+        "myid": 265,
+        "distrito": "07",
+        "subdiv": "009",
+        "subdiv_nombre": "Paso de Indios"
+    },
+    {
+        "myid": 266,
+        "distrito": "07",
+        "subdiv": "010",
+        "subdiv_nombre": "M\u00e1rtires"
+    },
+    {
+        "myid": 267,
+        "distrito": "07",
+        "subdiv": "011",
+        "subdiv_nombre": "F. Ameghino"
+    },
+    {
+        "myid": 268,
+        "distrito": "07",
+        "subdiv": "012",
+        "subdiv_nombre": "Gaiman"
+    },
+    {
+        "myid": 269,
+        "distrito": "07",
+        "subdiv": "013",
+        "subdiv_nombre": "R\u00edo Senguer"
+    },
+    {
+        "myid": 270,
+        "distrito": "07",
+        "subdiv": "014",
+        "subdiv_nombre": "Sarmiento"
+    },
+    {
+        "myid": 271,
+        "distrito": "07",
+        "subdiv": "015",
+        "subdiv_nombre": "Escalante"
+    },
+    {
+        "myid": 272,
+        "distrito": "07",
+        "subdiv": "999",
+        "subdiv_nombre": "Chubut"
+    },
+    {
+        "myid": 273,
+        "distrito": "08",
+        "subdiv": "001",
+        "subdiv_nombre": "Paran\u00e1"
+    },
+    {
+        "myid": 274,
+        "distrito": "08",
+        "subdiv": "003",
+        "subdiv_nombre": "La Paz"
+    },
+    {
+        "myid": 275,
+        "distrito": "08",
+        "subdiv": "004",
+        "subdiv_nombre": "Diamante"
+    },
+    {
+        "myid": 276,
+        "distrito": "08",
+        "subdiv": "005",
+        "subdiv_nombre": "Victoria"
+    },
+    {
+        "myid": 277,
+        "distrito": "08",
+        "subdiv": "006",
+        "subdiv_nombre": "Nogoy\u00e1"
+    },
+    {
+        "myid": 278,
+        "distrito": "08",
+        "subdiv": "007",
+        "subdiv_nombre": "Gualeguay"
+    },
+    {
+        "myid": 279,
+        "distrito": "08",
+        "subdiv": "008",
+        "subdiv_nombre": "Tala"
+    },
+    {
+        "myid": 280,
+        "distrito": "08",
+        "subdiv": "009",
+        "subdiv_nombre": "Uruguay"
+    },
+    {
+        "myid": 281,
+        "distrito": "08",
+        "subdiv": "010",
+        "subdiv_nombre": "Gualeguaych\u00fa"
+    },
+    {
+        "myid": 282,
+        "distrito": "08",
+        "subdiv": "011",
+        "subdiv_nombre": "Islas del Ibicuy"
+    },
+    {
+        "myid": 283,
+        "distrito": "08",
+        "subdiv": "012",
+        "subdiv_nombre": "Villaguay"
+    },
+    {
+        "myid": 284,
+        "distrito": "08",
+        "subdiv": "013",
+        "subdiv_nombre": "Concordia"
+    },
+    {
+        "myid": 285,
+        "distrito": "08",
+        "subdiv": "014",
+        "subdiv_nombre": "Federal"
+    },
+    {
+        "myid": 286,
+        "distrito": "08",
+        "subdiv": "015",
+        "subdiv_nombre": "Col\u00f3n"
+    },
+    {
+        "myid": 287,
+        "distrito": "08",
+        "subdiv": "016",
+        "subdiv_nombre": "Feliciano"
+    },
+    {
+        "myid": 288,
+        "distrito": "08",
+        "subdiv": "017",
+        "subdiv_nombre": "Federaci\u00f3n"
+    },
+    {
+        "myid": 289,
+        "distrito": "08",
+        "subdiv": "018",
+        "subdiv_nombre": "San Salvador"
+    },
+    {
+        "myid": 290,
+        "distrito": "08",
+        "subdiv": "999",
+        "subdiv_nombre": "Entre R\u00edos"
+    },
+    {
+        "myid": 291,
+        "distrito": "09",
+        "subdiv": "001",
+        "subdiv_nombre": "Formosa"
+    },
+    {
+        "myid": 292,
+        "distrito": "09",
+        "subdiv": "002",
+        "subdiv_nombre": "Laishi"
+    },
+    {
+        "myid": 293,
+        "distrito": "09",
+        "subdiv": "003",
+        "subdiv_nombre": "Pilcomayo"
+    },
+    {
+        "myid": 294,
+        "distrito": "09",
+        "subdiv": "004",
+        "subdiv_nombre": "Piran\u00e9"
+    },
+    {
+        "myid": 295,
+        "distrito": "09",
+        "subdiv": "005",
+        "subdiv_nombre": "Pilagas"
+    },
+    {
+        "myid": 296,
+        "distrito": "09",
+        "subdiv": "006",
+        "subdiv_nombre": "Pati\u00f1o"
+    },
+    {
+        "myid": 297,
+        "distrito": "09",
+        "subdiv": "007",
+        "subdiv_nombre": "Bermejo"
+    },
+    {
+        "myid": 298,
+        "distrito": "09",
+        "subdiv": "008",
+        "subdiv_nombre": "Matacos"
+    },
+    {
+        "myid": 299,
+        "distrito": "09",
+        "subdiv": "009",
+        "subdiv_nombre": "Ram\u00f3n Lista"
+    },
+    {
+        "myid": 300,
+        "distrito": "09",
+        "subdiv": "999",
+        "subdiv_nombre": "Formosa"
+    },
+    {
+        "myid": 301,
+        "distrito": "10",
+        "subdiv": "001",
+        "subdiv_nombre": "General Belgrano"
+    },
+    {
+        "myid": 302,
+        "distrito": "10",
+        "subdiv": "002",
+        "subdiv_nombre": "Palpal\u00e1"
+    },
+    {
+        "myid": 303,
+        "distrito": "10",
+        "subdiv": "003",
+        "subdiv_nombre": "San Antonio"
+    },
+    {
+        "myid": 304,
+        "distrito": "10",
+        "subdiv": "004",
+        "subdiv_nombre": "El Carmen"
+    },
+    {
+        "myid": 305,
+        "distrito": "10",
+        "subdiv": "005",
+        "subdiv_nombre": "San Pedro"
+    },
+    {
+        "myid": 306,
+        "distrito": "10",
+        "subdiv": "006",
+        "subdiv_nombre": "Santa B\u00e1rbara"
+    },
+    {
+        "myid": 307,
+        "distrito": "10",
+        "subdiv": "007",
+        "subdiv_nombre": "Ledesma"
+    },
+    {
+        "myid": 308,
+        "distrito": "10",
+        "subdiv": "008",
+        "subdiv_nombre": "Valle Grande"
+    },
+    {
+        "myid": 309,
+        "distrito": "10",
+        "subdiv": "009",
+        "subdiv_nombre": "Tumbaya"
+    },
+    {
+        "myid": 310,
+        "distrito": "10",
+        "subdiv": "010",
+        "subdiv_nombre": "Tilcara"
+    },
+    {
+        "myid": 311,
+        "distrito": "10",
+        "subdiv": "011",
+        "subdiv_nombre": "Humahuaca"
+    },
+    {
+        "myid": 312,
+        "distrito": "10",
+        "subdiv": "012",
+        "subdiv_nombre": "Cochinoca"
+    },
+    {
+        "myid": 313,
+        "distrito": "10",
+        "subdiv": "013",
+        "subdiv_nombre": "Rinconada"
+    },
+    {
+        "myid": 314,
+        "distrito": "10",
+        "subdiv": "014",
+        "subdiv_nombre": "Santa Catalina"
+    },
+    {
+        "myid": 315,
+        "distrito": "10",
+        "subdiv": "015",
+        "subdiv_nombre": "Yavi"
+    },
+    {
+        "myid": 316,
+        "distrito": "10",
+        "subdiv": "016",
+        "subdiv_nombre": "Susques"
+    },
+    {
+        "myid": 317,
+        "distrito": "10",
+        "subdiv": "999",
+        "subdiv_nombre": "Jujuy"
+    },
+    {
+        "myid": 318,
+        "distrito": "11",
+        "subdiv": "001",
+        "subdiv_nombre": "Atreuco"
+    },
+    {
+        "myid": 319,
+        "distrito": "11",
+        "subdiv": "002",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 320,
+        "distrito": "11",
+        "subdiv": "003",
+        "subdiv_nombre": "Caleu Caleu"
+    },
+    {
+        "myid": 321,
+        "distrito": "11",
+        "subdiv": "004",
+        "subdiv_nombre": "Catril\u00f3"
+    },
+    {
+        "myid": 322,
+        "distrito": "11",
+        "subdiv": "005",
+        "subdiv_nombre": "Chalileo"
+    },
+    {
+        "myid": 323,
+        "distrito": "11",
+        "subdiv": "006",
+        "subdiv_nombre": "Chapaleufu"
+    },
+    {
+        "myid": 324,
+        "distrito": "11",
+        "subdiv": "007",
+        "subdiv_nombre": "Chical-co"
+    },
+    {
+        "myid": 325,
+        "distrito": "11",
+        "subdiv": "008",
+        "subdiv_nombre": "Conhelo"
+    },
+    {
+        "myid": 326,
+        "distrito": "11",
+        "subdiv": "009",
+        "subdiv_nombre": "Curaco"
+    },
+    {
+        "myid": 327,
+        "distrito": "11",
+        "subdiv": "010",
+        "subdiv_nombre": "Guatrache"
+    },
+    {
+        "myid": 328,
+        "distrito": "11",
+        "subdiv": "011",
+        "subdiv_nombre": "Hucal"
+    },
+    {
+        "myid": 329,
+        "distrito": "11",
+        "subdiv": "012",
+        "subdiv_nombre": "Loventue"
+    },
+    {
+        "myid": 330,
+        "distrito": "11",
+        "subdiv": "013",
+        "subdiv_nombre": "Lihuel Calel"
+    },
+    {
+        "myid": 331,
+        "distrito": "11",
+        "subdiv": "014",
+        "subdiv_nombre": "Limay Mahuida"
+    },
+    {
+        "myid": 332,
+        "distrito": "11",
+        "subdiv": "015",
+        "subdiv_nombre": "Maraco"
+    },
+    {
+        "myid": 333,
+        "distrito": "11",
+        "subdiv": "016",
+        "subdiv_nombre": "Puelen"
+    },
+    {
+        "myid": 334,
+        "distrito": "11",
+        "subdiv": "017",
+        "subdiv_nombre": "Quemu Quemu"
+    },
+    {
+        "myid": 335,
+        "distrito": "11",
+        "subdiv": "018",
+        "subdiv_nombre": "Rancul"
+    },
+    {
+        "myid": 336,
+        "distrito": "11",
+        "subdiv": "019",
+        "subdiv_nombre": "Realic\u00f3"
+    },
+    {
+        "myid": 337,
+        "distrito": "11",
+        "subdiv": "020",
+        "subdiv_nombre": "Toay"
+    },
+    {
+        "myid": 338,
+        "distrito": "11",
+        "subdiv": "021",
+        "subdiv_nombre": "Trenel"
+    },
+    {
+        "myid": 339,
+        "distrito": "11",
+        "subdiv": "022",
+        "subdiv_nombre": "Utrac\u00e1n"
+    },
+    {
+        "myid": 340,
+        "distrito": "11",
+        "subdiv": "999",
+        "subdiv_nombre": "La Pampa"
+    },
+    {
+        "myid": 341,
+        "distrito": "12",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 342,
+        "distrito": "12",
+        "subdiv": "002",
+        "subdiv_nombre": "Sanagasta"
+    },
+    {
+        "myid": 343,
+        "distrito": "12",
+        "subdiv": "003",
+        "subdiv_nombre": "Castro Barros"
+    },
+    {
+        "myid": 344,
+        "distrito": "12",
+        "subdiv": "004",
+        "subdiv_nombre": "Arauco"
+    },
+    {
+        "myid": 345,
+        "distrito": "12",
+        "subdiv": "005",
+        "subdiv_nombre": "San Blas de los Sauces"
+    },
+    {
+        "myid": 346,
+        "distrito": "12",
+        "subdiv": "006",
+        "subdiv_nombre": "Chilecito"
+    },
+    {
+        "myid": 347,
+        "distrito": "12",
+        "subdiv": "007",
+        "subdiv_nombre": "Famatina"
+    },
+    {
+        "myid": 348,
+        "distrito": "12",
+        "subdiv": "008",
+        "subdiv_nombre": "Felipe Varela"
+    },
+    {
+        "myid": 349,
+        "distrito": "12",
+        "subdiv": "009",
+        "subdiv_nombre": "General Lamadrid"
+    },
+    {
+        "myid": 350,
+        "distrito": "12",
+        "subdiv": "010",
+        "subdiv_nombre": "Vinchina"
+    },
+    {
+        "myid": 351,
+        "distrito": "12",
+        "subdiv": "011",
+        "subdiv_nombre": "Independencia"
+    },
+    {
+        "myid": 352,
+        "distrito": "12",
+        "subdiv": "012",
+        "subdiv_nombre": "Chamical"
+    },
+    {
+        "myid": 353,
+        "distrito": "12",
+        "subdiv": "013",
+        "subdiv_nombre": "Angel Vicente Pe\u00f1aloza"
+    },
+    {
+        "myid": 354,
+        "distrito": "12",
+        "subdiv": "014",
+        "subdiv_nombre": "General Belgrano"
+    },
+    {
+        "myid": 355,
+        "distrito": "12",
+        "subdiv": "015",
+        "subdiv_nombre": "Juan Facundo Quiroga"
+    },
+    {
+        "myid": 356,
+        "distrito": "12",
+        "subdiv": "016",
+        "subdiv_nombre": "General Ortiz de Ocampo"
+    },
+    {
+        "myid": 357,
+        "distrito": "12",
+        "subdiv": "017",
+        "subdiv_nombre": "Rosario Vera Pe\u00f1aloza"
+    },
+    {
+        "myid": 358,
+        "distrito": "12",
+        "subdiv": "018",
+        "subdiv_nombre": "General San Mart\u00edn"
+    },
+    {
+        "myid": 359,
+        "distrito": "12",
+        "subdiv": "999",
+        "subdiv_nombre": "La Rioja"
+    },
+    {
+        "myid": 360,
+        "distrito": "13",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 361,
+        "distrito": "13",
+        "subdiv": "002",
+        "subdiv_nombre": "Godoy Cruz"
+    },
+    {
+        "myid": 362,
+        "distrito": "13",
+        "subdiv": "003",
+        "subdiv_nombre": "Guaymall\u00e9n"
+    },
+    {
+        "myid": 363,
+        "distrito": "13",
+        "subdiv": "004",
+        "subdiv_nombre": "Las Heras"
+    },
+    {
+        "myid": 364,
+        "distrito": "13",
+        "subdiv": "005",
+        "subdiv_nombre": "Lavalle"
+    },
+    {
+        "myid": 365,
+        "distrito": "13",
+        "subdiv": "006",
+        "subdiv_nombre": "Maip\u00fa"
+    },
+    {
+        "myid": 366,
+        "distrito": "13",
+        "subdiv": "007",
+        "subdiv_nombre": "Luj\u00e1n"
+    },
+    {
+        "myid": 367,
+        "distrito": "13",
+        "subdiv": "008",
+        "subdiv_nombre": "Tupungato"
+    },
+    {
+        "myid": 368,
+        "distrito": "13",
+        "subdiv": "009",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 369,
+        "distrito": "13",
+        "subdiv": "010",
+        "subdiv_nombre": "Jun\u00edn"
+    },
+    {
+        "myid": 370,
+        "distrito": "13",
+        "subdiv": "011",
+        "subdiv_nombre": "Rivadavia"
+    },
+    {
+        "myid": 371,
+        "distrito": "13",
+        "subdiv": "012",
+        "subdiv_nombre": "Tunuy\u00e1n"
+    },
+    {
+        "myid": 372,
+        "distrito": "13",
+        "subdiv": "013",
+        "subdiv_nombre": "San Carlos"
+    },
+    {
+        "myid": 373,
+        "distrito": "13",
+        "subdiv": "014",
+        "subdiv_nombre": "Santa Rosa"
+    },
+    {
+        "myid": 374,
+        "distrito": "13",
+        "subdiv": "015",
+        "subdiv_nombre": "La Paz"
+    },
+    {
+        "myid": 375,
+        "distrito": "13",
+        "subdiv": "016",
+        "subdiv_nombre": "San Rafael"
+    },
+    {
+        "myid": 376,
+        "distrito": "13",
+        "subdiv": "017",
+        "subdiv_nombre": "Malargue"
+    },
+    {
+        "myid": 377,
+        "distrito": "13",
+        "subdiv": "018",
+        "subdiv_nombre": "General Alvear"
+    },
+    {
+        "myid": 378,
+        "distrito": "13",
+        "subdiv": "999",
+        "subdiv_nombre": "Mendoza"
+    },
+    {
+        "myid": 379,
+        "distrito": "14",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 380,
+        "distrito": "14",
+        "subdiv": "002",
+        "subdiv_nombre": "Ap\u00f3stoles"
+    },
+    {
+        "myid": 381,
+        "distrito": "14",
+        "subdiv": "003",
+        "subdiv_nombre": "Candelaria"
+    },
+    {
+        "myid": 382,
+        "distrito": "14",
+        "subdiv": "004",
+        "subdiv_nombre": "Leandro N. Alem"
+    },
+    {
+        "myid": 383,
+        "distrito": "14",
+        "subdiv": "005",
+        "subdiv_nombre": "Concepci\u00f3n de la Sierra"
+    },
+    {
+        "myid": 384,
+        "distrito": "14",
+        "subdiv": "006",
+        "subdiv_nombre": "San Javier"
+    },
+    {
+        "myid": 385,
+        "distrito": "14",
+        "subdiv": "007",
+        "subdiv_nombre": "San Ignacio"
+    },
+    {
+        "myid": 386,
+        "distrito": "14",
+        "subdiv": "008",
+        "subdiv_nombre": "Ober\u00e1"
+    },
+    {
+        "myid": 387,
+        "distrito": "14",
+        "subdiv": "009",
+        "subdiv_nombre": "L. General San Mart\u00edn"
+    },
+    {
+        "myid": 388,
+        "distrito": "14",
+        "subdiv": "010",
+        "subdiv_nombre": "Cainguas"
+    },
+    {
+        "myid": 389,
+        "distrito": "14",
+        "subdiv": "011",
+        "subdiv_nombre": "25 de Mayo"
+    },
+    {
+        "myid": 390,
+        "distrito": "14",
+        "subdiv": "012",
+        "subdiv_nombre": "Montecarlo"
+    },
+    {
+        "myid": 391,
+        "distrito": "14",
+        "subdiv": "013",
+        "subdiv_nombre": "Guaran\u00ed"
+    },
+    {
+        "myid": 392,
+        "distrito": "14",
+        "subdiv": "014",
+        "subdiv_nombre": "El Dorado"
+    },
+    {
+        "myid": 393,
+        "distrito": "14",
+        "subdiv": "015",
+        "subdiv_nombre": "San Pedro"
+    },
+    {
+        "myid": 394,
+        "distrito": "14",
+        "subdiv": "016",
+        "subdiv_nombre": "Iguaz\u00fa"
+    },
+    {
+        "myid": 395,
+        "distrito": "14",
+        "subdiv": "017",
+        "subdiv_nombre": "Gral. Manuel Belgrano"
+    },
+    {
+        "myid": 396,
+        "distrito": "14",
+        "subdiv": "999",
+        "subdiv_nombre": "Misiones"
+    },
+    {
+        "myid": 397,
+        "distrito": "15",
+        "subdiv": "001",
+        "subdiv_nombre": "Confluencia"
+    },
+    {
+        "myid": 398,
+        "distrito": "15",
+        "subdiv": "002",
+        "subdiv_nombre": "Zapala"
+    },
+    {
+        "myid": 399,
+        "distrito": "15",
+        "subdiv": "003",
+        "subdiv_nombre": "A\u00f1elo"
+    },
+    {
+        "myid": 400,
+        "distrito": "15",
+        "subdiv": "004",
+        "subdiv_nombre": "Pehuenches"
+    },
+    {
+        "myid": 401,
+        "distrito": "15",
+        "subdiv": "005",
+        "subdiv_nombre": "Chos Malal"
+    },
+    {
+        "myid": 402,
+        "distrito": "15",
+        "subdiv": "006",
+        "subdiv_nombre": "Minas"
+    },
+    {
+        "myid": 403,
+        "distrito": "15",
+        "subdiv": "007",
+        "subdiv_nombre": "\u00d1orqu\u00edn"
+    },
+    {
+        "myid": 404,
+        "distrito": "15",
+        "subdiv": "008",
+        "subdiv_nombre": "Loncopu\u00e9"
+    },
+    {
+        "myid": 405,
+        "distrito": "15",
+        "subdiv": "009",
+        "subdiv_nombre": "Picunches"
+    },
+    {
+        "myid": 406,
+        "distrito": "15",
+        "subdiv": "010",
+        "subdiv_nombre": "Alumin\u00e9"
+    },
+    {
+        "myid": 407,
+        "distrito": "15",
+        "subdiv": "011",
+        "subdiv_nombre": "Catan Lil"
+    },
+    {
+        "myid": 408,
+        "distrito": "15",
+        "subdiv": "012",
+        "subdiv_nombre": "Pic\u00fan Leuf\u00fa"
+    },
+    {
+        "myid": 409,
+        "distrito": "15",
+        "subdiv": "013",
+        "subdiv_nombre": "Collon Cur\u00e1"
+    },
+    {
+        "myid": 410,
+        "distrito": "15",
+        "subdiv": "014",
+        "subdiv_nombre": "Huiliches"
+    },
+    {
+        "myid": 411,
+        "distrito": "15",
+        "subdiv": "015",
+        "subdiv_nombre": "L\u00e1car"
+    },
+    {
+        "myid": 412,
+        "distrito": "15",
+        "subdiv": "016",
+        "subdiv_nombre": "Los Lagos"
+    },
+    {
+        "myid": 413,
+        "distrito": "15",
+        "subdiv": "999",
+        "subdiv_nombre": "Neuqu\u00e9n"
+    },
+    {
+        "myid": 414,
+        "distrito": "16",
+        "subdiv": "001",
+        "subdiv_nombre": "Adolfo Alsina"
+    },
+    {
+        "myid": 415,
+        "distrito": "16",
+        "subdiv": "002",
+        "subdiv_nombre": "Conesa"
+    },
+    {
+        "myid": 416,
+        "distrito": "16",
+        "subdiv": "003",
+        "subdiv_nombre": "San Antonio Oeste"
+    },
+    {
+        "myid": 417,
+        "distrito": "16",
+        "subdiv": "004",
+        "subdiv_nombre": "Valcheta"
+    },
+    {
+        "myid": 418,
+        "distrito": "16",
+        "subdiv": "005",
+        "subdiv_nombre": "Nueve de Julio"
+    },
+    {
+        "myid": 419,
+        "distrito": "16",
+        "subdiv": "006",
+        "subdiv_nombre": "25 de Mayo"
+    },
+    {
+        "myid": 420,
+        "distrito": "16",
+        "subdiv": "007",
+        "subdiv_nombre": "\u00d1orquinco"
+    },
+    {
+        "myid": 421,
+        "distrito": "16",
+        "subdiv": "008",
+        "subdiv_nombre": "Pilcaniyeu"
+    },
+    {
+        "myid": 422,
+        "distrito": "16",
+        "subdiv": "009",
+        "subdiv_nombre": "Bariloche"
+    },
+    {
+        "myid": 423,
+        "distrito": "16",
+        "subdiv": "010",
+        "subdiv_nombre": "Pichi Mahuida"
+    },
+    {
+        "myid": 424,
+        "distrito": "16",
+        "subdiv": "011",
+        "subdiv_nombre": "Avellaneda"
+    },
+    {
+        "myid": 425,
+        "distrito": "16",
+        "subdiv": "012",
+        "subdiv_nombre": "General Roca"
+    },
+    {
+        "myid": 426,
+        "distrito": "16",
+        "subdiv": "013",
+        "subdiv_nombre": "El Cuy"
+    },
+    {
+        "myid": 427,
+        "distrito": "16",
+        "subdiv": "999",
+        "subdiv_nombre": "R\u00edo Negro"
+    },
+    {
+        "myid": 428,
+        "distrito": "17",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 429,
+        "distrito": "17",
+        "subdiv": "002",
+        "subdiv_nombre": "La Caldera"
+    },
+    {
+        "myid": 430,
+        "distrito": "17",
+        "subdiv": "003",
+        "subdiv_nombre": "General G\u00fcemes"
+    },
+    {
+        "myid": 431,
+        "distrito": "17",
+        "subdiv": "004",
+        "subdiv_nombre": "Met\u00e1n"
+    },
+    {
+        "myid": 432,
+        "distrito": "17",
+        "subdiv": "005",
+        "subdiv_nombre": "Anta"
+    },
+    {
+        "myid": 433,
+        "distrito": "17",
+        "subdiv": "006",
+        "subdiv_nombre": "Rivadavia"
+    },
+    {
+        "myid": 434,
+        "distrito": "17",
+        "subdiv": "007",
+        "subdiv_nombre": "Or\u00e1n"
+    },
+    {
+        "myid": 435,
+        "distrito": "17",
+        "subdiv": "008",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 436,
+        "distrito": "17",
+        "subdiv": "009",
+        "subdiv_nombre": "Iruya"
+    },
+    {
+        "myid": 437,
+        "distrito": "17",
+        "subdiv": "010",
+        "subdiv_nombre": "Santa Victoria"
+    },
+    {
+        "myid": 438,
+        "distrito": "17",
+        "subdiv": "011",
+        "subdiv_nombre": "Cerrillos"
+    },
+    {
+        "myid": 439,
+        "distrito": "17",
+        "subdiv": "012",
+        "subdiv_nombre": "Chicoana"
+    },
+    {
+        "myid": 440,
+        "distrito": "17",
+        "subdiv": "013",
+        "subdiv_nombre": "La Vi\u00f1a"
+    },
+    {
+        "myid": 441,
+        "distrito": "17",
+        "subdiv": "014",
+        "subdiv_nombre": "Guachipas"
+    },
+    {
+        "myid": 442,
+        "distrito": "17",
+        "subdiv": "015",
+        "subdiv_nombre": "Rosario de la Frontera"
+    },
+    {
+        "myid": 443,
+        "distrito": "17",
+        "subdiv": "016",
+        "subdiv_nombre": "La Candelaria"
+    },
+    {
+        "myid": 444,
+        "distrito": "17",
+        "subdiv": "017",
+        "subdiv_nombre": "Cafayate"
+    },
+    {
+        "myid": 445,
+        "distrito": "17",
+        "subdiv": "018",
+        "subdiv_nombre": "San Carlos"
+    },
+    {
+        "myid": 446,
+        "distrito": "17",
+        "subdiv": "019",
+        "subdiv_nombre": "Molinos"
+    },
+    {
+        "myid": 447,
+        "distrito": "17",
+        "subdiv": "020",
+        "subdiv_nombre": "Cachi"
+    },
+    {
+        "myid": 448,
+        "distrito": "17",
+        "subdiv": "021",
+        "subdiv_nombre": "Rosario de Lerma"
+    },
+    {
+        "myid": 449,
+        "distrito": "17",
+        "subdiv": "022",
+        "subdiv_nombre": "La Poma"
+    },
+    {
+        "myid": 450,
+        "distrito": "17",
+        "subdiv": "023",
+        "subdiv_nombre": "Los Andes"
+    },
+    {
+        "myid": 451,
+        "distrito": "17",
+        "subdiv": "999",
+        "subdiv_nombre": "Salta"
+    },
+    {
+        "myid": 452,
+        "distrito": "18",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 453,
+        "distrito": "18",
+        "subdiv": "002",
+        "subdiv_nombre": "Santa Luc\u00eda"
+    },
+    {
+        "myid": 454,
+        "distrito": "18",
+        "subdiv": "003",
+        "subdiv_nombre": "Chimbas"
+    },
+    {
+        "myid": 455,
+        "distrito": "18",
+        "subdiv": "004",
+        "subdiv_nombre": "Rivadavia"
+    },
+    {
+        "myid": 456,
+        "distrito": "18",
+        "subdiv": "005",
+        "subdiv_nombre": "Zonda"
+    },
+    {
+        "myid": 457,
+        "distrito": "18",
+        "subdiv": "006",
+        "subdiv_nombre": "Rawson"
+    },
+    {
+        "myid": 458,
+        "distrito": "18",
+        "subdiv": "007",
+        "subdiv_nombre": "Nueve de Julio"
+    },
+    {
+        "myid": 459,
+        "distrito": "18",
+        "subdiv": "008",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 460,
+        "distrito": "18",
+        "subdiv": "009",
+        "subdiv_nombre": "Angaco"
+    },
+    {
+        "myid": 461,
+        "distrito": "18",
+        "subdiv": "010",
+        "subdiv_nombre": "Albard\u00f3n"
+    },
+    {
+        "myid": 462,
+        "distrito": "18",
+        "subdiv": "011",
+        "subdiv_nombre": "Ull\u00fam"
+    },
+    {
+        "myid": 463,
+        "distrito": "18",
+        "subdiv": "012",
+        "subdiv_nombre": "Pocito"
+    },
+    {
+        "myid": 464,
+        "distrito": "18",
+        "subdiv": "013",
+        "subdiv_nombre": "Sarmiento"
+    },
+    {
+        "myid": 465,
+        "distrito": "18",
+        "subdiv": "014",
+        "subdiv_nombre": "25 de Mayo"
+    },
+    {
+        "myid": 466,
+        "distrito": "18",
+        "subdiv": "015",
+        "subdiv_nombre": "Caucete"
+    },
+    {
+        "myid": 467,
+        "distrito": "18",
+        "subdiv": "016",
+        "subdiv_nombre": "Valle F\u00e9rtil"
+    },
+    {
+        "myid": 468,
+        "distrito": "18",
+        "subdiv": "017",
+        "subdiv_nombre": "J\u00e1chal"
+    },
+    {
+        "myid": 469,
+        "distrito": "18",
+        "subdiv": "018",
+        "subdiv_nombre": "Iglesia"
+    },
+    {
+        "myid": 470,
+        "distrito": "18",
+        "subdiv": "019",
+        "subdiv_nombre": "Calingasta"
+    },
+    {
+        "myid": 471,
+        "distrito": "18",
+        "subdiv": "999",
+        "subdiv_nombre": "San Juan"
+    },
+    {
+        "myid": 472,
+        "distrito": "19",
+        "subdiv": "001",
+        "subdiv_nombre": "Pueyrredon"
+    },
+    {
+        "myid": 473,
+        "distrito": "19",
+        "subdiv": "002",
+        "subdiv_nombre": "Pringles"
+    },
+    {
+        "myid": 474,
+        "distrito": "19",
+        "subdiv": "003",
+        "subdiv_nombre": "Pedernera"
+    },
+    {
+        "myid": 475,
+        "distrito": "19",
+        "subdiv": "004",
+        "subdiv_nombre": "Chacabuco"
+    },
+    {
+        "myid": 476,
+        "distrito": "19",
+        "subdiv": "005",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 477,
+        "distrito": "19",
+        "subdiv": "006",
+        "subdiv_nombre": "Jun\u00edn"
+    },
+    {
+        "myid": 478,
+        "distrito": "19",
+        "subdiv": "007",
+        "subdiv_nombre": "Ayacucho"
+    },
+    {
+        "myid": 479,
+        "distrito": "19",
+        "subdiv": "008",
+        "subdiv_nombre": "Belgrano"
+    },
+    {
+        "myid": 480,
+        "distrito": "19",
+        "subdiv": "009",
+        "subdiv_nombre": "Gobernador Dupuy"
+    },
+    {
+        "myid": 481,
+        "distrito": "19",
+        "subdiv": "999",
+        "subdiv_nombre": "San Luis"
+    },
+    {
+        "myid": 482,
+        "distrito": "20",
+        "subdiv": "001",
+        "subdiv_nombre": "Deseado"
+    },
+    {
+        "myid": 483,
+        "distrito": "20",
+        "subdiv": "002",
+        "subdiv_nombre": "Lago Buenos Aires"
+    },
+    {
+        "myid": 484,
+        "distrito": "20",
+        "subdiv": "003",
+        "subdiv_nombre": "Magallanes"
+    },
+    {
+        "myid": 485,
+        "distrito": "20",
+        "subdiv": "004",
+        "subdiv_nombre": "R\u00edo Chico"
+    },
+    {
+        "myid": 486,
+        "distrito": "20",
+        "subdiv": "005",
+        "subdiv_nombre": "Corpen Aike"
+    },
+    {
+        "myid": 487,
+        "distrito": "20",
+        "subdiv": "006",
+        "subdiv_nombre": "Lago Argentino"
+    },
+    {
+        "myid": 488,
+        "distrito": "20",
+        "subdiv": "007",
+        "subdiv_nombre": "G\u00fcer Aike"
+    },
+    {
+        "myid": 489,
+        "distrito": "20",
+        "subdiv": "999",
+        "subdiv_nombre": "Santa Cruz"
+    },
+    {
+        "myid": 490,
+        "distrito": "21",
+        "subdiv": "001",
+        "subdiv_nombre": "Belgrano"
+    },
+    {
+        "myid": 491,
+        "distrito": "21",
+        "subdiv": "002",
+        "subdiv_nombre": "Caseros"
+    },
+    {
+        "myid": 492,
+        "distrito": "21",
+        "subdiv": "003",
+        "subdiv_nombre": "Castellanos"
+    },
+    {
+        "myid": 493,
+        "distrito": "21",
+        "subdiv": "004",
+        "subdiv_nombre": "Constituci\u00f3n"
+    },
+    {
+        "myid": 494,
+        "distrito": "21",
+        "subdiv": "005",
+        "subdiv_nombre": "Garay"
+    },
+    {
+        "myid": 495,
+        "distrito": "21",
+        "subdiv": "006",
+        "subdiv_nombre": "General L\u00f3pez"
+    },
+    {
+        "myid": 496,
+        "distrito": "21",
+        "subdiv": "007",
+        "subdiv_nombre": "General Obligado"
+    },
+    {
+        "myid": 497,
+        "distrito": "21",
+        "subdiv": "008",
+        "subdiv_nombre": "Iriondo"
+    },
+    {
+        "myid": 498,
+        "distrito": "21",
+        "subdiv": "009",
+        "subdiv_nombre": "La Capital"
+    },
+    {
+        "myid": 499,
+        "distrito": "21",
+        "subdiv": "011",
+        "subdiv_nombre": "Las Colonias"
+    },
+    {
+        "myid": 500,
+        "distrito": "21",
+        "subdiv": "012",
+        "subdiv_nombre": "Nueve de Julio"
+    },
+    {
+        "myid": 501,
+        "distrito": "21",
+        "subdiv": "013",
+        "subdiv_nombre": "Rosario"
+    },
+    {
+        "myid": 502,
+        "distrito": "21",
+        "subdiv": "016",
+        "subdiv_nombre": "San Crist\u00f3bal"
+    },
+    {
+        "myid": 503,
+        "distrito": "21",
+        "subdiv": "017",
+        "subdiv_nombre": "San Javier"
+    },
+    {
+        "myid": 504,
+        "distrito": "21",
+        "subdiv": "018",
+        "subdiv_nombre": "San Jer\u00f3nimo"
+    },
+    {
+        "myid": 505,
+        "distrito": "21",
+        "subdiv": "019",
+        "subdiv_nombre": "San Justo"
+    },
+    {
+        "myid": 506,
+        "distrito": "21",
+        "subdiv": "020",
+        "subdiv_nombre": "San Lorenzo"
+    },
+    {
+        "myid": 507,
+        "distrito": "21",
+        "subdiv": "021",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 508,
+        "distrito": "21",
+        "subdiv": "022",
+        "subdiv_nombre": "Vera"
+    },
+    {
+        "myid": 509,
+        "distrito": "21",
+        "subdiv": "999",
+        "subdiv_nombre": "Santa Fe"
+    },
+    {
+        "myid": 510,
+        "distrito": "22",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 511,
+        "distrito": "22",
+        "subdiv": "002",
+        "subdiv_nombre": "Avellaneda"
+    },
+    {
+        "myid": 512,
+        "distrito": "22",
+        "subdiv": "003",
+        "subdiv_nombre": "Aguirre"
+    },
+    {
+        "myid": 513,
+        "distrito": "22",
+        "subdiv": "004",
+        "subdiv_nombre": "Alberdi"
+    },
+    {
+        "myid": 514,
+        "distrito": "22",
+        "subdiv": "005",
+        "subdiv_nombre": "Atamisqui"
+    },
+    {
+        "myid": 515,
+        "distrito": "22",
+        "subdiv": "006",
+        "subdiv_nombre": "Banda"
+    },
+    {
+        "myid": 516,
+        "distrito": "22",
+        "subdiv": "007",
+        "subdiv_nombre": "Belgrano"
+    },
+    {
+        "myid": 517,
+        "distrito": "22",
+        "subdiv": "008",
+        "subdiv_nombre": "Copo"
+    },
+    {
+        "myid": 518,
+        "distrito": "22",
+        "subdiv": "009",
+        "subdiv_nombre": "Choya"
+    },
+    {
+        "myid": 519,
+        "distrito": "22",
+        "subdiv": "010",
+        "subdiv_nombre": "Figueroa"
+    },
+    {
+        "myid": 520,
+        "distrito": "22",
+        "subdiv": "011",
+        "subdiv_nombre": "Guasay\u00e1n"
+    },
+    {
+        "myid": 521,
+        "distrito": "22",
+        "subdiv": "012",
+        "subdiv_nombre": "Jim\u00e9nez"
+    },
+    {
+        "myid": 522,
+        "distrito": "22",
+        "subdiv": "013",
+        "subdiv_nombre": "Loreto"
+    },
+    {
+        "myid": 523,
+        "distrito": "22",
+        "subdiv": "014",
+        "subdiv_nombre": "Juan F. Ibarra"
+    },
+    {
+        "myid": 524,
+        "distrito": "22",
+        "subdiv": "015",
+        "subdiv_nombre": "Mitre"
+    },
+    {
+        "myid": 525,
+        "distrito": "22",
+        "subdiv": "016",
+        "subdiv_nombre": "Moreno"
+    },
+    {
+        "myid": 526,
+        "distrito": "22",
+        "subdiv": "017",
+        "subdiv_nombre": "Ojo de Agua"
+    },
+    {
+        "myid": 527,
+        "distrito": "22",
+        "subdiv": "018",
+        "subdiv_nombre": "Pellegrini"
+    },
+    {
+        "myid": 528,
+        "distrito": "22",
+        "subdiv": "019",
+        "subdiv_nombre": "Quebrachos"
+    },
+    {
+        "myid": 529,
+        "distrito": "22",
+        "subdiv": "020",
+        "subdiv_nombre": "Rivadavia"
+    },
+    {
+        "myid": 530,
+        "distrito": "22",
+        "subdiv": "021",
+        "subdiv_nombre": "Robles"
+    },
+    {
+        "myid": 531,
+        "distrito": "22",
+        "subdiv": "022",
+        "subdiv_nombre": "R\u00edo Hondo"
+    },
+    {
+        "myid": 532,
+        "distrito": "22",
+        "subdiv": "023",
+        "subdiv_nombre": "Silipica"
+    },
+    {
+        "myid": 533,
+        "distrito": "22",
+        "subdiv": "024",
+        "subdiv_nombre": "San Mart\u00edn"
+    },
+    {
+        "myid": 534,
+        "distrito": "22",
+        "subdiv": "025",
+        "subdiv_nombre": "Salavina"
+    },
+    {
+        "myid": 535,
+        "distrito": "22",
+        "subdiv": "026",
+        "subdiv_nombre": "Sarmiento"
+    },
+    {
+        "myid": 536,
+        "distrito": "22",
+        "subdiv": "027",
+        "subdiv_nombre": "Taboada"
+    },
+    {
+        "myid": 537,
+        "distrito": "22",
+        "subdiv": "999",
+        "subdiv_nombre": "Santiago del Estero"
+    },
+    {
+        "myid": 538,
+        "distrito": "23",
+        "subdiv": "001",
+        "subdiv_nombre": "Capital"
+    },
+    {
+        "myid": 539,
+        "distrito": "23",
+        "subdiv": "002",
+        "subdiv_nombre": "Lules"
+    },
+    {
+        "myid": 540,
+        "distrito": "23",
+        "subdiv": "003",
+        "subdiv_nombre": "Famaill\u00e1"
+    },
+    {
+        "myid": 541,
+        "distrito": "23",
+        "subdiv": "004",
+        "subdiv_nombre": "Monteros"
+    },
+    {
+        "myid": 542,
+        "distrito": "23",
+        "subdiv": "005",
+        "subdiv_nombre": "Chicligasta"
+    },
+    {
+        "myid": 543,
+        "distrito": "23",
+        "subdiv": "006",
+        "subdiv_nombre": "R\u00edo Chico"
+    },
+    {
+        "myid": 544,
+        "distrito": "23",
+        "subdiv": "007",
+        "subdiv_nombre": "Alberdi"
+    },
+    {
+        "myid": 545,
+        "distrito": "23",
+        "subdiv": "008",
+        "subdiv_nombre": "La Cocha"
+    },
+    {
+        "myid": 546,
+        "distrito": "23",
+        "subdiv": "009",
+        "subdiv_nombre": "Graneros"
+    },
+    {
+        "myid": 547,
+        "distrito": "23",
+        "subdiv": "010",
+        "subdiv_nombre": "Simoca"
+    },
+    {
+        "myid": 548,
+        "distrito": "23",
+        "subdiv": "011",
+        "subdiv_nombre": "Leales"
+    },
+    {
+        "myid": 549,
+        "distrito": "23",
+        "subdiv": "012",
+        "subdiv_nombre": "Cruz Alta"
+    },
+    {
+        "myid": 550,
+        "distrito": "23",
+        "subdiv": "013",
+        "subdiv_nombre": "Burruyacu"
+    },
+    {
+        "myid": 551,
+        "distrito": "23",
+        "subdiv": "014",
+        "subdiv_nombre": "Trancas"
+    },
+    {
+        "myid": 552,
+        "distrito": "23",
+        "subdiv": "015",
+        "subdiv_nombre": "Yerba Buena"
+    },
+    {
+        "myid": 553,
+        "distrito": "23",
+        "subdiv": "016",
+        "subdiv_nombre": "Taf\u00ed Viejo"
+    },
+    {
+        "myid": 554,
+        "distrito": "23",
+        "subdiv": "017",
+        "subdiv_nombre": "Taf\u00ed del Valle"
+    },
+    {
+        "myid": 555,
+        "distrito": "23",
+        "subdiv": "999",
+        "subdiv_nombre": "Tucum\u00e1n"
+    },
+    {
+        "myid": 556,
+        "distrito": "24",
+        "subdiv": "001",
+        "subdiv_nombre": "Ushuaia"
+    },
+    {
+        "myid": 557,
+        "distrito": "24",
+        "subdiv": "002",
+        "subdiv_nombre": "R\u00edo Grande"
+    },
+    {
+        "myid": 558,
+        "distrito": "24",
+        "subdiv": "003",
+        "subdiv_nombre": "Ant\u00e1rtida Argentina"
+    },
+    {
+        "myid": 559,
+        "distrito": "24",
+        "subdiv": "999",
+        "subdiv_nombre": "Tierra del Fuego"
+    },
+    {
+        "myid": 560,
+        "distrito": "99",
+        "subdiv": "999",
+        "subdiv_nombre": "Total Nacional"
+    }
+]
