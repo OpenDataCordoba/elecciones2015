@@ -1,0 +1,1442 @@
+[
+    {
+        "codigo": "0002",
+        "siglas": "JUSTICIALISTA",
+        "denominacion": "JUSTICIALISTA"
+    },
+    {
+        "codigo": "0003",
+        "siglas": "UNION CIVICA RADICAL",
+        "denominacion": "UNION CIVICA RADICAL"
+    },
+    {
+        "codigo": "0012",
+        "siglas": "COMUNISTA",
+        "denominacion": "COMUNISTA"
+    },
+    {
+        "codigo": "0013",
+        "siglas": "MOVIMIENTO AL SOCIALISMO",
+        "denominacion": "MOVIMIENTO AL SOCIALISMO"
+    },
+    {
+        "codigo": "0023",
+        "siglas": "UNION POPULAR",
+        "denominacion": "UNION POPULAR"
+    },
+    {
+        "codigo": "0030",
+        "siglas": "SOCIALISTA AUTENTICO",
+        "denominacion": "SOCIALISTA AUTENTICO"
+    },
+    {
+        "codigo": "0038",
+        "siglas": "MST-MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES",
+        "denominacion": "MST-MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES"
+    },
+    {
+        "codigo": "0040",
+        "siglas": "MOVIMIENTO LIBRES DEL SUR",
+        "denominacion": "MOVIMIENTO LIBRES DEL SUR"
+    },
+    {
+        "codigo": "0041",
+        "siglas": "KOLINA",
+        "denominacion": "KOLINA"
+    },
+    {
+        "codigo": "0042",
+        "siglas": "ENCUENTRO CIUDADANO",
+        "denominacion": "ENCUENTRO CIUDADANO"
+    },
+    {
+        "codigo": "0043",
+        "siglas": "COALICION CIVICA ARI",
+        "denominacion": "COALICION CIVICA ARI"
+    },
+    {
+        "codigo": "0044",
+        "siglas": "DE LA VICTORIA",
+        "denominacion": "DE LA VICTORIA"
+    },
+    {
+        "codigo": "0045",
+        "siglas": "DESARROLLO SANTACRUCE\u00d1O",
+        "denominacion": "DESARROLLO SANTACRUCE\u00d1O"
+    },
+    {
+        "codigo": "0046",
+        "siglas": "PRIMERO SANTA CRUZ",
+        "denominacion": "PRIMERO SANTA CRUZ"
+    },
+    {
+        "codigo": "0047",
+        "siglas": "SOCIALISMO SANTACRUCE\u00d1O",
+        "denominacion": "SOCIALISMO SANTACRUCE\u00d1O"
+    },
+    {
+        "codigo": "0050",
+        "siglas": "SOCIALISTA",
+        "denominacion": "SOCIALISTA"
+    },
+    {
+        "codigo": "0057",
+        "siglas": "MOVIMIENTO DE ACCION VECINAL",
+        "denominacion": "MOVIMIENTO DE ACCION VECINAL"
+    },
+    {
+        "codigo": "0060",
+        "siglas": "MOVIMIENTO INDEPENDIENTE JUSTICIA Y DIGNIDAD",
+        "denominacion": "MOVIMIENTO INDEPENDIENTE JUSTICIA Y DIGNIDAD"
+    },
+    {
+        "codigo": "0061",
+        "siglas": "IZQUIERDA POR UNA OPCION SOCIALISTA",
+        "denominacion": "IZQUIERDA POR UNA OPCION SOCIALISTA"
+    },
+    {
+        "codigo": "0063",
+        "siglas": "ES POSIBLE",
+        "denominacion": "ES POSIBLE"
+    },
+    {
+        "codigo": "0065",
+        "siglas": "UNION CELESTE Y BLANCO",
+        "denominacion": "UNION CELESTE Y BLANCO"
+    },
+    {
+        "codigo": "0068",
+        "siglas": "NUEVA IZQUIERDA",
+        "denominacion": "NUEVA IZQUIERDA"
+    },
+    {
+        "codigo": "0069",
+        "siglas": "GEN",
+        "denominacion": "GEN"
+    },
+    {
+        "codigo": "0070",
+        "siglas": "DE TRABAJADORES POR EL SOCIALISMO",
+        "denominacion": "DE TRABAJADORES POR EL SOCIALISMO"
+    },
+    {
+        "codigo": "0071",
+        "siglas": "DEL OBRERO",
+        "denominacion": "DEL OBRERO"
+    },
+    {
+        "codigo": "0072",
+        "siglas": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR",
+        "denominacion": "INSTRUMENTO ELECTORAL POR LA UNIDAD POPULAR"
+    },
+    {
+        "codigo": "0074",
+        "siglas": "PARTIDO DEL TRABAJO Y DEL PUEBLO",
+        "denominacion": "PARTIDO DEL TRABAJO Y DEL PUEBLO"
+    },
+    {
+        "codigo": "0076",
+        "siglas": "DE LA CULTURA LA EDUCACION Y EL TRABAJO",
+        "denominacion": "DE LA CULTURA LA EDUCACION Y EL TRABAJO"
+    },
+    {
+        "codigo": "0081",
+        "siglas": "PARTIDO POPULAR",
+        "denominacion": "PARTIDO POPULAR"
+    },
+    {
+        "codigo": "0103",
+        "siglas": "FRENTE DE IZQUIERDA Y LOS TRABAJADORES",
+        "denominacion": "FRENTE DE IZQUIERDA Y LOS TRABAJADORES"
+    },
+    {
+        "codigo": "0131",
+        "siglas": "ALIANZA FRENTE PARA LA VICTORIA",
+        "denominacion": "ALIANZA FRENTE PARA LA VICTORIA"
+    },
+    {
+        "codigo": "0132",
+        "siglas": "ALIANZA PROGRESISTAS",
+        "denominacion": "ALIANZA PROGRESISTAS"
+    },
+    {
+        "codigo": "0133",
+        "siglas": "ALIANZA COMPROMISO FEDERAL",
+        "denominacion": "ALIANZA COMPROMISO FEDERAL"
+    },
+    {
+        "codigo": "0134",
+        "siglas": "MST - NUEVA IZQUIERDA",
+        "denominacion": "MST - NUEVA IZQUIERDA"
+    },
+    {
+        "codigo": "0135",
+        "siglas": "ALIANZA CAMBIEMOS",
+        "denominacion": "ALIANZA CAMBIEMOS"
+    },
+    {
+        "codigo": "0136",
+        "siglas": "ALIANZA FRENTE POPULAR",
+        "denominacion": "ALIANZA FRENTE POPULAR"
+    },
+    {
+        "codigo": "0137",
+        "siglas": "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
+        "denominacion": "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES"
+    },
+    {
+        "codigo": "0138",
+        "siglas": "ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA (UNA)",
+        "denominacion": "ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA (UNA)"
+    },
+    {
+        "codigo": "0144",
+        "siglas": "MST-MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES",
+        "denominacion": "MST-MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES"
+    },
+    {
+        "codigo": "0145",
+        "siglas": "CAMBIEMOS BUENOS AIRES",
+        "denominacion": "CAMBIEMOS BUENOS AIRES"
+    },
+    {
+        "codigo": "0146",
+        "siglas": "CAMBIEMOS SALTA",
+        "denominacion": "CAMBIEMOS SALTA"
+    },
+    {
+        "codigo": "0151",
+        "siglas": "MOVIMIENTO POPULAR NEUQUINO",
+        "denominacion": "MOVIMIENTO POPULAR NEUQUINO"
+    },
+    {
+        "codigo": "0152",
+        "siglas": "MOVIMIENTO POLO SOCIAL LA TERCERA POSICION DE LA G",
+        "denominacion": "MOVIMIENTO POLO SOCIAL LA TERCERA POSICION DE LA GENTE"
+    },
+    {
+        "codigo": "0153",
+        "siglas": "CRUZADA RENOVADORA",
+        "denominacion": "CRUZADA RENOVADORA"
+    },
+    {
+        "codigo": "0154",
+        "siglas": "MOVIMIENTO POPULAR FUEGUINO",
+        "denominacion": "MOVIMIENTO POPULAR FUEGUINO"
+    },
+    {
+        "codigo": "0155",
+        "siglas": "MOVIMIENTO UNION DEL PARTIDO DE PINAMAR",
+        "denominacion": "MOVIMIENTO UNION DEL PARTIDO DE PINAMAR"
+    },
+    {
+        "codigo": "0157",
+        "siglas": "DE ACCION CHUBUTENSE",
+        "denominacion": "DE ACCION CHUBUTENSE"
+    },
+    {
+        "codigo": "0161",
+        "siglas": "OBRERO",
+        "denominacion": "OBRERO"
+    },
+    {
+        "codigo": "0165",
+        "siglas": "NUEVO OCTUBRE",
+        "denominacion": "NUEVO OCTUBRE"
+    },
+    {
+        "codigo": "0169",
+        "siglas": "PROYECTO POPULAR",
+        "denominacion": "PROYECTO POPULAR"
+    },
+    {
+        "codigo": "0177",
+        "siglas": "PARTIDO MOVIMIENTO DE PARTICIPACION CIUDADANA",
+        "denominacion": "PARTIDO MOVIMIENTO DE PARTICIPACION CIUDADANA"
+    },
+    {
+        "codigo": "0179",
+        "siglas": "FRENTE CAMBIA JUJUY",
+        "denominacion": "FRENTE CAMBIA JUJUY"
+    },
+    {
+        "codigo": "0180",
+        "siglas": "DEL CAMPO POPULAR",
+        "denominacion": "DEL CAMPO POPULAR"
+    },
+    {
+        "codigo": "0186",
+        "siglas": "AUTODETERMINACION Y LIBERTAD",
+        "denominacion": "AUTODETERMINACION Y LIBERTAD"
+    },
+    {
+        "codigo": "0187",
+        "siglas": "SOCIAL PATAGONICO",
+        "denominacion": "SOCIAL PATAGONICO"
+    },
+    {
+        "codigo": "0188",
+        "siglas": "UNITE POR LA LIBERTAD Y LA DIGNIDAD",
+        "denominacion": "UNITE POR LA LIBERTAD Y LA DIGNIDAD"
+    },
+    {
+        "codigo": "0189",
+        "siglas": "PARTIDO CIUDADANOS A GOBERNAR",
+        "denominacion": "PARTIDO CIUDADANOS A GOBERNAR"
+    },
+    {
+        "codigo": "0190",
+        "siglas": "MOV.POL. SOCIAL Y CULTURAL PROYECTO SUR",
+        "denominacion": "MOV.POL. SOCIAL Y CULTURAL PROYECTO SUR"
+    },
+    {
+        "codigo": "0194",
+        "siglas": "MOVIMIENTO VECINAL",
+        "denominacion": "MOVIMIENTO VECINAL"
+    },
+    {
+        "codigo": "0198",
+        "siglas": "DE LOS TRABAJADORES SOCIALISTAS",
+        "denominacion": "DE LOS TRABAJADORES SOCIALISTAS"
+    },
+    {
+        "codigo": "0202",
+        "siglas": "FRENTE RENOVADOR AUTENTICO",
+        "denominacion": "FRENTE RENOVADOR AUTENTICO"
+    },
+    {
+        "codigo": "0203",
+        "siglas": "INSTRUMENTO ELECTORAL",
+        "denominacion": "INSTRUMENTO ELECTORAL"
+    },
+    {
+        "codigo": "0208",
+        "siglas": "POR UN PUEBLO UNIDO",
+        "denominacion": "POR UN PUEBLO UNIDO"
+    },
+    {
+        "codigo": "0212",
+        "siglas": "PRINCIPIOS Y CONVICCION",
+        "denominacion": "PRINCIPIOS Y CONVICCION"
+    },
+    {
+        "codigo": "0268",
+        "siglas": "MOV. AMPLIO DE TRAB. Y JUBILADOS-MATRAJU",
+        "denominacion": "MOV. AMPLIO DE TRAB. Y JUBILADOS-MATRAJU"
+    },
+    {
+        "codigo": "0298",
+        "siglas": "TODOS POR BUENOS AIRES",
+        "denominacion": "TODOS POR BUENOS AIRES"
+    },
+    {
+        "codigo": "0301",
+        "siglas": "PATRIA GRANDE",
+        "denominacion": "PATRIA GRANDE"
+    },
+    {
+        "codigo": "0302",
+        "siglas": "BANDERA VECINAL",
+        "denominacion": "BANDERA VECINAL"
+    },
+    {
+        "codigo": "0333",
+        "siglas": "FUERZA ORG. RENOV. DEMOCRATICA",
+        "denominacion": "FUERZA ORG. RENOV. DEMOCRATICA"
+    },
+    {
+        "codigo": "0427",
+        "siglas": "JUNTOS POR SAN JUAN",
+        "denominacion": "JUNTOS POR SAN JUAN"
+    },
+    {
+        "codigo": "0446",
+        "siglas": "AGR.MUNICIPAL DE LA INTRANSIGENCIA COLONENSE",
+        "denominacion": "AGR.MUNICIPAL DE LA INTRANSIGENCIA COLONENSE"
+    },
+    {
+        "codigo": "0484",
+        "siglas": "NUEVA ALTERNATIVA CARME\u00d1A",
+        "denominacion": "NUEVA ALTERNATIVA CARME\u00d1A"
+    },
+    {
+        "codigo": "0501",
+        "siglas": "ALIANZA FRENTE PARA LA VICTORIA",
+        "denominacion": "ALIANZA FRENTE PARA LA VICTORIA"
+    },
+    {
+        "codigo": "0502",
+        "siglas": "ALIANZA CAMBIEMOS",
+        "denominacion": "ALIANZA CAMBIEMOS"
+    },
+    {
+        "codigo": "0503",
+        "siglas": "ALIANZA COMPROMISO FEDERAL",
+        "denominacion": "ALIANZA COMPROMISO FEDERAL"
+    },
+    {
+        "codigo": "0504",
+        "siglas": "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES",
+        "denominacion": "ALIANZA FRENTE DE IZQUIERDA Y DE LOS TRABAJADORES"
+    },
+    {
+        "codigo": "0506",
+        "siglas": "ALIANZA PROGRESISTAS",
+        "denominacion": "ALIANZA PROGRESISTAS"
+    },
+    {
+        "codigo": "0507",
+        "siglas": "ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA",
+        "denominacion": "ALIANZA UNIDOS POR UNA NUEVA ALTERNATIVA"
+    },
+    {
+        "codigo": "0509",
+        "siglas": "ALIANZA UNION PARA VIVIR MEJOR",
+        "denominacion": "ALIANZA UNION PARA VIVIR MEJOR"
+    },
+    {
+        "codigo": "0510",
+        "siglas": "ALIANZA UNION POR CORDOBA",
+        "denominacion": "ALIANZA UNION POR CORDOBA"
+    },
+    {
+        "codigo": "0514",
+        "siglas": "ALIANZA CAMBIEMOS MENDOZA",
+        "denominacion": "ALIANZA CAMBIEMOS MENDOZA"
+    },
+    {
+        "codigo": "0517",
+        "siglas": "ALIANZA CAMBIEMOS TIERRA DEL FUEGO",
+        "denominacion": "ALIANZA CAMBIEMOS TIERRA DEL FUEGO"
+    },
+    {
+        "codigo": "0518",
+        "siglas": "ALIANZA COMPROMISO CON SAN JUAN",
+        "denominacion": "ALIANZA COMPROMISO CON SAN JUAN"
+    },
+    {
+        "codigo": "0519",
+        "siglas": "ALIANZA ENCUENTRO POR CORRIENTES",
+        "denominacion": "ALIANZA ENCUENTRO POR CORRIENTES"
+    },
+    {
+        "codigo": "0520",
+        "siglas": "ALIANZA FRENTE AMPLIO FORMOSE\u00d1O",
+        "denominacion": "ALIANZA FRENTE AMPLIO FORMOSE\u00d1O"
+    },
+    {
+        "codigo": "0521",
+        "siglas": "ALIANZA FRENTE AMPLIO PODEMOS",
+        "denominacion": "ALIANZA FRENTE AMPLIO PODEMOS"
+    },
+    {
+        "codigo": "0522",
+        "siglas": "ALIANZA FRENTE CAMBIEMOS",
+        "denominacion": "ALIANZA FRENTE CAMBIEMOS"
+    },
+    {
+        "codigo": "0523",
+        "siglas": "ALIANZA CAMBIEMOS RIO NEGRO",
+        "denominacion": "ALIANZA CAMBIEMOS RIO NEGRO"
+    },
+    {
+        "codigo": "0524",
+        "siglas": "ALIANZA FRENTE CIVICO Y SOCIAL",
+        "denominacion": "ALIANZA FRENTE CIVICO Y SOCIAL"
+    },
+    {
+        "codigo": "0525",
+        "siglas": "ALIANZA FRENTE PROGRESISTA CIVICO Y SOCIAL",
+        "denominacion": "ALIANZA FRENTE PROGRESISTA CIVICO Y SOCIAL"
+    },
+    {
+        "codigo": "0526",
+        "siglas": "ALIANZA FRENTE PROGRESISTA POPULAR",
+        "denominacion": "ALIANZA FRENTE PROGRESISTA POPULAR"
+    },
+    {
+        "codigo": "0527",
+        "siglas": "ALIANZA FRENTE RENOVADOR FEDERAL POR LA ESPERANZA",
+        "denominacion": "ALIANZA FRENTE RENOVADOR FEDERAL POR LA ESPERANZA"
+    },
+    {
+        "codigo": "0528",
+        "siglas": "ALIANZA FRENTE TERCERA POSICION",
+        "denominacion": "ALIANZA FRENTE TERCERA POSICION"
+    },
+    {
+        "codigo": "0529",
+        "siglas": "ALIANZA FRENTE UNIDOS",
+        "denominacion": "ALIANZA FRENTE UNIDOS"
+    },
+    {
+        "codigo": "0530",
+        "siglas": "ALIANZA CAMBIEMOS CHUBUT",
+        "denominacion": "ALIANZA CAMBIEMOS CHUBUT"
+    },
+    {
+        "codigo": "0531",
+        "siglas": "ALIANZA FRENTE UNION CHUBUT SOMOS TODOS",
+        "denominacion": "ALIANZA FRENTE UNION CHUBUT SOMOS TODOS"
+    },
+    {
+        "codigo": "0532",
+        "siglas": "ALIANZA FRENTE CIVICO Y SOCIAL",
+        "denominacion": "ALIANZA FRENTE CIVICO Y SOCIAL"
+    },
+    {
+        "codigo": "0533",
+        "siglas": "FRENTE CIVICO PARA LA VICTORIA",
+        "denominacion": "FRENTE CIVICO PARA LA VICTORIA"
+    },
+    {
+        "codigo": "0600",
+        "siglas": "UNION VECINALISTA DIGNIDAD PARA TODOS",
+        "denominacion": "UNION VECINALISTA DIGNIDAD PARA TODOS"
+    },
+    {
+        "codigo": "0612",
+        "siglas": "NUEVO ZARATE",
+        "denominacion": "NUEVO ZARATE"
+    },
+    {
+        "codigo": "0616",
+        "siglas": "MOVIMIENTO GENERACIONAL",
+        "denominacion": "MOVIMIENTO GENERACIONAL"
+    },
+    {
+        "codigo": "0625",
+        "siglas": "MOVIMIENTO SOCIAL PARA UNA MEJOR VIDA",
+        "denominacion": "MOVIMIENTO SOCIAL PARA UNA MEJOR VIDA"
+    },
+    {
+        "codigo": "0641",
+        "siglas": "MOVIPRO",
+        "denominacion": "MOVIPRO"
+    },
+    {
+        "codigo": "0647",
+        "siglas": "PROCLAME",
+        "denominacion": "PROCLAME"
+    },
+    {
+        "codigo": "0656",
+        "siglas": "ACCION CIUDADANA",
+        "denominacion": "ACCION CIUDADANA"
+    },
+    {
+        "codigo": "0664",
+        "siglas": "COMPROMISO PRINGLES",
+        "denominacion": "COMPROMISO PRINGLES"
+    },
+    {
+        "codigo": "0665",
+        "siglas": "PARTIDO UNION VECINAL PROV.",
+        "denominacion": "PARTIDO UNION VECINAL PROV."
+    },
+    {
+        "codigo": "0667",
+        "siglas": "INTEGRACION VECINALISTA ROSALE\u00d1A",
+        "denominacion": "INTEGRACION VECINALISTA ROSALE\u00d1A"
+    },
+    {
+        "codigo": "0670",
+        "siglas": "C.UNIDAD SOCIAL Y POL. 6 DE DICIEMBRE",
+        "denominacion": "C.UNIDAD SOCIAL Y POL. 6 DE DICIEMBRE"
+    },
+    {
+        "codigo": "0672",
+        "siglas": "UNION VECINAL DE ADOLFO GONZALES CHAVES",
+        "denominacion": "UNION VECINAL DE ADOLFO GONZALES CHAVES"
+    },
+    {
+        "codigo": "0673",
+        "siglas": "CONSTRUCCION VECINAL PARTICIPATIVA",
+        "denominacion": "CONSTRUCCION VECINAL PARTICIPATIVA"
+    },
+    {
+        "codigo": "0674",
+        "siglas": "RENOVACION PARA JUNIN",
+        "denominacion": "RENOVACION PARA JUNIN"
+    },
+    {
+        "codigo": "0693",
+        "siglas": "ACCION PINAMARENSE-AP",
+        "denominacion": "ACCION PINAMARENSE-AP"
+    },
+    {
+        "codigo": "0697",
+        "siglas": "ACCION POR VILLARINO",
+        "denominacion": "ACCION POR VILLARINO"
+    },
+    {
+        "codigo": "0703",
+        "siglas": "ENCUENTRO POR ROJAS",
+        "denominacion": "ENCUENTRO POR ROJAS"
+    },
+    {
+        "codigo": "0705",
+        "siglas": "CON VOCACION POR SAN ISIDRO",
+        "denominacion": "CON VOCACION POR SAN ISIDRO"
+    },
+    {
+        "codigo": "0734",
+        "siglas": "VIENTOS DEL SUR-VISUR",
+        "denominacion": "VIENTOS DEL SUR-VISUR"
+    },
+    {
+        "codigo": "0737",
+        "siglas": "PROPUESTA PINAMAR-PROPIN",
+        "denominacion": "PROPUESTA PINAMAR-PROPIN"
+    },
+    {
+        "codigo": "0739",
+        "siglas": "JUNTOS POR DORREGO",
+        "denominacion": "JUNTOS POR DORREGO"
+    },
+    {
+        "codigo": "0742",
+        "siglas": "AGRUPACION VECINAL UNION POR MORON",
+        "denominacion": "AGRUPACION VECINAL UNION POR MORON"
+    },
+    {
+        "codigo": "0748",
+        "siglas": "CRECER",
+        "denominacion": "CRECER"
+    },
+    {
+        "codigo": "0750",
+        "siglas": "TODOS VECINOS",
+        "denominacion": "TODOS VECINOS"
+    },
+    {
+        "codigo": "0754",
+        "siglas": "UNION DEL PUEBLO LA PLATA",
+        "denominacion": "UNION DEL PUEBLO LA PLATA"
+    },
+    {
+        "codigo": "0758",
+        "siglas": "UNA NUEVA OPORTUNIDAD SUARENSE-UNOS",
+        "denominacion": "UNA NUEVA OPORTUNIDAD SUARENSE-UNOS"
+    },
+    {
+        "codigo": "0768",
+        "siglas": "CAUSA POPULAR BRANDSEN",
+        "denominacion": "CAUSA POPULAR BRANDSEN"
+    },
+    {
+        "codigo": "0769",
+        "siglas": "MIRADA AMPLIA REGIONAL",
+        "denominacion": "MIRADA AMPLIA REGIONAL"
+    },
+    {
+        "codigo": "0774",
+        "siglas": "VECINOS EN ACCION PINAMAR-VENAP",
+        "denominacion": "VECINOS EN ACCION PINAMAR-VENAP"
+    },
+    {
+        "codigo": "0777",
+        "siglas": "AGR.MUNICIPAL DE INT.PACE\u00d1A",
+        "denominacion": "AGR.MUNICIPAL DE INT.PACE\u00d1A"
+    },
+    {
+        "codigo": "0782",
+        "siglas": "UNIDAD PACE\u00d1A",
+        "denominacion": "UNIDAD PACE\u00d1A"
+    },
+    {
+        "codigo": "0787",
+        "siglas": "SOMOS RODRIGUEZ",
+        "denominacion": "SOMOS RODRIGUEZ"
+    },
+    {
+        "codigo": "0789",
+        "siglas": "ACUERDO CIUDADANO X TRENQUE LAUQUEN",
+        "denominacion": "ACUERDO CIUDADANO X TRENQUE LAUQUEN"
+    },
+    {
+        "codigo": "0792",
+        "siglas": "UNION VECINAL SALLIQUELO",
+        "denominacion": "UNION VECINAL SALLIQUELO"
+    },
+    {
+        "codigo": "0794",
+        "siglas": "VAMOS",
+        "denominacion": "VAMOS"
+    },
+    {
+        "codigo": "0799",
+        "siglas": "UNIDOS POR NECOCHEA",
+        "denominacion": "UNIDOS POR NECOCHEA"
+    },
+    {
+        "codigo": "0803",
+        "siglas": "FRENTE MXC",
+        "denominacion": "FRENTE MXC"
+    },
+    {
+        "codigo": "0821",
+        "siglas": "JUNTOS POR SAN JUAN",
+        "denominacion": "JUNTOS POR SAN JUAN"
+    },
+    {
+        "codigo": "0900",
+        "siglas": "FRENTE RENOVADOR DE LA CONCORDIA FTE PARA LA VICT",
+        "denominacion": "FRENTE RENOVADOR DE LA CONCORDIA FTE PARA LA VICTORIA"
+    },
+    {
+        "codigo": "0901",
+        "siglas": "FRENTE POPULAR - DE LOS RIOS LIBRES, LAS CHACRAS",
+        "denominacion": "FRENTE POPULAR - DE LOS RIOS LIBRES, LAS CHACRAS Y EL TRABAJO"
+    },
+    {
+        "codigo": "0902",
+        "siglas": "PROYECTO AGRARIO Y SOCIAL PAYS",
+        "denominacion": "PROYECTO AGRARIO Y SOCIAL PAYS"
+    },
+    {
+        "codigo": "0903",
+        "siglas": "VAMOS JUNTOS",
+        "denominacion": "VAMOS JUNTOS"
+    },
+    {
+        "codigo": "0905",
+        "siglas": "FRENTE CIVICO Y SOCIAL",
+        "denominacion": "FRENTE CIVICO Y SOCIAL"
+    },
+    {
+        "codigo": "0906",
+        "siglas": "UNIDOS POR UNA NUEVA ALTERNATIVA",
+        "denominacion": "UNIDOS POR UNA NUEVA ALTERNATIVA"
+    },
+    {
+        "codigo": "0907",
+        "siglas": "FRENTE UNIDOS UNA",
+        "denominacion": "FRENTE UNIDOS UNA"
+    },
+    {
+        "codigo": "1806",
+        "siglas": "ALIANZA FRENTE MARPLATENSE",
+        "denominacion": "ALIANZA FRENTE MARPLATENSE"
+    },
+    {
+        "codigo": "3001",
+        "siglas": "17 DE OCTUBRE - LAS HERAS",
+        "denominacion": "17 DE OCTUBRE - LAS HERAS"
+    },
+    {
+        "codigo": "3002",
+        "siglas": "1\u00aa OPCION PARA LOS JOVENES - LAS HERAS",
+        "denominacion": "1\u00aa OPCION PARA LOS JOVENES - LAS HERAS"
+    },
+    {
+        "codigo": "3003",
+        "siglas": "28 PARA TODOS - 28 DE NOVIEMBRE",
+        "denominacion": "28 PARA TODOS - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3004",
+        "siglas": "28 SOMOS TODOS - 28 DE NOVIEMBRE",
+        "denominacion": "28 SOMOS TODOS - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3005",
+        "siglas": "ABANDERADA DE LOS HUMILDES - 28 DE NOVIMBRE",
+        "denominacion": "ABANDERADA DE LOS HUMILDES - 28 DE NOVIMBRE"
+    },
+    {
+        "codigo": "3006",
+        "siglas": "ACEPTA EL DESAFIO - PROVINCIAL",
+        "denominacion": "ACEPTA EL DESAFIO - PROVINCIAL"
+    },
+    {
+        "codigo": "3007",
+        "siglas": "ACEPTA EL DESAFIO - RIO GALLEGOS",
+        "denominacion": "ACEPTA EL DESAFIO - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3008",
+        "siglas": "AGRUPACION FRENTE ANTIGUENSE - LOS ANTIGUOS",
+        "denominacion": "AGRUPACION FRENTE ANTIGUENSE - LOS ANTIGUOS"
+    },
+    {
+        "codigo": "3009",
+        "siglas": "AHORA SI - RIO GALLEGOS",
+        "denominacion": "AHORA SI - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3010",
+        "siglas": "AHORA SI VAMOS A CAMBIAR - 28 DE NOVIEMBRE",
+        "denominacion": "AHORA SI VAMOS A CAMBIAR - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3011",
+        "siglas": "AHORA TRUNCADO - PICO TRUNCADO",
+        "denominacion": "AHORA TRUNCADO - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3012",
+        "siglas": "ARRIBA RIO TURBIO - RIO TURBIO",
+        "denominacion": "ARRIBA RIO TURBIO - RIO TURBIO"
+    },
+    {
+        "codigo": "3013",
+        "siglas": "BASES PARA SEGUIR CONSTRUYENDO - CALETA OLIVIA",
+        "denominacion": "BASES PARA SEGUIR CONSTRUYENDO - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3014",
+        "siglas": "CALAFATE AVANZA - EL CALAFATE",
+        "denominacion": "CALAFATE AVANZA - EL CALAFATE"
+    },
+    {
+        "codigo": "3015",
+        "siglas": "CALETA TIENE FUTURO - CALETA OLIVIA",
+        "denominacion": "CALETA TIENE FUTURO - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3016",
+        "siglas": "CALETA VA A VIVIR MEJOR - CALETA OLIVIA",
+        "denominacion": "CALETA VA A VIVIR MEJOR - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3017",
+        "siglas": "CAMBIAS VOS CAMBIA PICO TRUNCADO - PICO TRUNCADO",
+        "denominacion": "CAMBIAS VOS CAMBIA PICO TRUNCADO - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3018",
+        "siglas": "CAMBIEMOS RIO GALLEGOS- RIO GALLEGOS",
+        "denominacion": "CAMBIEMOS RIO GALLEGOS- RIO GALLEGOS"
+    },
+    {
+        "codigo": "3019",
+        "siglas": "CAMINO A LA VICTORIA - LAS HERAS",
+        "denominacion": "CAMINO A LA VICTORIA - LAS HERAS"
+    },
+    {
+        "codigo": "3020",
+        "siglas": "CAPACIDAD Y DEDICACION - 28 DE NOVIEMBRE",
+        "denominacion": "CAPACIDAD Y DEDICACION - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3021",
+        "siglas": "COMPARTIR GREGORES - GOBERNADOR GREGORES",
+        "denominacion": "COMPARTIR GREGORES - GOBERNADOR GREGORES"
+    },
+    {
+        "codigo": "3022",
+        "siglas": "COMPROMISO POR PUERTO DESEADO - PUERTO DESEADO",
+        "denominacion": "COMPROMISO POR PUERTO DESEADO - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3023",
+        "siglas": "COMPROMISO POR SANTA CRUZ - PROVINCIAL",
+        "denominacion": "COMPROMISO POR SANTA CRUZ - PROVINCIAL"
+    },
+    {
+        "codigo": "3024",
+        "siglas": "CONSTRUYAMOS JUNTOS EN RIO GALLEGOS - RIO GALLEGOS",
+        "denominacion": "CONSTRUYAMOS JUNTOS EN RIO GALLEGOS - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3025",
+        "siglas": "CONSTRUYENDO KOLINA - LAS HERAS",
+        "denominacion": "CONSTRUYENDO KOLINA - LAS HERAS"
+    },
+    {
+        "codigo": "3026",
+        "siglas": "CRECIMIENTO Y PROGRESO - RIO TURBIO",
+        "denominacion": "CRECIMIENTO Y PROGRESO - RIO TURBIO"
+    },
+    {
+        "codigo": "3027",
+        "siglas": "CREER ES CREAR - LAS HERAS",
+        "denominacion": "CREER ES CREAR - LAS HERAS"
+    },
+    {
+        "codigo": "3028",
+        "siglas": "DESARROLLO PARA CALAFATE - EL CALAFATE",
+        "denominacion": "DESARROLLO PARA CALAFATE - EL CALAFATE"
+    },
+    {
+        "codigo": "3029",
+        "siglas": "DESARROLLO RIO TURBIO - RIO TURBIO",
+        "denominacion": "DESARROLLO RIO TURBIO - RIO TURBIO"
+    },
+    {
+        "codigo": "3030",
+        "siglas": "DESEADENSES UNIDOS - PUERTO DESEADO",
+        "denominacion": "DESEADENSES UNIDOS - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3031",
+        "siglas": "DESEADO VA A VIVIR MEJOR - PUERTO DESEADO",
+        "denominacion": "DESEADO VA A VIVIR MEJOR - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3032",
+        "siglas": "EL CALAFATE Y VOS - EL CALAFATE",
+        "denominacion": "EL CALAFATE Y VOS - EL CALAFATE"
+    },
+    {
+        "codigo": "3033",
+        "siglas": "EL CAMBIO EN CALAFATE - EL CALAFATE",
+        "denominacion": "EL CAMBIO EN CALAFATE - EL CALAFATE"
+    },
+    {
+        "codigo": "3034",
+        "siglas": "EL CAMBIO ES DE TODOS - LAS HERAS",
+        "denominacion": "EL CAMBIO ES DE TODOS - LAS HERAS"
+    },
+    {
+        "codigo": "3035",
+        "siglas": "EL CAMBIO JUSTO - 28 DE NOVIEMBRE",
+        "denominacion": "EL CAMBIO JUSTO - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3036",
+        "siglas": "EL CAMBIO JUSTO - CALETA OLIVIA",
+        "denominacion": "EL CAMBIO JUSTO - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3037",
+        "siglas": "EL CAMBIO JUSTO - PIEDRA BUENA",
+        "denominacion": "EL CAMBIO JUSTO - PIEDRA BUENA"
+    },
+    {
+        "codigo": "3038",
+        "siglas": "EL CAMBIO JUSTO - PROVINCIAL",
+        "denominacion": "EL CAMBIO JUSTO - PROVINCIAL"
+    },
+    {
+        "codigo": "3039",
+        "siglas": "EL CAMBIO JUSTO - PUERTO DESEADO",
+        "denominacion": "EL CAMBIO JUSTO - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3040",
+        "siglas": "EL CAMBIO JUSTO - RIO GALLEGOS",
+        "denominacion": "EL CAMBIO JUSTO - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3041",
+        "siglas": "EL CAMBIO JUSTO - RIO TURBIO",
+        "denominacion": "EL CAMBIO JUSTO - RIO TURBIO"
+    },
+    {
+        "codigo": "3042",
+        "siglas": "EL CAMBIO YA EMPEZO - PICO TRUNCADO",
+        "denominacion": "EL CAMBIO YA EMPEZO - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3043",
+        "siglas": "EL CAMINO DEL CAMBIO - PROVINCIAL",
+        "denominacion": "EL CAMINO DEL CAMBIO - PROVINCIAL"
+    },
+    {
+        "codigo": "3044",
+        "siglas": "EL CAMINO DEL CAMBIO - RIO GALLEGOS",
+        "denominacion": "EL CAMINO DEL CAMBIO - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3045",
+        "siglas": "EL CAMINO DEL CAMBIO - SAN JULIAN",
+        "denominacion": "EL CAMINO DEL CAMBIO - SAN JULIAN"
+    },
+    {
+        "codigo": "3046",
+        "siglas": "EMPIEZA EL CAMBIO - PTO. DESEADO",
+        "denominacion": "EMPIEZA EL CAMBIO - PTO. DESEADO"
+    },
+    {
+        "codigo": "3047",
+        "siglas": "ENCUENTRO CIUDADANO - EL CALAFATE",
+        "denominacion": "ENCUENTRO CIUDADANO - EL CALAFATE"
+    },
+    {
+        "codigo": "3048",
+        "siglas": "ENCUENTRO CIUDADANO - PICO TRUNCADO",
+        "denominacion": "ENCUENTRO CIUDADANO - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3049",
+        "siglas": "ENCUENTRO CIUDADANO - PUERTO DESEADO",
+        "denominacion": "ENCUENTRO CIUDADANO - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3050",
+        "siglas": "ENCUENTRO CIUDADANO - RIO GALLEGOS",
+        "denominacion": "ENCUENTRO CIUDADANO - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3051",
+        "siglas": "ENCUENTRO CIUDADANO POR SANTA CRUZ",
+        "denominacion": "ENCUENTRO CIUDADANO POR SANTA CRUZ"
+    },
+    {
+        "codigo": "3052",
+        "siglas": "FIRMES Y DIGNOS - CALETA OLIVIA",
+        "denominacion": "FIRMES Y DIGNOS - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3053",
+        "siglas": "FORJAR LAS HERAS - LAS HERAS",
+        "denominacion": "FORJAR LAS HERAS - LAS HERAS"
+    },
+    {
+        "codigo": "3054",
+        "siglas": "FRENTE DE LA ESPERANZA - PUERTO DESEADO",
+        "denominacion": "FRENTE DE LA ESPERANZA - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3055",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES"
+    },
+    {
+        "codigo": "3056",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - 28 DE NOVIEM",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3057",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - CALETA OLIVI",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3058",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - EL CALAFATE",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - EL CALAFATE"
+    },
+    {
+        "codigo": "3059",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - GOB. GREGORE",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - GOB. GREGORES"
+    },
+    {
+        "codigo": "3060",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - LAS HERAS",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - LAS HERAS"
+    },
+    {
+        "codigo": "3061",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - LOS ANTIGUOS",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - LOS ANTIGUOS"
+    },
+    {
+        "codigo": "3062",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PERITO MOREN",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PERITO MORENO"
+    },
+    {
+        "codigo": "3063",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PICO TRUNCAD",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3064",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PUERTO DESEA",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3065",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PUERTO SANTA",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - PUERTO SANTA CRUZ"
+    },
+    {
+        "codigo": "3066",
+        "siglas": "FRENTE IZQUIERDA Y LOS TRABAJADORES - RIO GALLEGOS",
+        "denominacion": "FRENTE IZQUIERDA Y LOS TRABAJADORES - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3067",
+        "siglas": "GALLEGOS MERECE ESTAR MEJOR - RIO GALLEGOS",
+        "denominacion": "GALLEGOS MERECE ESTAR MEJOR - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3068",
+        "siglas": "GESTION INTEGRADORA SANTACRUCE\u00d1A - SANTA CRUZ",
+        "denominacion": "GESTION INTEGRADORA SANTACRUCE\u00d1A - SANTA CRUZ"
+    },
+    {
+        "codigo": "3069",
+        "siglas": "GESTION Y COMPROMISO - LOS ANTIGUOS",
+        "denominacion": "GESTION Y COMPROMISO - LOS ANTIGUOS"
+    },
+    {
+        "codigo": "3070",
+        "siglas": "IGUALDAD, FUTURO Y COMPROMISO - PERITO MORENO",
+        "denominacion": "IGUALDAD, FUTURO Y COMPROMISO - PERITO MORENO"
+    },
+    {
+        "codigo": "3071",
+        "siglas": "JP OKTUBRE - LAS HERAS",
+        "denominacion": "JP OKTUBRE - LAS HERAS"
+    },
+    {
+        "codigo": "3072",
+        "siglas": "JUNTOS A LA VICTORIA - RIO TURBIO",
+        "denominacion": "JUNTOS A LA VICTORIA - RIO TURBIO"
+    },
+    {
+        "codigo": "3073",
+        "siglas": "JUNTOS PARA EL CAMBIO - RIO TURBIO",
+        "denominacion": "JUNTOS PARA EL CAMBIO - RIO TURBIO"
+    },
+    {
+        "codigo": "3074",
+        "siglas": "JUNTOS PARA VIVIR MEJOR - GOB GREGORES",
+        "denominacion": "JUNTOS PARA VIVIR MEJOR - GOB GREGORES"
+    },
+    {
+        "codigo": "3075",
+        "siglas": "JUNTOS PODEMOS - 28 DE NOVIEMBRE",
+        "denominacion": "JUNTOS PODEMOS - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3076",
+        "siglas": "JUNTOS POR EL CAMBIO - LOS ANTIGUOS",
+        "denominacion": "JUNTOS POR EL CAMBIO - LOS ANTIGUOS"
+    },
+    {
+        "codigo": "3077",
+        "siglas": "JUNTOS POR EL CAMBIO - PROVINCIAL",
+        "denominacion": "JUNTOS POR EL CAMBIO - PROVINCIAL"
+    },
+    {
+        "codigo": "3078",
+        "siglas": "JUNTOS POR GREGORES - GOB GREGORES",
+        "denominacion": "JUNTOS POR GREGORES - GOB GREGORES"
+    },
+    {
+        "codigo": "3079",
+        "siglas": "JUNTOS POR UN CAMBIO MEJOR - CTE. L .PIEDRA BUENA",
+        "denominacion": "JUNTOS POR UN CAMBIO MEJOR - CTE. L .PIEDRA BUENA"
+    },
+    {
+        "codigo": "3080",
+        "siglas": "JUNTOS QUEREMOS CAMBIAR - PIEDRABUENA",
+        "denominacion": "JUNTOS QUEREMOS CAMBIAR - PIEDRABUENA"
+    },
+    {
+        "codigo": "3081",
+        "siglas": "JUVENTUD LA FUERZA DE PERITO - PERITO MORENO",
+        "denominacion": "JUVENTUD LA FUERZA DE PERITO - PERITO MORENO"
+    },
+    {
+        "codigo": "3082",
+        "siglas": "KOLINA INTEGRACION RIO GALLEGOS - RIO GALLEGOS",
+        "denominacion": "KOLINA INTEGRACION RIO GALLEGOS - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3083",
+        "siglas": "KOLINA TRANSFORMANDO RIO GALLEGOS - RIO GALLEGOS",
+        "denominacion": "KOLINA TRANSFORMANDO RIO GALLEGOS - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3084",
+        "siglas": "LA GENERACION DEL CAMBIO - RIO TURBIO",
+        "denominacion": "LA GENERACION DEL CAMBIO - RIO TURBIO"
+    },
+    {
+        "codigo": "3085",
+        "siglas": "LAS HERAS SOMOS TODOS - LAS HERAS",
+        "denominacion": "LAS HERAS SOMOS TODOS - LAS HERAS"
+    },
+    {
+        "codigo": "3086",
+        "siglas": "LEALTAD CON FE - PUERTO DESEADO",
+        "denominacion": "LEALTAD CON FE - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3087",
+        "siglas": "LEALTAD Y COMPROMISO - LOS ANTIGUOS",
+        "denominacion": "LEALTAD Y COMPROMISO - LOS ANTIGUOS"
+    },
+    {
+        "codigo": "3088",
+        "siglas": "MEJOR GESTION - PROVINCIAL",
+        "denominacion": "MEJOR GESTION - PROVINCIAL"
+    },
+    {
+        "codigo": "3089",
+        "siglas": "MERECEMOS ESTAR MEJOR - PROVINCIAL",
+        "denominacion": "MERECEMOS ESTAR MEJOR - PROVINCIAL"
+    },
+    {
+        "codigo": "3090",
+        "siglas": "MILITANCIA SANJULIANENSE - SAN JULIAN",
+        "denominacion": "MILITANCIA SANJULIANENSE - SAN JULIAN"
+    },
+    {
+        "codigo": "3091",
+        "siglas": "MOVIMIENTO AL SOCIALISMO",
+        "denominacion": "MOVIMIENTO AL SOCIALISMO"
+    },
+    {
+        "codigo": "3092",
+        "siglas": "MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES",
+        "denominacion": "MOVIMIENTO SOCIALISTA DE LOS TRABAJADORES"
+    },
+    {
+        "codigo": "3093",
+        "siglas": "NUEVA REFERENCIA - PUERTO SAN JULIAN",
+        "denominacion": "NUEVA REFERENCIA - PUERTO SAN JULIAN"
+    },
+    {
+        "codigo": "3094",
+        "siglas": "PENSANDO EL FUTURO - PUERTO DESEADO",
+        "denominacion": "PENSANDO EL FUTURO - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3095",
+        "siglas": "PERITO SOMOS TODOS - PERITO MORENO",
+        "denominacion": "PERITO SOMOS TODOS - PERITO MORENO"
+    },
+    {
+        "codigo": "3096",
+        "siglas": "PODEMOS VIVIR MEJOR - PUERTO SANTA CRUZ",
+        "denominacion": "PODEMOS VIVIR MEJOR - PUERTO SANTA CRUZ"
+    },
+    {
+        "codigo": "3097",
+        "siglas": "POR SIEMPRE SANTA CRUZ - PROVINCIAL",
+        "denominacion": "POR SIEMPRE SANTA CRUZ - PROVINCIAL"
+    },
+    {
+        "codigo": "3098",
+        "siglas": "POR UN CAMBIO - PIEDRA BUENA",
+        "denominacion": "POR UN CAMBIO - PIEDRA BUENA"
+    },
+    {
+        "codigo": "3099",
+        "siglas": "POR UN DESEADO MEJOR - PUERTO DESEADO",
+        "denominacion": "POR UN DESEADO MEJOR - PUERTO DESEADO"
+    },
+    {
+        "codigo": "3100",
+        "siglas": "POR UN FUTURO MEJOR - CALETA OLIVIA",
+        "denominacion": "POR UN FUTURO MEJOR - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3101",
+        "siglas": "POR UN GREGORES MEJOR- GOB GREGORES",
+        "denominacion": "POR UN GREGORES MEJOR- GOB GREGORES"
+    },
+    {
+        "codigo": "3102",
+        "siglas": "POR UN MEJOR FUTURO - LAS HERAS",
+        "denominacion": "POR UN MEJOR FUTURO - LAS HERAS"
+    },
+    {
+        "codigo": "3103",
+        "siglas": "PRIMERO CALAFATE - EL CALAFATE",
+        "denominacion": "PRIMERO CALAFATE - EL CALAFATE"
+    },
+    {
+        "codigo": "3104",
+        "siglas": "PRIMERO PERITO MORENO - PERITO MORENO",
+        "denominacion": "PRIMERO PERITO MORENO - PERITO MORENO"
+    },
+    {
+        "codigo": "3105",
+        "siglas": "PRIMERO PICO TRUNCADO - PICO TRUNCADO",
+        "denominacion": "PRIMERO PICO TRUNCADO - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3106",
+        "siglas": "PRIMERO PIEDRA BUENA - PIEDRA BUENA",
+        "denominacion": "PRIMERO PIEDRA BUENA - PIEDRA BUENA"
+    },
+    {
+        "codigo": "3107",
+        "siglas": "PRIMERO PUERTO SANTA CRUZ - PUERTO SANTA CRUZ",
+        "denominacion": "PRIMERO PUERTO SANTA CRUZ - PUERTO SANTA CRUZ"
+    },
+    {
+        "codigo": "3108",
+        "siglas": "PRIMERO SANTA CRUZ - LAS HERAS",
+        "denominacion": "PRIMERO SANTA CRUZ - LAS HERAS"
+    },
+    {
+        "codigo": "3109",
+        "siglas": "PRIMERO SANTA CRUZ - RIO GALLEGOS",
+        "denominacion": "PRIMERO SANTA CRUZ - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3110",
+        "siglas": "PROGRESO PARA 28 - 28 DE NOVIEMBRE",
+        "denominacion": "PROGRESO PARA 28 - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3111",
+        "siglas": "PROSPERIDAD Y DESARROLLO - 28 DE NOVIEMBRE",
+        "denominacion": "PROSPERIDAD Y DESARROLLO - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3112",
+        "siglas": "PROYECTAR SANTA CRUZ - 28 DE NOVIEMBRE",
+        "denominacion": "PROYECTAR SANTA CRUZ - 28 DE NOVIEMBRE"
+    },
+    {
+        "codigo": "3113",
+        "siglas": "PROYECTO CALETA - CALETA OLIVIA",
+        "denominacion": "PROYECTO CALETA - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3114",
+        "siglas": "RENOVANDO ESPERANZAS - PTO. SANTA CRUZ",
+        "denominacion": "RENOVANDO ESPERANZAS - PTO. SANTA CRUZ"
+    },
+    {
+        "codigo": "3115",
+        "siglas": "RIO GALLEGOS ENTRE TODOS - RIO GALLEGOS",
+        "denominacion": "RIO GALLEGOS ENTRE TODOS - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3116",
+        "siglas": "SABEMOS COMO HACERLO - CALETA OLIVIA",
+        "denominacion": "SABEMOS COMO HACERLO - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3117",
+        "siglas": "SAN JULIAN SOMOS TODOS - SAN JULIAN",
+        "denominacion": "SAN JULIAN SOMOS TODOS - SAN JULIAN"
+    },
+    {
+        "codigo": "3118",
+        "siglas": "SANTA CRUZ SOMOS TODOS - PROVINCIAL",
+        "denominacion": "SANTA CRUZ SOMOS TODOS - PROVINCIAL"
+    },
+    {
+        "codigo": "3119",
+        "siglas": "SIEMPRE CALETA - CALETA OLIVIA",
+        "denominacion": "SIEMPRE CALETA - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3120",
+        "siglas": "SIEMPRE PERITO MORENO - PERITO MORENO",
+        "denominacion": "SIEMPRE PERITO MORENO - PERITO MORENO"
+    },
+    {
+        "codigo": "3121",
+        "siglas": "SIEMPRE SANTA CRUZ - PROVINCIAL",
+        "denominacion": "SIEMPRE SANTA CRUZ - PROVINCIAL"
+    },
+    {
+        "codigo": "3122",
+        "siglas": "SOCIALISMO SANTACRUCE\u00d1O - PICO TRUNCADO",
+        "denominacion": "SOCIALISMO SANTACRUCE\u00d1O - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3123",
+        "siglas": "SOL PARA TODOS - RIO GALLEGOS",
+        "denominacion": "SOL PARA TODOS - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3124",
+        "siglas": "SOMOS LA DIFERENCIA - PICO TRUNCADO",
+        "denominacion": "SOMOS LA DIFERENCIA - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3125",
+        "siglas": "SO\u00d1ANDO JUNTOS POR CALETA - CALETA OLIVIA",
+        "denominacion": "SO\u00d1ANDO JUNTOS POR CALETA - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3126",
+        "siglas": "SUE\u00d1OS SANTACRUCE\u00d1OS - RIO GALLEGOS",
+        "denominacion": "SUE\u00d1OS SANTACRUCE\u00d1OS - RIO GALLEGOS"
+    },
+    {
+        "codigo": "3127",
+        "siglas": "SUMAR PARA CRECER - PERITO MORENO",
+        "denominacion": "SUMAR PARA CRECER - PERITO MORENO"
+    },
+    {
+        "codigo": "3128",
+        "siglas": "TODOS JUNTOS - EL CALAFATE",
+        "denominacion": "TODOS JUNTOS - EL CALAFATE"
+    },
+    {
+        "codigo": "3129",
+        "siglas": "TODOS PARA LOS ANTIGUOS - LOS ANTIGUOS",
+        "denominacion": "TODOS PARA LOS ANTIGUOS - LOS ANTIGUOS"
+    },
+    {
+        "codigo": "3130",
+        "siglas": "TODOS POR EL CAMBIO - LAS HERAS",
+        "denominacion": "TODOS POR EL CAMBIO - LAS HERAS"
+    },
+    {
+        "codigo": "3131",
+        "siglas": "TODOS POR LAS HERAS - LAS HERAS",
+        "denominacion": "TODOS POR LAS HERAS - LAS HERAS"
+    },
+    {
+        "codigo": "3132",
+        "siglas": "TRANSFORMACION SANTACRUCE\u00d1A - PUERTO SANTA CRUZ",
+        "denominacion": "TRANSFORMACION SANTACRUCE\u00d1A - PUERTO SANTA CRUZ"
+    },
+    {
+        "codigo": "3133",
+        "siglas": "TRUNCADO AVANZA - PICO TRUNCADO",
+        "denominacion": "TRUNCADO AVANZA - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3134",
+        "siglas": "TRUNCADO GANA - PICO TRUNCADO",
+        "denominacion": "TRUNCADO GANA - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3135",
+        "siglas": "TRUNCADO PRIMERO - PICO TRUNCADO",
+        "denominacion": "TRUNCADO PRIMERO - PICO TRUNCADO"
+    },
+    {
+        "codigo": "3136",
+        "siglas": "UNIDOS POR CALETA - CALETA OLIVIA",
+        "denominacion": "UNIDOS POR CALETA - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3137",
+        "siglas": "UNION PARA CAMBIAR LAS HERAS - LAS HERAS",
+        "denominacion": "UNION PARA CAMBIAR LAS HERAS - LAS HERAS"
+    },
+    {
+        "codigo": "3138",
+        "siglas": "UNION PARA EL CAMBIO - PROVINCIAL",
+        "denominacion": "UNION PARA EL CAMBIO - PROVINCIAL"
+    },
+    {
+        "codigo": "3139",
+        "siglas": "VALORES PARA MI CIUDAD - CALETA OLIVIA",
+        "denominacion": "VALORES PARA MI CIUDAD - CALETA OLIVIA"
+    },
+    {
+        "codigo": "3140",
+        "siglas": "VAMOS A VIVIR MEJOR - EL CALAFATE",
+        "denominacion": "VAMOS A VIVIR MEJOR - EL CALAFATE"
+    },
+    {
+        "codigo": "3141",
+        "siglas": "VAMOS A VIVIR MEJOR - SAN JULIAN",
+        "denominacion": "VAMOS A VIVIR MEJOR - SAN JULIAN"
+    },
+    {
+        "codigo": "3142",
+        "siglas": "VAMOS DESEADO - PTO. DESEADO",
+        "denominacion": "VAMOS DESEADO - PTO. DESEADO"
+    },
+    {
+        "codigo": "9997",
+        "siglas": "OTROS",
+        "denominacion": "OTROS"
+    },
+    {
+        "codigo": "9998",
+        "siglas": "RESTO DE AGRUPACIONES",
+        "denominacion": "RESTO DE AGRUPACIONES"
+    }
+]

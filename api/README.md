@@ -69,6 +69,10 @@ http://opendatacordoba.org/elecciones2015/api/?do=listas
 Luego se leen desde:  
 http://opendatacordoba.org/elecciones2015/api/json/listas.json  
 
+#### Listas en las paso
+
+http://opendatacordoba.org/elecciones2015/api/json/lemas.json  
+
 ## Otros recursos
 
 Departamentos de Córdoba:  

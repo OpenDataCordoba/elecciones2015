@@ -1,0 +1,1052 @@
+[
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 130289,
+        "porc_final_agrupacion": 4871,
+        "cargos_electos": 0,
+        "provincia": 1
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 41169,
+        "porc_final_agrupacion": 1539,
+        "cargos_electos": 0,
+        "provincia": 1
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 31278,
+        "porc_final_agrupacion": 1169,
+        "cargos_electos": 0,
+        "provincia": 1
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 27172,
+        "porc_final_agrupacion": 1016,
+        "cargos_electos": 0,
+        "provincia": 1
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 21135,
+        "porc_final_agrupacion": 790,
+        "cargos_electos": 0,
+        "provincia": 1
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 16439,
+        "porc_final_agrupacion": 615,
+        "cargos_electos": 0,
+        "provincia": 1
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 605801,
+        "porc_final_agrupacion": 4875,
+        "cargos_electos": 0,
+        "provincia": 2
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 191792,
+        "porc_final_agrupacion": 1544,
+        "cargos_electos": 0,
+        "provincia": 2
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 144953,
+        "porc_final_agrupacion": 1167,
+        "cargos_electos": 0,
+        "provincia": 2
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 125579,
+        "porc_final_agrupacion": 1011,
+        "cargos_electos": 0,
+        "provincia": 2
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 98121,
+        "porc_final_agrupacion": 790,
+        "cargos_electos": 0,
+        "provincia": 2
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 76148,
+        "porc_final_agrupacion": 613,
+        "cargos_electos": 0,
+        "provincia": 2
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 14709,
+        "porc_final_agrupacion": 4863,
+        "cargos_electos": 0,
+        "provincia": 3
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 4675,
+        "porc_final_agrupacion": 1546,
+        "cargos_electos": 0,
+        "provincia": 3
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 3630,
+        "porc_final_agrupacion": 1200,
+        "cargos_electos": 0,
+        "provincia": 3
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 3024,
+        "porc_final_agrupacion": 1000,
+        "cargos_electos": 0,
+        "provincia": 3
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 2344,
+        "porc_final_agrupacion": 775,
+        "cargos_electos": 0,
+        "provincia": 3
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 1863,
+        "porc_final_agrupacion": 616,
+        "cargos_electos": 0,
+        "provincia": 3
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 142323,
+        "porc_final_agrupacion": 4873,
+        "cargos_electos": 0,
+        "provincia": 4
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 45251,
+        "porc_final_agrupacion": 1550,
+        "cargos_electos": 0,
+        "provincia": 4
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 34077,
+        "porc_final_agrupacion": 1167,
+        "cargos_electos": 0,
+        "provincia": 4
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 29378,
+        "porc_final_agrupacion": 1006,
+        "cargos_electos": 0,
+        "provincia": 4
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 23101,
+        "porc_final_agrupacion": 791,
+        "cargos_electos": 0,
+        "provincia": 4
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 17897,
+        "porc_final_agrupacion": 613,
+        "cargos_electos": 0,
+        "provincia": 4
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 40829,
+        "porc_final_agrupacion": 4839,
+        "cargos_electos": 0,
+        "provincia": 5
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 12860,
+        "porc_final_agrupacion": 1524,
+        "cargos_electos": 0,
+        "provincia": 5
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 9859,
+        "porc_final_agrupacion": 1168,
+        "cargos_electos": 0,
+        "provincia": 5
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 8919,
+        "porc_final_agrupacion": 1057,
+        "cargos_electos": 0,
+        "provincia": 5
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 6663,
+        "porc_final_agrupacion": 790,
+        "cargos_electos": 0,
+        "provincia": 5
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 5251,
+        "porc_final_agrupacion": 622,
+        "cargos_electos": 0,
+        "provincia": 5
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 44431,
+        "porc_final_agrupacion": 4906,
+        "cargos_electos": 0,
+        "provincia": 6
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 13893,
+        "porc_final_agrupacion": 1534,
+        "cargos_electos": 0,
+        "provincia": 6
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 10454,
+        "porc_final_agrupacion": 1154,
+        "cargos_electos": 0,
+        "provincia": 6
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 8865,
+        "porc_final_agrupacion": 979,
+        "cargos_electos": 0,
+        "provincia": 6
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 7363,
+        "porc_final_agrupacion": 813,
+        "cargos_electos": 0,
+        "provincia": 6
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 5557,
+        "porc_final_agrupacion": 614,
+        "cargos_electos": 0,
+        "provincia": 6
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 21136,
+        "porc_final_agrupacion": 4851,
+        "cargos_electos": 0,
+        "provincia": 7
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 6782,
+        "porc_final_agrupacion": 1557,
+        "cargos_electos": 0,
+        "provincia": 7
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 5211,
+        "porc_final_agrupacion": 1196,
+        "cargos_electos": 0,
+        "provincia": 7
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 4350,
+        "porc_final_agrupacion": 999,
+        "cargos_electos": 0,
+        "provincia": 7
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 3402,
+        "porc_final_agrupacion": 781,
+        "cargos_electos": 0,
+        "provincia": 7
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 2682,
+        "porc_final_agrupacion": 616,
+        "cargos_electos": 0,
+        "provincia": 7
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 52574,
+        "porc_final_agrupacion": 4870,
+        "cargos_electos": 0,
+        "provincia": 8
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 16695,
+        "porc_final_agrupacion": 1546,
+        "cargos_electos": 0,
+        "provincia": 8
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 12801,
+        "porc_final_agrupacion": 1186,
+        "cargos_electos": 0,
+        "provincia": 8
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 10896,
+        "porc_final_agrupacion": 1009,
+        "cargos_electos": 0,
+        "provincia": 8
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 8414,
+        "porc_final_agrupacion": 779,
+        "cargos_electos": 0,
+        "provincia": 8
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 6587,
+        "porc_final_agrupacion": 610,
+        "cargos_electos": 0,
+        "provincia": 8
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 21521,
+        "porc_final_agrupacion": 4862,
+        "cargos_electos": 0,
+        "provincia": 9
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 7013,
+        "porc_final_agrupacion": 1584,
+        "cargos_electos": 0,
+        "provincia": 9
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 5299,
+        "porc_final_agrupacion": 1197,
+        "cargos_electos": 0,
+        "provincia": 9
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 4428,
+        "porc_final_agrupacion": 1000,
+        "cargos_electos": 0,
+        "provincia": 9
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 3328,
+        "porc_final_agrupacion": 752,
+        "cargos_electos": 0,
+        "provincia": 9
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 2677,
+        "porc_final_agrupacion": 605,
+        "cargos_electos": 0,
+        "provincia": 9
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 26114,
+        "porc_final_agrupacion": 4889,
+        "cargos_electos": 0,
+        "provincia": 10
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 8362,
+        "porc_final_agrupacion": 1565,
+        "cargos_electos": 0,
+        "provincia": 10
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 6230,
+        "porc_final_agrupacion": 1166,
+        "cargos_electos": 0,
+        "provincia": 10
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 5322,
+        "porc_final_agrupacion": 996,
+        "cargos_electos": 0,
+        "provincia": 10
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 4123,
+        "porc_final_agrupacion": 772,
+        "cargos_electos": 0,
+        "provincia": 10
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 3272,
+        "porc_final_agrupacion": 612,
+        "cargos_electos": 0,
+        "provincia": 10
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 14071,
+        "porc_final_agrupacion": 4852,
+        "cargos_electos": 0,
+        "provincia": 11
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 4402,
+        "porc_final_agrupacion": 1518,
+        "cargos_electos": 0,
+        "provincia": 11
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 3435,
+        "porc_final_agrupacion": 1185,
+        "cargos_electos": 0,
+        "provincia": 11
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 3036,
+        "porc_final_agrupacion": 1047,
+        "cargos_electos": 0,
+        "provincia": 11
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 2261,
+        "porc_final_agrupacion": 780,
+        "cargos_electos": 0,
+        "provincia": 11
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 1791,
+        "porc_final_agrupacion": 618,
+        "cargos_electos": 0,
+        "provincia": 11
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 13890,
+        "porc_final_agrupacion": 4878,
+        "cargos_electos": 0,
+        "provincia": 12
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 4300,
+        "porc_final_agrupacion": 1511,
+        "cargos_electos": 0,
+        "provincia": 12
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 3335,
+        "porc_final_agrupacion": 1172,
+        "cargos_electos": 0,
+        "provincia": 12
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 2899,
+        "porc_final_agrupacion": 1018,
+        "cargos_electos": 0,
+        "provincia": 12
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 2302,
+        "porc_final_agrupacion": 809,
+        "cargos_electos": 0,
+        "provincia": 12
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 1741,
+        "porc_final_agrupacion": 612,
+        "cargos_electos": 0,
+        "provincia": 12
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 69554,
+        "porc_final_agrupacion": 4882,
+        "cargos_electos": 0,
+        "provincia": 13
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 22218,
+        "porc_final_agrupacion": 1560,
+        "cargos_electos": 0,
+        "provincia": 13
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 16641,
+        "porc_final_agrupacion": 1168,
+        "cargos_electos": 0,
+        "provincia": 13
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 14292,
+        "porc_final_agrupacion": 1003,
+        "cargos_electos": 0,
+        "provincia": 13
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 11068,
+        "porc_final_agrupacion": 777,
+        "cargos_electos": 0,
+        "provincia": 13
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 8689,
+        "porc_final_agrupacion": 610,
+        "cargos_electos": 0,
+        "provincia": 13
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 43653,
+        "porc_final_agrupacion": 4879,
+        "cargos_electos": 0,
+        "provincia": 14
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 13831,
+        "porc_final_agrupacion": 1546,
+        "cargos_electos": 0,
+        "provincia": 14
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 10438,
+        "porc_final_agrupacion": 1167,
+        "cargos_electos": 0,
+        "provincia": 14
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 9146,
+        "porc_final_agrupacion": 1022,
+        "cargos_electos": 0,
+        "provincia": 14
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 6928,
+        "porc_final_agrupacion": 774,
+        "cargos_electos": 0,
+        "provincia": 14
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 5476,
+        "porc_final_agrupacion": 612,
+        "cargos_electos": 0,
+        "provincia": 14
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 24072,
+        "porc_final_agrupacion": 4900,
+        "cargos_electos": 0,
+        "provincia": 15
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 7643,
+        "porc_final_agrupacion": 1556,
+        "cargos_electos": 0,
+        "provincia": 15
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 5543,
+        "porc_final_agrupacion": 1128,
+        "cargos_electos": 0,
+        "provincia": 15
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 4787,
+        "porc_final_agrupacion": 975,
+        "cargos_electos": 0,
+        "provincia": 15
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 4052,
+        "porc_final_agrupacion": 825,
+        "cargos_electos": 0,
+        "provincia": 15
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 3024,
+        "porc_final_agrupacion": 616,
+        "cargos_electos": 0,
+        "provincia": 15
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 26451,
+        "porc_final_agrupacion": 4920,
+        "cargos_electos": 0,
+        "provincia": 16
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 8307,
+        "porc_final_agrupacion": 1545,
+        "cargos_electos": 0,
+        "provincia": 16
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 6128,
+        "porc_final_agrupacion": 1140,
+        "cargos_electos": 0,
+        "provincia": 16
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 5342,
+        "porc_final_agrupacion": 994,
+        "cargos_electos": 0,
+        "provincia": 16
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 4220,
+        "porc_final_agrupacion": 785,
+        "cargos_electos": 0,
+        "provincia": 16
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 3312,
+        "porc_final_agrupacion": 616,
+        "cargos_electos": 0,
+        "provincia": 16
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 47666,
+        "porc_final_agrupacion": 4887,
+        "cargos_electos": 0,
+        "provincia": 17
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 15029,
+        "porc_final_agrupacion": 1541,
+        "cargos_electos": 0,
+        "provincia": 17
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 11457,
+        "porc_final_agrupacion": 1174,
+        "cargos_electos": 0,
+        "provincia": 17
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 9925,
+        "porc_final_agrupacion": 1017,
+        "cargos_electos": 0,
+        "provincia": 17
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 7535,
+        "porc_final_agrupacion": 772,
+        "cargos_electos": 0,
+        "provincia": 17
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 5936,
+        "porc_final_agrupacion": 609,
+        "cargos_electos": 0,
+        "provincia": 17
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 27544,
+        "porc_final_agrupacion": 4882,
+        "cargos_electos": 0,
+        "provincia": 18
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 8847,
+        "porc_final_agrupacion": 1569,
+        "cargos_electos": 0,
+        "provincia": 18
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 6591,
+        "porc_final_agrupacion": 1169,
+        "cargos_electos": 0,
+        "provincia": 18
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 5629,
+        "porc_final_agrupacion": 998,
+        "cargos_electos": 0,
+        "provincia": 18
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 4319,
+        "porc_final_agrupacion": 766,
+        "cargos_electos": 0,
+        "provincia": 18
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 3473,
+        "porc_final_agrupacion": 616,
+        "cargos_electos": 0,
+        "provincia": 18
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 17883,
+        "porc_final_agrupacion": 4881,
+        "cargos_electos": 0,
+        "provincia": 19
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 5562,
+        "porc_final_agrupacion": 1519,
+        "cargos_electos": 0,
+        "provincia": 19
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 4002,
+        "porc_final_agrupacion": 1093,
+        "cargos_electos": 0,
+        "provincia": 19
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 3640,
+        "porc_final_agrupacion": 994,
+        "cargos_electos": 0,
+        "provincia": 19
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 3240,
+        "porc_final_agrupacion": 885,
+        "cargos_electos": 0,
+        "provincia": 19
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 2301,
+        "porc_final_agrupacion": 628,
+        "cargos_electos": 0,
+        "provincia": 19
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 12309,
+        "porc_final_agrupacion": 4902,
+        "cargos_electos": 0,
+        "provincia": 20
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 3885,
+        "porc_final_agrupacion": 1548,
+        "cargos_electos": 0,
+        "provincia": 20
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 2989,
+        "porc_final_agrupacion": 1191,
+        "cargos_electos": 0,
+        "provincia": 20
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 2508,
+        "porc_final_agrupacion": 999,
+        "cargos_electos": 0,
+        "provincia": 20
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 1913,
+        "porc_final_agrupacion": 762,
+        "cargos_electos": 0,
+        "provincia": 20
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 1500,
+        "porc_final_agrupacion": 598,
+        "cargos_electos": 0,
+        "provincia": 20
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 136196,
+        "porc_final_agrupacion": 4875,
+        "cargos_electos": 0,
+        "provincia": 21
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 43001,
+        "porc_final_agrupacion": 1539,
+        "cargos_electos": 0,
+        "provincia": 21
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 32706,
+        "porc_final_agrupacion": 1171,
+        "cargos_electos": 0,
+        "provincia": 21
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 28395,
+        "porc_final_agrupacion": 1017,
+        "cargos_electos": 0,
+        "provincia": 21
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 22026,
+        "porc_final_agrupacion": 789,
+        "cargos_electos": 0,
+        "provincia": 21
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 17015,
+        "porc_final_agrupacion": 609,
+        "cargos_electos": 0,
+        "provincia": 21
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 35231,
+        "porc_final_agrupacion": 4891,
+        "cargos_electos": 0,
+        "provincia": 22
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 11123,
+        "porc_final_agrupacion": 1544,
+        "cargos_electos": 0,
+        "provincia": 22
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 8696,
+        "porc_final_agrupacion": 1207,
+        "cargos_electos": 0,
+        "provincia": 22
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 7247,
+        "porc_final_agrupacion": 1006,
+        "cargos_electos": 0,
+        "provincia": 22
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 5381,
+        "porc_final_agrupacion": 747,
+        "cargos_electos": 0,
+        "provincia": 22
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 4355,
+        "porc_final_agrupacion": 605,
+        "cargos_electos": 0,
+        "provincia": 22
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 59689,
+        "porc_final_agrupacion": 4868,
+        "cargos_electos": 0,
+        "provincia": 23
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 19017,
+        "porc_final_agrupacion": 1551,
+        "cargos_electos": 0,
+        "provincia": 23
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 14317,
+        "porc_final_agrupacion": 1167,
+        "cargos_electos": 0,
+        "provincia": 23
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 12464,
+        "porc_final_agrupacion": 1016,
+        "cargos_electos": 0,
+        "provincia": 23
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 9582,
+        "porc_final_agrupacion": 781,
+        "cargos_electos": 0,
+        "provincia": 23
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 7564,
+        "porc_final_agrupacion": 617,
+        "cargos_electos": 0,
+        "provincia": 23
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 6463,
+        "porc_final_agrupacion": 4890,
+        "cargos_electos": 0,
+        "provincia": 24
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 2176,
+        "porc_final_agrupacion": 1646,
+        "cargos_electos": 0,
+        "provincia": 24
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 1494,
+        "porc_final_agrupacion": 1130,
+        "cargos_electos": 0,
+        "provincia": 24
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 1267,
+        "porc_final_agrupacion": 959,
+        "cargos_electos": 0,
+        "provincia": 24
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 1020,
+        "porc_final_agrupacion": 772,
+        "cargos_electos": 0,
+        "provincia": 24
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 797,
+        "porc_final_agrupacion": 603,
+        "cargos_electos": 0,
+        "provincia": 24
+    },
+    {
+        "codigo_agrupacion": 138,
+        "votos_agrupacion": 1634399,
+        "porc_final_agrupacion": 4877,
+        "cargos_electos": 0,
+        "provincia": 99
+    },
+    {
+        "codigo_agrupacion": 131,
+        "votos_agrupacion": 517833,
+        "porc_final_agrupacion": 1545,
+        "cargos_electos": 0,
+        "provincia": 99
+    },
+    {
+        "codigo_agrupacion": 137,
+        "votos_agrupacion": 391564,
+        "porc_final_agrupacion": 1168,
+        "cargos_electos": 0,
+        "provincia": 99
+    },
+    {
+        "codigo_agrupacion": 132,
+        "votos_agrupacion": 338510,
+        "porc_final_agrupacion": 1010,
+        "cargos_electos": 0,
+        "provincia": 99
+    },
+    {
+        "codigo_agrupacion": 135,
+        "votos_agrupacion": 263841,
+        "porc_final_agrupacion": 787,
+        "cargos_electos": 0,
+        "provincia": 99
+    },
+    {
+        "codigo_agrupacion": 133,
+        "votos_agrupacion": 205347,
+        "porc_final_agrupacion": 613,
+        "cargos_electos": 0,
+        "provincia": 99
+    }
+]
