@@ -1,1376 +1,1651 @@
 [
     {
         "votos": 426934, 
+        "porc": 23.3, 
         "provincia": 1, 
         "alianza": 131
     }, 
     {
         "votos": 897660, 
+        "porc": 49.0, 
         "provincia": 1, 
         "alianza": 135
     }, 
     {
         "votos": 244779, 
+        "porc": 13.36, 
         "provincia": 1, 
         "alianza": 138
     }, 
     {
         "votos": 123108, 
+        "porc": 6.72, 
         "provincia": 1, 
         "alianza": 132
     }, 
     {
         "votos": 82873, 
+        "porc": 4.52, 
         "provincia": 1, 
         "alianza": 137
     }, 
     {
         "votos": 21085, 
+        "porc": 1.15, 
         "provincia": 1, 
         "alianza": 133
     }, 
     {
         "votos": 10562, 
+        "porc": 0.58, 
         "provincia": 1, 
         "alianza": 136
     }, 
     {
         "votos": 9587, 
+        "porc": 0.52, 
         "provincia": 1, 
         "alianza": 13
     }, 
     {
         "votos": 10318, 
+        "porc": 0.56, 
         "provincia": 1, 
         "alianza": 134
     }, 
     {
         "votos": 3498, 
+        "porc": 0.19, 
         "provincia": 1, 
         "alianza": 81
     }, 
     {
         "votos": 1593, 
+        "porc": 0.09, 
         "provincia": 1, 
         "alianza": 57
     }, 
     {
         "votos": 3418176, 
+        "porc": 39.69, 
         "provincia": 2, 
         "alianza": 131
     }, 
     {
         "votos": 2510298, 
+        "porc": 29.15, 
         "provincia": 2, 
         "alianza": 135
     }, 
     {
         "votos": 1778909, 
+        "porc": 20.65, 
         "provincia": 2, 
         "alianza": 138
     }, 
     {
         "votos": 367227, 
+        "porc": 4.26, 
         "provincia": 2, 
         "alianza": 132
     }, 
     {
         "votos": 294071, 
+        "porc": 3.41, 
         "provincia": 2, 
         "alianza": 137
     }, 
     {
         "votos": 95756, 
+        "porc": 1.11, 
         "provincia": 2, 
         "alianza": 133
     }, 
     {
         "votos": 38639, 
+        "porc": 0.45, 
         "provincia": 2, 
         "alianza": 136
     }, 
     {
         "votos": 42263, 
+        "porc": 0.49, 
         "provincia": 2, 
         "alianza": 13
     }, 
     {
         "votos": 33848, 
+        "porc": 0.39, 
         "provincia": 2, 
         "alianza": 134
     }, 
     {
         "votos": 20647, 
+        "porc": 0.24, 
         "provincia": 2, 
         "alianza": 81
     }, 
     {
         "votos": 12782, 
+        "porc": 0.15, 
         "provincia": 2, 
         "alianza": 57
     }, 
     {
         "votos": 97103, 
+        "porc": 50.49, 
         "provincia": 3, 
         "alianza": 131
     }, 
     {
         "votos": 63587, 
+        "porc": 33.06, 
         "provincia": 3, 
         "alianza": 135
     }, 
     {
         "votos": 24427, 
+        "porc": 12.7, 
         "provincia": 3, 
         "alianza": 138
     }, 
     {
         "votos": 1822, 
+        "porc": 0.95, 
         "provincia": 3, 
         "alianza": 132
     }, 
     {
         "votos": 2027, 
+        "porc": 1.05, 
         "provincia": 3, 
         "alianza": 137
     }, 
     {
         "votos": 1064, 
+        "porc": 0.55, 
         "provincia": 3, 
         "alianza": 133
     }, 
     {
         "votos": 543, 
+        "porc": 0.28, 
         "provincia": 3, 
         "alianza": 136
     }, 
     {
         "votos": 412, 
+        "porc": 0.21, 
         "provincia": 3, 
         "alianza": 13
     }, 
     {
         "votos": 619, 
+        "porc": 0.32, 
         "provincia": 3, 
         "alianza": 134
     }, 
     {
         "votos": 348, 
+        "porc": 0.18, 
         "provincia": 3, 
         "alianza": 81
     }, 
     {
         "votos": 361, 
+        "porc": 0.19, 
         "provincia": 3, 
         "alianza": 57
     }, 
     {
         "votos": 280740, 
+        "porc": 14.65, 
         "provincia": 4, 
         "alianza": 131
     }, 
     {
         "votos": 678186, 
+        "porc": 35.38, 
         "provincia": 4, 
         "alianza": 135
     }, 
     {
         "votos": 744021, 
+        "porc": 38.81, 
         "provincia": 4, 
         "alianza": 138
     }, 
     {
         "votos": 44422, 
+        "porc": 2.32, 
         "provincia": 4, 
         "alianza": 132
     }, 
     {
         "votos": 70650, 
+        "porc": 3.69, 
         "provincia": 4, 
         "alianza": 137
     }, 
     {
         "votos": 57298, 
+        "porc": 2.99, 
         "provincia": 4, 
         "alianza": 133
     }, 
     {
         "votos": 9302, 
+        "porc": 0.49, 
         "provincia": 4, 
         "alianza": 136
     }, 
     {
         "votos": 7832, 
+        "porc": 0.41, 
         "provincia": 4, 
         "alianza": 13
     }, 
     {
         "votos": 10315, 
+        "porc": 0.54, 
         "provincia": 4, 
         "alianza": 134
     }, 
     {
         "votos": 8570, 
+        "porc": 0.45, 
         "provincia": 4, 
         "alianza": 81
     }, 
     {
         "votos": 5589, 
+        "porc": 0.29, 
         "provincia": 4, 
         "alianza": 57
     }, 
     {
         "votos": 290172, 
+        "porc": 50.45, 
         "provincia": 5, 
         "alianza": 131
     }, 
     {
         "votos": 169482, 
+        "porc": 29.47, 
         "provincia": 5, 
         "alianza": 135
     }, 
     {
         "votos": 92226, 
+        "porc": 16.03, 
         "provincia": 5, 
         "alianza": 138
     }, 
     {
         "votos": 5850, 
+        "porc": 1.02, 
         "provincia": 5, 
         "alianza": 132
     }, 
     {
         "votos": 5394, 
+        "porc": 0.94, 
         "provincia": 5, 
         "alianza": 137
     }, 
     {
         "votos": 3225, 
+        "porc": 0.56, 
         "provincia": 5, 
         "alianza": 133
     }, 
     {
         "votos": 1297, 
+        "porc": 0.23, 
         "provincia": 5, 
         "alianza": 136
     }, 
     {
         "votos": 2282, 
+        "porc": 0.4, 
         "provincia": 5, 
         "alianza": 13
     }, 
     {
         "votos": 1311, 
+        "porc": 0.23, 
         "provincia": 5, 
         "alianza": 134
     }, 
     {
         "votos": 2427, 
+        "porc": 0.42, 
         "provincia": 5, 
         "alianza": 81
     }, 
     {
         "votos": 1521, 
+        "porc": 0.26, 
         "provincia": 5, 
         "alianza": 57
     }, 
     {
         "votos": 333269, 
+        "porc": 55.36, 
         "provincia": 6, 
         "alianza": 131
     }, 
     {
         "votos": 156354, 
+        "porc": 25.97, 
         "provincia": 6, 
         "alianza": 135
     }, 
     {
         "votos": 76376, 
+        "porc": 12.69, 
         "provincia": 6, 
         "alianza": 138
     }, 
     {
         "votos": 9546, 
+        "porc": 1.59, 
         "provincia": 6, 
         "alianza": 132
     }, 
     {
         "votos": 11069, 
+        "porc": 1.84, 
         "provincia": 6, 
         "alianza": 137
     }, 
     {
         "votos": 4035, 
+        "porc": 0.67, 
         "provincia": 6, 
         "alianza": 133
     }, 
     {
         "votos": 2982, 
+        "porc": 0.5, 
         "provincia": 6, 
         "alianza": 136
     }, 
     {
         "votos": 3129, 
+        "porc": 0.52, 
         "provincia": 6, 
         "alianza": 13
     }, 
     {
         "votos": 1760, 
+        "porc": 0.29, 
         "provincia": 6, 
         "alianza": 134
     }, 
     {
         "votos": 2468, 
+        "porc": 0.41, 
         "provincia": 6, 
         "alianza": 81
     }, 
     {
         "votos": 993, 
+        "porc": 0.16, 
         "provincia": 6, 
         "alianza": 57
     }, 
     {
         "votos": 112425, 
+        "porc": 47.78, 
         "provincia": 7, 
         "alianza": 131
     }, 
     {
         "votos": 54094, 
+        "porc": 22.99, 
         "provincia": 7, 
         "alianza": 135
     }, 
     {
         "votos": 45130, 
+        "porc": 19.18, 
         "provincia": 7, 
         "alianza": 138
     }, 
     {
         "votos": 7020, 
+        "porc": 2.98, 
         "provincia": 7, 
         "alianza": 132
     }, 
     {
         "votos": 5132, 
+        "porc": 2.18, 
         "provincia": 7, 
         "alianza": 137
     }, 
     {
         "votos": 2834, 
+        "porc": 1.2, 
         "provincia": 7, 
         "alianza": 133
     }, 
     {
         "votos": 1889, 
+        "porc": 0.8, 
         "provincia": 7, 
         "alianza": 136
     }, 
     {
         "votos": 1993, 
+        "porc": 0.85, 
         "provincia": 7, 
         "alianza": 13
     }, 
     {
         "votos": 2500, 
+        "porc": 1.06, 
         "provincia": 7, 
         "alianza": 134
     }, 
     {
         "votos": 1441, 
+        "porc": 0.61, 
         "provincia": 7, 
         "alianza": 81
     }, 
     {
         "votos": 844, 
+        "porc": 0.36, 
         "provincia": 7, 
         "alianza": 57
     }, 
     {
         "votos": 287200, 
+        "porc": 39.7, 
         "provincia": 8, 
         "alianza": 131
     }, 
     {
         "votos": 252820, 
+        "porc": 34.95, 
         "provincia": 8, 
         "alianza": 135
     }, 
     {
         "votos": 128690, 
+        "porc": 17.79, 
         "provincia": 8, 
         "alianza": 138
     }, 
     {
         "votos": 24334, 
+        "porc": 3.36, 
         "provincia": 8, 
         "alianza": 132
     }, 
     {
         "votos": 9172, 
+        "porc": 1.27, 
         "provincia": 8, 
         "alianza": 137
     }, 
     {
         "votos": 7106, 
+        "porc": 0.98, 
         "provincia": 8, 
         "alianza": 133
     }, 
     {
         "votos": 3193, 
+        "porc": 0.44, 
         "provincia": 8, 
         "alianza": 136
     }, 
     {
         "votos": 3581, 
+        "porc": 0.5, 
         "provincia": 8, 
         "alianza": 13
     }, 
     {
         "votos": 4202, 
+        "porc": 0.58, 
         "provincia": 8, 
         "alianza": 134
     }, 
     {
         "votos": 1917, 
+        "porc": 0.26, 
         "provincia": 8, 
         "alianza": 81
     }, 
     {
         "votos": 1198, 
+        "porc": 0.17, 
         "provincia": 8, 
         "alianza": 57
     }, 
     {
         "votos": 181912, 
+        "porc": 61.65, 
         "provincia": 9, 
         "alianza": 131
     }, 
     {
         "votos": 49353, 
+        "porc": 16.73, 
         "provincia": 9, 
         "alianza": 135
     }, 
     {
         "votos": 51135, 
+        "porc": 17.33, 
         "provincia": 9, 
         "alianza": 138
     }, 
     {
         "votos": 2877, 
+        "porc": 0.97, 
         "provincia": 9, 
         "alianza": 132
     }, 
     {
         "votos": 4629, 
+        "porc": 1.57, 
         "provincia": 9, 
         "alianza": 137
     }, 
     {
         "votos": 1457, 
+        "porc": 0.49, 
         "provincia": 9, 
         "alianza": 133
     }, 
     {
         "votos": 90, 
+        "porc": 0.03, 
         "provincia": 9, 
         "alianza": 136
     }, 
     {
         "votos": 1188, 
+        "porc": 0.4, 
         "provincia": 9, 
         "alianza": 13
     }, 
     {
         "votos": 810, 
+        "porc": 0.27, 
         "provincia": 9, 
         "alianza": 134
     }, 
     {
         "votos": 1064, 
+        "porc": 0.36, 
         "provincia": 9, 
         "alianza": 81
     }, 
     {
         "votos": 563, 
+        "porc": 0.19, 
         "provincia": 9, 
         "alianza": 57
     }, 
     {
         "votos": 157209, 
+        "porc": 41.99, 
         "provincia": 10, 
         "alianza": 131
     }, 
     {
         "votos": 86266, 
+        "porc": 23.04, 
         "provincia": 10, 
         "alianza": 135
     }, 
     {
         "votos": 100906, 
+        "porc": 26.95, 
         "provincia": 10, 
         "alianza": 138
     }, 
     {
         "votos": 5193, 
+        "porc": 1.39, 
         "provincia": 10, 
         "alianza": 132
     }, 
     {
         "votos": 14558, 
+        "porc": 3.89, 
         "provincia": 10, 
         "alianza": 137
     }, 
     {
         "votos": 2738, 
+        "porc": 0.73, 
         "provincia": 10, 
         "alianza": 133
     }, 
     {
         "votos": 1981, 
+        "porc": 0.53, 
         "provincia": 10, 
         "alianza": 136
     }, 
     {
         "votos": 1834, 
+        "porc": 0.49, 
         "provincia": 10, 
         "alianza": 13
     }, 
     {
         "votos": 2002, 
+        "porc": 0.53, 
         "provincia": 10, 
         "alianza": 134
     }, 
     {
         "votos": 974, 
+        "porc": 0.26, 
         "provincia": 10, 
         "alianza": 81
     }, 
     {
         "votos": 768, 
+        "porc": 0.21, 
         "provincia": 10, 
         "alianza": 57
     }, 
     {
         "votos": 81499, 
+        "porc": 40.35, 
         "provincia": 11, 
         "alianza": 131
     }, 
     {
         "votos": 71029, 
+        "porc": 35.17, 
         "provincia": 11, 
         "alianza": 135
     }, 
     {
         "votos": 31798, 
+        "porc": 15.74, 
         "provincia": 11, 
         "alianza": 138
     }, 
     {
         "votos": 5409, 
+        "porc": 2.68, 
         "provincia": 11, 
         "alianza": 132
     }, 
     {
         "votos": 4041, 
+        "porc": 2.0, 
         "provincia": 11, 
         "alianza": 137
     }, 
     {
         "votos": 4381, 
+        "porc": 2.17, 
         "provincia": 11, 
         "alianza": 133
     }, 
     {
         "votos": 995, 
+        "porc": 0.49, 
         "provincia": 11, 
         "alianza": 136
     }, 
     {
         "votos": 1002, 
+        "porc": 0.5, 
         "provincia": 11, 
         "alianza": 13
     }, 
     {
         "votos": 826, 
+        "porc": 0.41, 
         "provincia": 11, 
         "alianza": 134
     }, 
     {
         "votos": 594, 
+        "porc": 0.29, 
         "provincia": 11, 
         "alianza": 81
     }, 
     {
         "votos": 406, 
+        "porc": 0.2, 
         "provincia": 11, 
         "alianza": 57
     }, 
     {
         "votos": 68818, 
+        "porc": 40.76, 
         "provincia": 12, 
         "alianza": 131
     }, 
     {
         "votos": 45642, 
+        "porc": 27.03, 
         "provincia": 12, 
         "alianza": 135
     }, 
     {
         "votos": 40988, 
+        "porc": 24.28, 
         "provincia": 12, 
         "alianza": 138
     }, 
     {
         "votos": 1146, 
+        "porc": 0.68, 
         "provincia": 12, 
         "alianza": 132
     }, 
     {
         "votos": 2404, 
+        "porc": 1.42, 
         "provincia": 12, 
         "alianza": 137
     }, 
     {
         "votos": 7081, 
+        "porc": 4.19, 
         "provincia": 12, 
         "alianza": 133
     }, 
     {
         "votos": 645, 
+        "porc": 0.38, 
         "provincia": 12, 
         "alianza": 136
     }, 
     {
         "votos": 557, 
+        "porc": 0.33, 
         "provincia": 12, 
         "alianza": 13
     }, 
     {
         "votos": 602, 
+        "porc": 0.36, 
         "provincia": 12, 
         "alianza": 134
     }, 
     {
         "votos": 612, 
+        "porc": 0.36, 
         "provincia": 12, 
         "alianza": 81
     }, 
     {
         "votos": 336, 
+        "porc": 0.2, 
         "provincia": 12, 
         "alianza": 57
     }, 
     {
         "votos": 336797, 
+        "porc": 33.47, 
         "provincia": 13, 
         "alianza": 131
     }, 
     {
         "votos": 363589, 
+        "porc": 36.13, 
         "provincia": 13, 
         "alianza": 135
     }, 
     {
         "votos": 134547, 
+        "porc": 13.37, 
         "provincia": 13, 
         "alianza": 138
     }, 
     {
         "votos": 13974, 
+        "porc": 1.39, 
         "provincia": 13, 
         "alianza": 132
     }, 
     {
         "votos": 90642, 
+        "porc": 9.01, 
         "provincia": 13, 
         "alianza": 137
     }, 
     {
         "votos": 52545, 
+        "porc": 5.22, 
         "provincia": 13, 
         "alianza": 133
     }, 
     {
         "votos": 3939, 
+        "porc": 0.39, 
         "provincia": 13, 
         "alianza": 136
     }, 
     {
         "votos": 3060, 
+        "porc": 0.3, 
         "provincia": 13, 
         "alianza": 13
     }, 
     {
         "votos": 2534, 
+        "porc": 0.25, 
         "provincia": 13, 
         "alianza": 134
     }, 
     {
         "votos": 3013, 
+        "porc": 0.3, 
         "provincia": 13, 
         "alianza": 81
     }, 
     {
         "votos": 1577, 
+        "porc": 0.16, 
         "provincia": 13, 
         "alianza": 57
     }, 
     {
         "votos": 355537, 
+        "porc": 57.6, 
         "provincia": 14, 
         "alianza": 131
     }, 
     {
         "votos": 136573, 
+        "porc": 22.13, 
         "provincia": 14, 
         "alianza": 135
     }, 
     {
         "votos": 90922, 
+        "porc": 14.73, 
         "provincia": 14, 
         "alianza": 138
     }, 
     {
         "votos": 7391, 
+        "porc": 1.2, 
         "provincia": 14, 
         "alianza": 132
     }, 
     {
         "votos": 8697, 
+        "porc": 1.41, 
         "provincia": 14, 
         "alianza": 137
     }, 
     {
         "votos": 3765, 
+        "porc": 0.61, 
         "provincia": 14, 
         "alianza": 133
     }, 
     {
         "votos": 3870, 
+        "porc": 0.63, 
         "provincia": 14, 
         "alianza": 136
     }, 
     {
         "votos": 2908, 
+        "porc": 0.47, 
         "provincia": 14, 
         "alianza": 13
     }, 
     {
         "votos": 2941, 
+        "porc": 0.48, 
         "provincia": 14, 
         "alianza": 134
     }, 
     {
         "votos": 3217, 
+        "porc": 0.52, 
         "provincia": 14, 
         "alianza": 81
     }, 
     {
         "votos": 1404, 
+        "porc": 0.23, 
         "provincia": 14, 
         "alianza": 57
     }, 
     {
         "votos": 115769, 
+        "porc": 35.69, 
         "provincia": 15, 
         "alianza": 131
     }, 
     {
         "votos": 88905, 
+        "porc": 27.41, 
         "provincia": 15, 
         "alianza": 135
     }, 
     {
         "votos": 70548, 
+        "porc": 21.75, 
         "provincia": 15, 
         "alianza": 138
     }, 
     {
         "votos": 9870, 
+        "porc": 3.04, 
         "provincia": 15, 
         "alianza": 132
     }, 
     {
         "votos": 19764, 
+        "porc": 6.09, 
         "provincia": 15, 
         "alianza": 137
     }, 
     {
         "votos": 7847, 
+        "porc": 2.42, 
         "provincia": 15, 
         "alianza": 133
     }, 
     {
         "votos": 2621, 
+        "porc": 0.81, 
         "provincia": 15, 
         "alianza": 136
     }, 
     {
         "votos": 2503, 
+        "porc": 0.77, 
         "provincia": 15, 
         "alianza": 13
     }, 
     {
         "votos": 2705, 
+        "porc": 0.83, 
         "provincia": 15, 
         "alianza": 134
     }, 
     {
         "votos": 2416, 
+        "porc": 0.74, 
         "provincia": 15, 
         "alianza": 81
     }, 
     {
         "votos": 1413, 
+        "porc": 0.44, 
         "provincia": 15, 
         "alianza": 57
     }, 
     {
         "votos": 160751, 
+        "porc": 44.78, 
         "provincia": 16, 
         "alianza": 131
     }, 
     {
         "votos": 81260, 
+        "porc": 22.64, 
         "provincia": 16, 
         "alianza": 135
     }, 
     {
         "votos": 76875, 
+        "porc": 21.42, 
         "provincia": 16, 
         "alianza": 138
     }, 
     {
         "votos": 11208, 
+        "porc": 3.12, 
         "provincia": 16, 
         "alianza": 132
     }, 
     {
         "votos": 11991, 
+        "porc": 3.34, 
         "provincia": 16, 
         "alianza": 137
     }, 
     {
         "votos": 6775, 
+        "porc": 1.89, 
         "provincia": 16, 
         "alianza": 133
     }, 
     {
         "votos": 3155, 
+        "porc": 0.88, 
         "provincia": 16, 
         "alianza": 136
     }, 
     {
         "votos": 2500, 
+        "porc": 0.7, 
         "provincia": 16, 
         "alianza": 13
     }, 
     {
         "votos": 1648, 
+        "porc": 0.46, 
         "provincia": 16, 
         "alianza": 134
     }, 
     {
         "votos": 1812, 
+        "porc": 0.5, 
         "provincia": 16, 
         "alianza": 81
     }, 
     {
         "votos": 965, 
+        "porc": 0.27, 
         "provincia": 16, 
         "alianza": 57
     }, 
     {
         "votos": 273686, 
+        "porc": 44.59, 
         "provincia": 17, 
         "alianza": 131
     }, 
     {
         "votos": 125544, 
+        "porc": 20.45, 
         "provincia": 17, 
         "alianza": 135
     }, 
     {
         "votos": 171946, 
+        "porc": 28.01, 
         "provincia": 17, 
         "alianza": 138
     }, 
     {
         "votos": 7225, 
+        "porc": 1.18, 
         "provincia": 17, 
         "alianza": 132
     }, 
     {
         "votos": 20332, 
+        "porc": 3.31, 
         "provincia": 17, 
         "alianza": 137
     }, 
     {
         "votos": 3590, 
+        "porc": 0.58, 
         "provincia": 17, 
         "alianza": 133
     }, 
     {
         "votos": 3580, 
+        "porc": 0.58, 
         "provincia": 17, 
         "alianza": 136
     }, 
     {
         "votos": 2263, 
+        "porc": 0.37, 
         "provincia": 17, 
         "alianza": 13
     }, 
     {
         "votos": 2570, 
+        "porc": 0.42, 
         "provincia": 17, 
         "alianza": 134
     }, 
     {
         "votos": 2031, 
+        "porc": 0.33, 
         "provincia": 17, 
         "alianza": 81
     }, 
     {
         "votos": 1080, 
+        "porc": 0.18, 
         "provincia": 17, 
         "alianza": 57
     }, 
     {
         "votos": 216245, 
+        "porc": 54.65, 
         "provincia": 18, 
         "alianza": 131
     }, 
     {
         "votos": 63564, 
+        "porc": 16.07, 
         "provincia": 18, 
         "alianza": 135
     }, 
     {
         "votos": 87245, 
+        "porc": 22.05, 
         "provincia": 18, 
         "alianza": 138
     }, 
     {
         "votos": 5709, 
+        "porc": 1.44, 
         "provincia": 18, 
         "alianza": 132
     }, 
     {
         "votos": 2861, 
+        "porc": 0.72, 
         "provincia": 18, 
         "alianza": 137
     }, 
     {
         "votos": 15283, 
+        "porc": 3.86, 
         "provincia": 18, 
         "alianza": 133
     }, 
     {
         "votos": 1978, 
+        "porc": 0.5, 
         "provincia": 18, 
         "alianza": 136
     }, 
     {
         "votos": 716, 
+        "porc": 0.18, 
         "provincia": 18, 
         "alianza": 13
     }, 
     {
         "votos": 1223, 
+        "porc": 0.31, 
         "provincia": 18, 
         "alianza": 134
     }, 
     {
         "votos": 449, 
+        "porc": 0.11, 
         "provincia": 18, 
         "alianza": 81
     }, 
     {
         "votos": 384, 
+        "porc": 0.1, 
         "provincia": 18, 
         "alianza": 57
     }, 
     {
         "votos": 48186, 
+        "porc": 19.59, 
         "provincia": 19, 
         "alianza": 131
     }, 
     {
         "votos": 60965, 
+        "porc": 24.78, 
         "provincia": 19, 
         "alianza": 135
     }, 
     {
         "votos": 15543, 
+        "porc": 6.32, 
         "provincia": 19, 
         "alianza": 138
     }, 
     {
         "votos": 3501, 
+        "porc": 1.42, 
         "provincia": 19, 
         "alianza": 132
     }, 
     {
         "votos": 3138, 
+        "porc": 1.28, 
         "provincia": 19, 
         "alianza": 137
     }, 
     {
         "votos": 111989, 
+        "porc": 45.53, 
         "provincia": 19, 
         "alianza": 133
     }, 
     {
         "votos": 507, 
+        "porc": 0.21, 
         "provincia": 19, 
         "alianza": 136
     }, 
     {
         "votos": 942, 
+        "porc": 0.38, 
         "provincia": 19, 
         "alianza": 13
     }, 
     {
         "votos": 580, 
+        "porc": 0.24, 
         "provincia": 19, 
         "alianza": 134
     }, 
     {
         "votos": 436, 
+        "porc": 0.18, 
         "provincia": 19, 
         "alianza": 81
     }, 
     {
         "votos": 189, 
+        "porc": 0.08, 
         "provincia": 19, 
         "alianza": 57
     }, 
     {
         "votos": 73042, 
+        "porc": 44.46, 
         "provincia": 20, 
         "alianza": 131
     }, 
     {
         "votos": 41929, 
+        "porc": 25.52, 
         "provincia": 20, 
         "alianza": 135
     }, 
     {
         "votos": 33984, 
+        "porc": 20.69, 
         "provincia": 20, 
         "alianza": 138
     }, 
     {
         "votos": 2525, 
+        "porc": 1.54, 
         "provincia": 20, 
         "alianza": 132
     }, 
     {
         "votos": 6889, 
+        "porc": 4.19, 
         "provincia": 20, 
         "alianza": 137
     }, 
     {
         "votos": 1871, 
+        "porc": 1.14, 
         "provincia": 20, 
         "alianza": 133
     }, 
     {
         "votos": 905, 
+        "porc": 0.55, 
         "provincia": 20, 
         "alianza": 136
     }, 
     {
         "votos": 1186, 
+        "porc": 0.72, 
         "provincia": 20, 
         "alianza": 13
     }, 
     {
         "votos": 1061, 
+        "porc": 0.65, 
         "provincia": 20, 
         "alianza": 134
     }, 
     {
         "votos": 470, 
+        "porc": 0.29, 
         "provincia": 20, 
         "alianza": 81
     }, 
     {
         "votos": 425, 
+        "porc": 0.26, 
         "provincia": 20, 
         "alianza": 57
     }, 
     {
         "votos": 550970, 
+        "porc": 33.03, 
         "provincia": 21, 
         "alianza": 131
     }, 
     {
         "votos": 533398, 
+        "porc": 31.97, 
         "provincia": 21, 
         "alianza": 135
     }, 
     {
         "votos": 368693, 
+        "porc": 22.1, 
         "provincia": 21, 
         "alianza": 138
     }, 
     {
         "votos": 102997, 
+        "porc": 6.17, 
         "provincia": 21, 
         "alianza": 132
     }, 
     {
         "votos": 37121, 
+        "porc": 2.23, 
         "provincia": 21, 
         "alianza": 137
     }, 
     {
         "votos": 47438, 
+        "porc": 2.84, 
         "provincia": 21, 
         "alianza": 133
     }, 
     {
         "votos": 8257, 
+        "porc": 0.49, 
         "provincia": 21, 
         "alianza": 136
     }, 
     {
         "votos": 6324, 
+        "porc": 0.38, 
         "provincia": 21, 
         "alianza": 13
     }, 
     {
         "votos": 6220, 
+        "porc": 0.37, 
         "provincia": 21, 
         "alianza": 134
     }, 
     {
         "votos": 4468, 
+        "porc": 0.27, 
         "provincia": 21, 
         "alianza": 81
     }, 
     {
         "votos": 2364, 
+        "porc": 0.14, 
         "provincia": 21, 
         "alianza": 57
     }, 
     {
         "votos": 311640, 
+        "porc": 66.65, 
         "provincia": 22, 
         "alianza": 131
     }, 
     {
         "votos": 66393, 
+        "porc": 14.2, 
         "provincia": 22, 
         "alianza": 135
     }, 
     {
         "votos": 70108, 
+        "porc": 14.99, 
         "provincia": 22, 
         "alianza": 138
     }, 
     {
         "votos": 4543, 
+        "porc": 0.97, 
         "provincia": 22, 
         "alianza": 132
     }, 
     {
         "votos": 5679, 
+        "porc": 1.21, 
         "provincia": 22, 
         "alianza": 137
     }, 
     {
         "votos": 2312, 
+        "porc": 0.49, 
         "provincia": 22, 
         "alianza": 133
     }, 
     {
         "votos": 1295, 
+        "porc": 0.28, 
         "provincia": 22, 
         "alianza": 136
     }, 
     {
         "votos": 1376, 
+        "porc": 0.29, 
         "provincia": 22, 
         "alianza": 13
     }, 
     {
         "votos": 1787, 
+        "porc": 0.38, 
         "provincia": 22, 
         "alianza": 134
     }, 
     {
         "votos": 1716, 
+        "porc": 0.37, 
         "provincia": 22, 
         "alianza": 81
     }, 
     {
         "votos": 725, 
+        "porc": 0.16, 
         "provincia": 22, 
         "alianza": 57
     }, 
     {
         "votos": 501039, 
+        "porc": 57.48, 
         "provincia": 23, 
         "alianza": 131
     }, 
     {
         "votos": 175049, 
+        "porc": 20.08, 
         "provincia": 23, 
         "alianza": 135
     }, 
     {
         "votos": 141527, 
+        "porc": 16.24, 
         "provincia": 23, 
         "alianza": 138
     }, 
     {
         "votos": 12500, 
+        "porc": 1.43, 
         "provincia": 23, 
         "alianza": 132
     }, 
     {
         "votos": 17366, 
+        "porc": 1.99, 
         "provincia": 23, 
         "alianza": 137
     }, 
     {
         "votos": 9155, 
+        "porc": 1.05, 
         "provincia": 23, 
         "alianza": 133
     }, 
     {
         "votos": 3600, 
+        "porc": 0.41, 
         "provincia": 23, 
         "alianza": 136
     }, 
     {
         "votos": 3578, 
+        "porc": 0.41, 
         "provincia": 23, 
         "alianza": 13
     }, 
     {
         "votos": 3032, 
+        "porc": 0.35, 
         "provincia": 23, 
         "alianza": 134
     }, 
     {
         "votos": 2922, 
+        "porc": 0.34, 
         "provincia": 23, 
         "alianza": 81
     }, 
     {
         "votos": 1869, 
+        "porc": 0.21, 
         "provincia": 23, 
         "alianza": 57
     }, 
     {
         "votos": 41454, 
+        "porc": 47.62, 
         "provincia": 24, 
         "alianza": 131
     }, 
     {
         "votos": 19338, 
+        "porc": 22.21, 
         "provincia": 24, 
         "alianza": 135
     }, 
     {
         "votos": 18082, 
+        "porc": 20.77, 
         "provincia": 24, 
         "alianza": 138
     }, 
     {
         "votos": 2075, 
+        "porc": 2.38, 
         "provincia": 24, 
         "alianza": 132
     }, 
     {
         "votos": 2351, 
+        "porc": 2.7, 
         "provincia": 24, 
         "alianza": 137
     }, 
     {
         "votos": 1711, 
+        "porc": 1.97, 
         "provincia": 24, 
         "alianza": 133
     }, 
     {
         "votos": 499, 
+        "porc": 0.57, 
         "provincia": 24, 
         "alianza": 136
     }, 
     {
         "votos": 726, 
+        "porc": 0.83, 
         "provincia": 24, 
         "alianza": 13
     }, 
     {
         "votos": 366, 
+        "porc": 0.42, 
         "provincia": 24, 
         "alianza": 134
     }, 
     {
         "votos": 288, 
+        "porc": 0.33, 
         "provincia": 24, 
         "alianza": 81
     }, 
     {
         "votos": 163, 
+        "porc": 0.19, 
         "provincia": 24, 
         "alianza": 57
     }, 
     {
         "votos": 8720573, 
+        "porc": 38.67, 
         "provincia": 99, 
         "alianza": 131
     }, 
     {
         "votos": 6791278, 
+        "porc": 30.12, 
         "provincia": 99, 
         "alianza": 135
     }, 
     {
         "votos": 4639405, 
+        "porc": 20.57, 
         "provincia": 99, 
         "alianza": 138
     }, 
     {
         "votos": 781472, 
+        "porc": 3.47, 
         "provincia": 99, 
         "alianza": 132
     }, 
     {
         "votos": 732851, 
+        "porc": 3.25, 
         "provincia": 99, 
         "alianza": 137
     }, 
     {
         "votos": 472341, 
+        "porc": 2.09, 
         "provincia": 99, 
         "alianza": 133
     }, 
     {
         "votos": 106324, 
+        "porc": 0.47, 
         "provincia": 99, 
         "alianza": 136
     }, 
     {
         "votos": 103742, 
+        "porc": 0.46, 
         "provincia": 99, 
         "alianza": 13
     }, 
     {
         "votos": 95780, 
+        "porc": 0.42, 
         "provincia": 99, 
         "alianza": 134
     }, 
     {
         "votos": 67798, 
+        "porc": 0.3, 
         "provincia": 99, 
         "alianza": 81
     }, 
     {
         "votos": 39512, 
+        "porc": 0.18, 
         "provincia": 99, 
         "alianza": 57
     }
