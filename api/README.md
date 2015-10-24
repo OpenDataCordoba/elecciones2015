@@ -2,9 +2,15 @@
 
 # datos de las PASO 2015
 
-Totales nacionales por alianzas (sin los lemas):  
+Totales PROVISORIOS PASO nacionales por alianzas (sin los lemas):  
 http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-nacionales-Alinazas-sin-lemas.json  
-
+  
+Totales DEFINITIVOS PASO nacionales por alianzas (sin los lemas):  
+http://opendatacordoba.org/elecciones2015/api/json/PASO-DEF2015-totales-por-provincia-Alinazas-sin-lemas.json  
+  
+Totales DEFINITIVOS PASO nacionales por alianzas (con los lemas):  
+http://opendatacordoba.org/elecciones2015/api/json/PASO-DEF2015-totales-por-provincia-Alinazas-con-lemas.json  
+  
 Totales por provincia por alianza (sin lemas):  
 http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-por-provincia-Alinazas-sin-lemas.json  
 
