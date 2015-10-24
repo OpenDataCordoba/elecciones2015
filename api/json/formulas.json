@@ -1,0 +1,237 @@
+[
+    {
+        "codigo": "0131",
+        "distrito": "99",
+        "nombre": "SCIOLI, DANIEL OSVALDO - ZANNINI, CARLOS ALBERTO"
+    },
+    {
+        "codigo": "0132",
+        "distrito": "99",
+        "nombre": "STOLBIZER, MARGARITA ROSA - OLAVIAGA, MIGUEL ANGEL"
+    },
+    {
+        "codigo": "0133",
+        "distrito": "99",
+        "nombre": "RODRIGUEZ SAA, ADOLFO - NEGRE DE ALONSO, LILIANA TERESITA"
+    },
+    {
+        "codigo": "0135",
+        "distrito": "99",
+        "nombre": "MACRI, MAURICIO - MICHETTI, MARTA GABRIELA"
+    },
+    {
+        "codigo": "0137",
+        "distrito": "99",
+        "nombre": "DEL CA\u00d1O, NICOLAS - BREGMAN, MYRIAM TERESA"
+    },
+    {
+        "codigo": "0138",
+        "distrito": "99",
+        "nombre": "MASSA, SERGIO TOMAS - RUBERTO SAENZ, GUSTAVO ADOLFO"
+    },
+    {
+        "codigo": "0131",
+        "distrito": "02",
+        "nombre": "FERNANDEZ, ANIBAL - SABBATELLA, MARTIN"
+    },
+    {
+        "codigo": "0132",
+        "distrito": "02",
+        "nombre": "LINARES, JAIME - PUGLIESE, JUAN CARLOS"
+    },
+    {
+        "codigo": "0137",
+        "distrito": "02",
+        "nombre": "PITROLA, NESTOR ANTONIO - SOBRERO, RUBEN DARIO"
+    },
+    {
+        "codigo": "0138",
+        "distrito": "02",
+        "nombre": "SOLA, FELIPE CARLOS - ARROYO, DANIEL FERNANDO"
+    },
+    {
+        "codigo": "0145",
+        "distrito": "02",
+        "nombre": "VIDAL, MARIA EUGENIA - SALVADOR, DANIEL MARCELO"
+    },
+    {
+        "codigo": "0501",
+        "distrito": "03",
+        "nombre": "CORPACCI, LUCIA BENIGNA - GUTIERREZ, VICTOR OCTAVIO"
+    },
+    {
+        "codigo": "0524",
+        "distrito": "03",
+        "nombre": "BRIZUELA DEL MORAL, EDUARDO SEGUNDO - JUAREZ, MYRIAM DEL VALLE"
+    },
+    {
+        "codigo": "0528",
+        "distrito": "03",
+        "nombre": "RIVERA, MARCELO DANIEL - DIAZ, ZULLY DEL CARMEN"
+    },
+    {
+        "codigo": "0152",
+        "distrito": "07",
+        "nombre": "PETERSEN, OSCAR - AVILA, MARTIN"
+    },
+    {
+        "codigo": "0501",
+        "distrito": "07",
+        "nombre": "BUZZI, MARTIN - GARITANO, JUAN"
+    },
+    {
+        "codigo": "0530",
+        "distrito": "07",
+        "nombre": "LORENZO, CARLOS - LEIVA, MARIA"
+    },
+    {
+        "codigo": "0531",
+        "distrito": "07",
+        "nombre": "DAS NEVES, MARIO - ARCIONI, MARIANO"
+    },
+    {
+        "codigo": "0023",
+        "distrito": "08",
+        "nombre": "FUERTES, ADRIAN FEDERICO - BUSTI, JORGE PEDRO"
+    },
+    {
+        "codigo": "0050",
+        "distrito": "08",
+        "nombre": "VIALE, LISANDRO ALFREDO - SIMON, MARINA"
+    },
+    {
+        "codigo": "0501",
+        "distrito": "08",
+        "nombre": "BORDET, GUSTAVO EDUARDO - BAHL, ADAN HUMBERTO"
+    },
+    {
+        "codigo": "0502",
+        "distrito": "08",
+        "nombre": "DE ANGELI, ALFREDO LUIS - GODOY, JUAN CARLOS LUCIO"
+    },
+    {
+        "codigo": "0071",
+        "distrito": "14",
+        "nombre": "COUTOUNE, MARIO EDUARDO - RAMISCH, GUILLERMO MAXIMILIANO"
+    },
+    {
+        "codigo": "0616",
+        "distrito": "14",
+        "nombre": "ARANDA, ALFREDO WENCESLAO - DOMINGUEZ, CESAR OSCAR"
+    },
+    {
+        "codigo": "0625",
+        "distrito": "14",
+        "nombre": "BENITEZ, ROBERTO ORLANDO - DUARTE, FRANCISCO ESTEBAN"
+    },
+    {
+        "codigo": "0900",
+        "distrito": "14",
+        "nombre": "PASSALACQUA, HUGO MARIO - HERRERA AHUAD, OSCAR ALBERTO"
+    },
+    {
+        "codigo": "0901",
+        "distrito": "14",
+        "nombre": "PASAMAN ZNACOVSKI, JUAN - ROSENFELD, VICTOR ALFREDO"
+    },
+    {
+        "codigo": "0902",
+        "distrito": "14",
+        "nombre": "BARBARO, HECTOR ORLANDO - CIARMIELLO, DIEGO SEBASTIAN"
+    },
+    {
+        "codigo": "0903",
+        "distrito": "14",
+        "nombre": "ZIEGLER, ALEX ROBERTO - PEGORARO, MARIO DIONISIO"
+    },
+    {
+        "codigo": "0905",
+        "distrito": "14",
+        "nombre": "GONZALEZ, GUSTAVO ALBERTO - FERNANDEZ FLORES, NORMA EDITH"
+    },
+    {
+        "codigo": "0906",
+        "distrito": "14",
+        "nombre": "VELAZQUEZ, RAMON DEL ROSARIO - SANTA CRUZ, MIGUEL EGIDIO"
+    },
+    {
+        "codigo": "0907",
+        "distrito": "14",
+        "nombre": "VELAZQUEZ, ADOLFO - SAN JOSE, NELSON RICARDO"
+    },
+    {
+        "codigo": "0153",
+        "distrito": "18",
+        "nombre": "AVELIN, ALFREDO - NAVAS, CARLOS EMETERIO"
+    },
+    {
+        "codigo": "0501",
+        "distrito": "18",
+        "nombre": "U\u00d1AC, SERGIO - LIMA, MARCELO"
+    },
+    {
+        "codigo": "0518",
+        "distrito": "18",
+        "nombre": "BASUALDO, ROBERTO - CONTI, ENRIQUE"
+    },
+    {
+        "codigo": "0526",
+        "distrito": "18",
+        "nombre": "KUCHEN, GENJAMIN RAFAEL - SUAREZ JOFRE, LUIS CONRADO"
+    },
+    {
+        "codigo": "0821",
+        "distrito": "18",
+        "nombre": "TURCUMAN, MARTIN - COSTAMAGNA, GUSTAVO"
+    },
+    {
+        "codigo": "0131",
+        "distrito": "19",
+        "nombre": "GONZALEZ ESPINDOLA, HECTOR DANIEL - GUARDIA, SERGIO LUIS"
+    },
+    {
+        "codigo": "0133",
+        "distrito": "19",
+        "nombre": "RODRIGUEZ SAA, ALBERTO JOSE - PONCE, CARLOS YBRHAIN"
+    },
+    {
+        "codigo": "0135",
+        "distrito": "19",
+        "nombre": "RICCARDO, JOSE LUIS - BELLETINI, CARLOS MIGUEL"
+    },
+    {
+        "codigo": "3038",
+        "distrito": "20",
+        "nombre": "PEREZ, OSVALDO FRANCISCO - VILLARROEL, ANA VIRGINIA"
+    },
+    {
+        "codigo": "3055",
+        "distrito": "20",
+        "nombre": "VALENTIN, JUAN M. - VILLAMAYOR, NORMA DINA"
+    },
+    {
+        "codigo": "3077",
+        "distrito": "20",
+        "nombre": "COSTA, EDUARDO RAUL - ZIEHLKE, CARLOS JORGE"
+    },
+    {
+        "codigo": "3091",
+        "distrito": "20",
+        "nombre": "NAUTO, GUSTAVO DANIEL - MIGANI, MONICA INES"
+    },
+    {
+        "codigo": "3092",
+        "distrito": "20",
+        "nombre": "POLIAK, EMILIO ALEJANDRO - STEKAR, ANABEL IRENE"
+    },
+    {
+        "codigo": "3118",
+        "distrito": "20",
+        "nombre": "PERALTA, DANIEL ROMAN - VENTURELLI, FRANCISCO MANUEL"
+    },
+    {
+        "codigo": "3121",
+        "distrito": "20",
+        "nombre": "KIRCHNER, ALICIA MARGARITA ANTONIA - GONZALEZ, PABLO GERARDO"
+    }
+]

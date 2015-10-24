@@ -3,12 +3,16 @@
 # datos de las PASO 2015
 
 Totales nacionales por alianzas (sin los lemas):  
-http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-nacionales-Alinazas-sin-lemas.json
+http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-nacionales-Alinazas-sin-lemas.json  
 
 Totales por provincia por alianza (sin lemas):  
-http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-por-provincia-Alinazas-sin-lemas.json
+http://opendatacordoba.org/elecciones2015/api/json/PASO-2015-totales-por-provincia-Alinazas-sin-lemas.json  
 
+Totales en Córodoba por lema:  
+http://opendatacordoba.org/elecciones2015/api/json/Cba-totales-por-lema--TotalSubLemaPresidente.json  
 
+Códigos de cada lema:  
+http://opendatacordoba.org/elecciones2015/api/json/PASO--NomCandidatosPresidente.json  
 
 Para leer los CSV de DINE+INDRA y sacar Json listos para usar en vivo.  
   
