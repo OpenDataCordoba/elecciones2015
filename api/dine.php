@@ -45,7 +45,7 @@ class Dine {
 
 	# ---- TOTALES 
 	function totales_listas() {
-		
+		$final = []; # hacer un resumen final para no tener que leer 24 archivos en lo nacional
 		foreach ($this->provincias as $prov) {
 			$res = [];
 			$prov = ($prov < 10 ) ? $prov = "0" . $prov : (string)$prov;
@@ -60,7 +60,7 @@ class Dine {
 				$seccion = (int)$flds[2];
 				$idf = $distrito.'_'.$seccion.'_'.$eleccion;
 				if (!array_key_exists($idf, $res)) $res[$idf] = [];
-				$res[$idf][] = ['dia'=>(int)$flds[3],
+				$este = ['dia'=>(int)$flds[3],
 						  'hora'=>(int)$flds[4],
 						  'minuto'=>(int)$flds[5],
 						  'codigo_agrupacion'=>(int)$flds[6],
@@ -69,10 +69,24 @@ class Dine {
 						  'cargos_electos'=>(int)$flds[9],
 						  ];
 
+				$res[$idf][] = $este;
+
+				if ($seccion == '999') {
+					$este['provincia'] = (int)$prov;
+					unset($este['dia']);
+					unset($este['hora']);
+					unset($este['minuto']);
+					if (!array_key_exists($eleccion, $final)){
+						$final[$eleccion] = [];
+						}
+
+					$final[$eleccion][] = $este;
+				
+					}
+
 				}
 
-			# $this->lg("Line " . trim($flds[2]));
-		  	foreach ($res as $idf => $values) {
+			foreach ($res as $idf => $values) {
 		  		$p = explode('_', $idf);
 		  		$distrito = $p[0];
 		  		$seccion = $p[1];
@@ -85,10 +99,14 @@ class Dine {
 			
 			}
 
+		# resultados finales por tipo eleccion (presidente, senadores, etc)
+		foreach ($final as $eleccion => $values) {
+	  		echo "<br />Totales eleccion " . $this->eleccion[$eleccion];
+	  		$f = 'totales_eleccion_' . $eleccion;
+			$this->write_json($values, $f . '.json');
+	  		}
 
-				
-
-		return $res;
+		return $final;
 	}
 
 	# ---- TOTALES 

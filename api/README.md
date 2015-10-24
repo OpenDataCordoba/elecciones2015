@@ -49,6 +49,11 @@ Los acumulados son con distrito en 99 y seccion 999, entonces:
 Totales de Córdoba a senadores: http://opendatacordoba.org/elecciones2015/api/json/totales_listas_4_999_2.json  
 Totales nacionales a presidente: http://opendatacordoba.org/elecciones2015/api/json/totales_listas_99_999_1.json  
 
+#### Total por eleccion (presidente, senadores, etc)
+http://opendatacordoba.org/elecciones2015/api/json/totales_eleccion_1.json  
+De la forma totales_eleccion_*CODIGO_ELECCION*.json. Todas las provincias aparecen con sus totales.  
+En *provincia=99* están los totales acumulados nacionales.  
+  
 #### Releer los ambitos
 http://opendatacordoba.org/elecciones2015/api/?do=ambitos  
 Luego se leen desde:  
@@ -64,3 +69,7 @@ http://opendatacordoba.org/elecciones2015/api/?do=listas
 Luego se leen desde:  
 http://opendatacordoba.org/elecciones2015/api/json/listas.json  
 
+## Otros recursos
+
+Departamentos de Córdoba:  
+http://opendatacordoba.org/elecciones2015/api/json/Cba-deptos.geojson  
