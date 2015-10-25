@@ -6,7 +6,7 @@ Leer los datos de las elecciones y comparar
 // var bp = 'http://opendatacordoba.org/elecciones2015/api/json';
 var bp = '../../api/json';
 
-var url_provincias = bp + '/provincias.json';
+var url_provincias = bp + '/provincias_full.json';
 
 // candidaturas finales
 var url_formulas = bp + '/formulas.json'; // el ganador de cada formula solamente
@@ -43,13 +43,15 @@ getBaseData = function(){
 	$.when(provincias, formulas, listas, pasos, definitivas).done(function(provincias, formulas, listas, pasos, definitivas){
 		var prov = {99: {'nombre': 'Total Nacional'} }; // formulas
 		$.each(provincias[0], function(k, provincia){
-			prov[provincia.codigo] = {'nombre': provincia.provincia};
+			prov[provincia.codigo] = provincia; //{'nombre': provincia.provincia};
 		});
 
 		var f = {}; // formulas
 		$.each(formulas[0], function(k, formula){
 			codigo = parseInt(formula.codigo);
-			f[codigo] = {'nombre': formula.nombre, 'distrito': formula.distrito};
+			if (formula.distrito == "99"){
+				f[codigo] = {'nombre': formula.nombre, 'distrito': formula.distrito};
+				}
 		});
 
 
@@ -85,6 +87,14 @@ getBaseData = function(){
 				d[definitiva.codigo_agrupacion] = {};
 			}
 			d[definitiva.codigo_agrupacion][definitiva.provincia] = definitiva.votos_agrupacion;
+			if (undefined == prov[definitiva.provincia]['votaron_def']) {
+				prov[definitiva.provincia]['votaron_def'] = 0;
+			}
+			// saber cuantos votaron en la definitiva para proyectar
+			prov[definitiva.provincia]['votaron_def'] = prov[definitiva.provincia]['votaron_def'] + definitiva.votos_agrupacion;
+			// actualizar el porc que voto
+			votaron_def_porc = prov[definitiva.provincia]['votaron_def'] / prov[definitiva.provincia]['votos_positivos'];
+			prov[definitiva.provincia]['votaron_def_porc'] = 100 * votaron_def_porc;
 		});
 
 		console.log(prov);
@@ -119,6 +129,8 @@ getBaseData = function(){
 
 		// por provincias
 		var res2 = [];
+		// variaciones de alianzas en provincias
+		var alidef = {};
 		$.each(p, function(alianza, provs){
 			$.each(provs, function(prov_id, votos){
 				// puede no haber pasado !
@@ -130,19 +142,38 @@ getBaseData = function(){
 					definitiva_tot = d[alianza][prov_id];
 				}
 				if (undefined === res2[prov_id]){
-					res2[prov_id] = {"nombre": prov[prov_id].nombre};
+					res2[prov_id] = {"nombre": prov[prov_id].provincia};
 				}
+				votos_def_porc = definitiva_tot / prov[prov_id].votaron_def;
 				res2[prov_id]['alianza_' + alianza] = l[alianza].nombre;
 				res2[prov_id]['votos_paso_' + alianza] = votos.votos;
 				res2[prov_id]['votos_paso_porc_' + alianza] = votos.porc;
 				res2[prov_id]['votos_def_' + alianza] = definitiva_tot;
-				// ponderar estos parciales segun el porcentaje
+				var def_proyectado = definitiva_tot * (100/prov[prov_id].votaron_def_porc);
+				res2[prov_id]['votos_def_proyectado_' + alianza] = def_proyectado;
+				diff = def_proyectado - votos.votos;
+				res2[prov_id]['votos_def_diff_' + alianza] = diff;
 
-				
+				// solo las listas que van ahora
+				if (def_proyectado > 0 && prov_id !== 99){
+					if (undefined === alidef[alianza]){
+						alidef[alianza] = {'alianza': l[alianza], 'formula': f[alianza]};
+					}
+
+					var diff_contra_nacional = 100 * diff / prov[99].votos_positivos;
+					var este = {'provincia': prov[prov_id].provincia,
+								'paso': votos.votos,
+								'definitivas': definitiva_tot,
+								'definitivas_proyectado': def_proyectado,
+								'diferencia': diff,
+								'aporte_nacional': diff_contra_nacional }
+					alidef[alianza][prov_id] = este;
+					}
 				});
 		});
 		console.log(res2);
 
+		console.log(alidef);
 		
 
 		$('#resultados').append('');
