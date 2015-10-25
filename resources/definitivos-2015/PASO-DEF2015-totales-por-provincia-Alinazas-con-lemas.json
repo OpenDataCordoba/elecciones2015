@@ -3,2250 +3,2625 @@
         "votos": 21085, 
         "provincia": 1, 
         "alianza": "133", 
+        "nombre": "CABA", 
         "lema": "3100"
     }, 
     {
         "votos": 123108, 
         "provincia": 1, 
         "alianza": "132", 
+        "nombre": "CABA", 
         "lema": "3008"
     }, 
     {
         "votos": 426934, 
         "provincia": 1, 
         "alianza": "131", 
+        "nombre": "CABA", 
         "lema": "3166"
     }, 
     {
         "votos": 37154, 
         "provincia": 1, 
         "alianza": "137", 
+        "nombre": "CABA", 
         "lema": "3014"
     }, 
     {
         "votos": 45719, 
         "provincia": 1, 
         "alianza": "137", 
+        "nombre": "CABA", 
         "lema": "3261"
     }, 
     {
         "votos": 10562, 
         "provincia": 1, 
         "alianza": "136", 
+        "nombre": "CABA", 
         "lema": "3234"
     }, 
     {
         "votos": 765805, 
         "provincia": 1, 
         "alianza": "135", 
+        "nombre": "CABA", 
         "lema": "3182"
     }, 
     {
         "votos": 61241, 
         "provincia": 1, 
         "alianza": "135", 
+        "nombre": "CABA", 
         "lema": "3185"
     }, 
     {
         "votos": 70614, 
         "provincia": 1, 
         "alianza": "135", 
+        "nombre": "CABA", 
         "lema": "3243"
     }, 
     {
         "votos": 10318, 
         "provincia": 1, 
         "alianza": "134", 
+        "nombre": "CABA", 
         "lema": "3018"
     }, 
     {
         "votos": 3498, 
         "provincia": 1, 
         "alianza": "81", 
+        "nombre": "CABA", 
         "lema": "3217"
     }, 
     {
         "votos": 9587, 
         "provincia": 1, 
         "alianza": "13", 
+        "nombre": "CABA", 
         "lema": "3253"
     }, 
     {
         "votos": 215062, 
         "provincia": 1, 
         "alianza": "138", 
+        "nombre": "CABA", 
         "lema": "3192"
     }, 
     {
         "votos": 29717, 
         "provincia": 1, 
         "alianza": "138", 
+        "nombre": "CABA", 
         "lema": "3214"
     }, 
     {
         "votos": 1593, 
         "provincia": 1, 
         "alianza": "57", 
+        "nombre": "CABA", 
         "lema": "3172"
     }, 
     {
         "votos": 95756, 
         "provincia": 2, 
         "alianza": "133", 
+        "nombre": "Buenos Aires", 
         "lema": "3100"
     }, 
     {
         "votos": 367227, 
         "provincia": 2, 
         "alianza": "132", 
+        "nombre": "Buenos Aires", 
         "lema": "3008"
     }, 
     {
         "votos": 3418176, 
         "provincia": 2, 
         "alianza": "131", 
+        "nombre": "Buenos Aires", 
         "lema": "3166"
     }, 
     {
         "votos": 130008, 
         "provincia": 2, 
         "alianza": "137", 
+        "nombre": "Buenos Aires", 
         "lema": "3014"
     }, 
     {
         "votos": 164063, 
         "provincia": 2, 
         "alianza": "137", 
+        "nombre": "Buenos Aires", 
         "lema": "3261"
     }, 
     {
         "votos": 38639, 
         "provincia": 2, 
         "alianza": "136", 
+        "nombre": "Buenos Aires", 
         "lema": "3234"
     }, 
     {
         "votos": 2136361, 
         "provincia": 2, 
         "alianza": "135", 
+        "nombre": "Buenos Aires", 
         "lema": "3182"
     }, 
     {
         "votos": 176888, 
         "provincia": 2, 
         "alianza": "135", 
+        "nombre": "Buenos Aires", 
         "lema": "3185"
     }, 
     {
         "votos": 197049, 
         "provincia": 2, 
         "alianza": "135", 
+        "nombre": "Buenos Aires", 
         "lema": "3243"
     }, 
     {
         "votos": 33848, 
         "provincia": 2, 
         "alianza": "134", 
+        "nombre": "Buenos Aires", 
         "lema": "3018"
     }, 
     {
         "votos": 20647, 
         "provincia": 2, 
         "alianza": "81", 
+        "nombre": "Buenos Aires", 
         "lema": "3217"
     }, 
     {
         "votos": 42263, 
         "provincia": 2, 
         "alianza": "13", 
+        "nombre": "Buenos Aires", 
         "lema": "3253"
     }, 
     {
         "votos": 1577724, 
         "provincia": 2, 
         "alianza": "138", 
+        "nombre": "Buenos Aires", 
         "lema": "3192"
     }, 
     {
         "votos": 201185, 
         "provincia": 2, 
         "alianza": "138", 
+        "nombre": "Buenos Aires", 
         "lema": "3214"
     }, 
     {
         "votos": 12782, 
         "provincia": 2, 
         "alianza": "57", 
+        "nombre": "Buenos Aires", 
         "lema": "3172"
     }, 
     {
         "votos": 1064, 
         "provincia": 3, 
         "alianza": "133", 
+        "nombre": "Catamarca", 
         "lema": "3100"
     }, 
     {
         "votos": 1822, 
         "provincia": 3, 
         "alianza": "132", 
+        "nombre": "Catamarca", 
         "lema": "3008"
     }, 
     {
         "votos": 97103, 
         "provincia": 3, 
         "alianza": "131", 
+        "nombre": "Catamarca", 
         "lema": "3166"
     }, 
     {
         "votos": 771, 
         "provincia": 3, 
         "alianza": "137", 
+        "nombre": "Catamarca", 
         "lema": "3014"
     }, 
     {
         "votos": 1256, 
         "provincia": 3, 
         "alianza": "137", 
+        "nombre": "Catamarca", 
         "lema": "3261"
     }, 
     {
         "votos": 543, 
         "provincia": 3, 
         "alianza": "136", 
+        "nombre": "Catamarca", 
         "lema": "3234"
     }, 
     {
         "votos": 44145, 
         "provincia": 3, 
         "alianza": "135", 
+        "nombre": "Catamarca", 
         "lema": "3182"
     }, 
     {
         "votos": 18115, 
         "provincia": 3, 
         "alianza": "135", 
+        "nombre": "Catamarca", 
         "lema": "3185"
     }, 
     {
         "votos": 1327, 
         "provincia": 3, 
         "alianza": "135", 
+        "nombre": "Catamarca", 
         "lema": "3243"
     }, 
     {
         "votos": 619, 
         "provincia": 3, 
         "alianza": "134", 
+        "nombre": "Catamarca", 
         "lema": "3018"
     }, 
     {
         "votos": 348, 
         "provincia": 3, 
         "alianza": "81", 
+        "nombre": "Catamarca", 
         "lema": "3217"
     }, 
     {
         "votos": 412, 
         "provincia": 3, 
         "alianza": "13", 
+        "nombre": "Catamarca", 
         "lema": "3253"
     }, 
     {
         "votos": 16652, 
         "provincia": 3, 
         "alianza": "138", 
+        "nombre": "Catamarca", 
         "lema": "3192"
     }, 
     {
         "votos": 7775, 
         "provincia": 3, 
         "alianza": "138", 
+        "nombre": "Catamarca", 
         "lema": "3214"
     }, 
     {
         "votos": 361, 
         "provincia": 3, 
         "alianza": "57", 
+        "nombre": "Catamarca", 
         "lema": "3172"
     }, 
     {
         "votos": 57298, 
         "provincia": 4, 
         "alianza": "133", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3100"
     }, 
     {
         "votos": 44422, 
         "provincia": 4, 
         "alianza": "132", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3008"
     }, 
     {
         "votos": 280740, 
         "provincia": 4, 
         "alianza": "131", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3166"
     }, 
     {
         "votos": 29516, 
         "provincia": 4, 
         "alianza": "137", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3014"
     }, 
     {
         "votos": 41134, 
         "provincia": 4, 
         "alianza": "137", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3261"
     }, 
     {
         "votos": 9302, 
         "provincia": 4, 
         "alianza": "136", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3234"
     }, 
     {
         "votos": 566109, 
         "provincia": 4, 
         "alianza": "135", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3182"
     }, 
     {
         "votos": 69155, 
         "provincia": 4, 
         "alianza": "135", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3185"
     }, 
     {
         "votos": 42922, 
         "provincia": 4, 
         "alianza": "135", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3243"
     }, 
     {
         "votos": 10315, 
         "provincia": 4, 
         "alianza": "134", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3018"
     }, 
     {
         "votos": 8570, 
         "provincia": 4, 
         "alianza": "81", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3217"
     }, 
     {
         "votos": 7832, 
         "provincia": 4, 
         "alianza": "13", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3253"
     }, 
     {
         "votos": 108157, 
         "provincia": 4, 
         "alianza": "138", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3192"
     }, 
     {
         "votos": 635864, 
         "provincia": 4, 
         "alianza": "138", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3214"
     }, 
     {
         "votos": 5589, 
         "provincia": 4, 
         "alianza": "57", 
+        "nombre": "C\u00f3rdoba", 
         "lema": "3172"
     }, 
     {
         "votos": 3225, 
         "provincia": 5, 
         "alianza": "133", 
+        "nombre": "Corrientes", 
         "lema": "3100"
     }, 
     {
         "votos": 5850, 
         "provincia": 5, 
         "alianza": "132", 
+        "nombre": "Corrientes", 
         "lema": "3008"
     }, 
     {
         "votos": 290172, 
         "provincia": 5, 
         "alianza": "131", 
+        "nombre": "Corrientes", 
         "lema": "3166"
     }, 
     {
         "votos": 3093, 
         "provincia": 5, 
         "alianza": "137", 
+        "nombre": "Corrientes", 
         "lema": "3014"
     }, 
     {
         "votos": 2301, 
         "provincia": 5, 
         "alianza": "137", 
+        "nombre": "Corrientes", 
         "lema": "3261"
     }, 
     {
         "votos": 1297, 
         "provincia": 5, 
         "alianza": "136", 
+        "nombre": "Corrientes", 
         "lema": "3234"
     }, 
     {
         "votos": 105183, 
         "provincia": 5, 
         "alianza": "135", 
+        "nombre": "Corrientes", 
         "lema": "3182"
     }, 
     {
         "votos": 50229, 
         "provincia": 5, 
         "alianza": "135", 
+        "nombre": "Corrientes", 
         "lema": "3185"
     }, 
     {
         "votos": 14070, 
         "provincia": 5, 
         "alianza": "135", 
+        "nombre": "Corrientes", 
         "lema": "3243"
     }, 
     {
         "votos": 1311, 
         "provincia": 5, 
         "alianza": "134", 
+        "nombre": "Corrientes", 
         "lema": "3018"
     }, 
     {
         "votos": 2427, 
         "provincia": 5, 
         "alianza": "81", 
+        "nombre": "Corrientes", 
         "lema": "3217"
     }, 
     {
         "votos": 2282, 
         "provincia": 5, 
         "alianza": "13", 
+        "nombre": "Corrientes", 
         "lema": "3253"
     }, 
     {
         "votos": 75729, 
         "provincia": 5, 
         "alianza": "138", 
+        "nombre": "Corrientes", 
         "lema": "3192"
     }, 
     {
         "votos": 16497, 
         "provincia": 5, 
         "alianza": "138", 
+        "nombre": "Corrientes", 
         "lema": "3214"
     }, 
     {
         "votos": 1521, 
         "provincia": 5, 
         "alianza": "57", 
+        "nombre": "Corrientes", 
         "lema": "3172"
     }, 
     {
         "votos": 4035, 
         "provincia": 6, 
         "alianza": "133", 
+        "nombre": "Chaco", 
         "lema": "3100"
     }, 
     {
         "votos": 9546, 
         "provincia": 6, 
         "alianza": "132", 
+        "nombre": "Chaco", 
         "lema": "3008"
     }, 
     {
         "votos": 333269, 
         "provincia": 6, 
         "alianza": "131", 
+        "nombre": "Chaco", 
         "lema": "3166"
     }, 
     {
         "votos": 3317, 
         "provincia": 6, 
         "alianza": "137", 
+        "nombre": "Chaco", 
         "lema": "3014"
     }, 
     {
         "votos": 7752, 
         "provincia": 6, 
         "alianza": "137", 
+        "nombre": "Chaco", 
         "lema": "3261"
     }, 
     {
         "votos": 2982, 
         "provincia": 6, 
         "alianza": "136", 
+        "nombre": "Chaco", 
         "lema": "3234"
     }, 
     {
         "votos": 94697, 
         "provincia": 6, 
         "alianza": "135", 
+        "nombre": "Chaco", 
         "lema": "3182"
     }, 
     {
         "votos": 44225, 
         "provincia": 6, 
         "alianza": "135", 
+        "nombre": "Chaco", 
         "lema": "3185"
     }, 
     {
         "votos": 17432, 
         "provincia": 6, 
         "alianza": "135", 
+        "nombre": "Chaco", 
         "lema": "3243"
     }, 
     {
         "votos": 1760, 
         "provincia": 6, 
         "alianza": "134", 
+        "nombre": "Chaco", 
         "lema": "3018"
     }, 
     {
         "votos": 2468, 
         "provincia": 6, 
         "alianza": "81", 
+        "nombre": "Chaco", 
         "lema": "3217"
     }, 
     {
         "votos": 3129, 
         "provincia": 6, 
         "alianza": "13", 
+        "nombre": "Chaco", 
         "lema": "3253"
     }, 
     {
         "votos": 58346, 
         "provincia": 6, 
         "alianza": "138", 
+        "nombre": "Chaco", 
         "lema": "3192"
     }, 
     {
         "votos": 18030, 
         "provincia": 6, 
         "alianza": "138", 
+        "nombre": "Chaco", 
         "lema": "3214"
     }, 
     {
         "votos": 993, 
         "provincia": 6, 
         "alianza": "57", 
+        "nombre": "Chaco", 
         "lema": "3172"
     }, 
     {
         "votos": 2834, 
         "provincia": 7, 
         "alianza": "133", 
+        "nombre": "Chubut", 
         "lema": "3100"
     }, 
     {
         "votos": 7020, 
         "provincia": 7, 
         "alianza": "132", 
+        "nombre": "Chubut", 
         "lema": "3008"
     }, 
     {
         "votos": 112425, 
         "provincia": 7, 
         "alianza": "131", 
+        "nombre": "Chubut", 
         "lema": "3166"
     }, 
     {
         "votos": 2803, 
         "provincia": 7, 
         "alianza": "137", 
+        "nombre": "Chubut", 
         "lema": "3014"
     }, 
     {
         "votos": 2329, 
         "provincia": 7, 
         "alianza": "137", 
+        "nombre": "Chubut", 
         "lema": "3261"
     }, 
     {
         "votos": 1889, 
         "provincia": 7, 
         "alianza": "136", 
+        "nombre": "Chubut", 
         "lema": "3234"
     }, 
     {
         "votos": 44361, 
         "provincia": 7, 
         "alianza": "135", 
+        "nombre": "Chubut", 
         "lema": "3182"
     }, 
     {
         "votos": 8003, 
         "provincia": 7, 
         "alianza": "135", 
+        "nombre": "Chubut", 
         "lema": "3185"
     }, 
     {
         "votos": 1730, 
         "provincia": 7, 
         "alianza": "135", 
+        "nombre": "Chubut", 
         "lema": "3243"
     }, 
     {
         "votos": 2500, 
         "provincia": 7, 
         "alianza": "134", 
+        "nombre": "Chubut", 
         "lema": "3018"
     }, 
     {
         "votos": 1441, 
         "provincia": 7, 
         "alianza": "81", 
+        "nombre": "Chubut", 
         "lema": "3217"
     }, 
     {
         "votos": 1993, 
         "provincia": 7, 
         "alianza": "13", 
+        "nombre": "Chubut", 
         "lema": "3253"
     }, 
     {
         "votos": 36362, 
         "provincia": 7, 
         "alianza": "138", 
+        "nombre": "Chubut", 
         "lema": "3192"
     }, 
     {
         "votos": 8768, 
         "provincia": 7, 
         "alianza": "138", 
+        "nombre": "Chubut", 
         "lema": "3214"
     }, 
     {
         "votos": 844, 
         "provincia": 7, 
         "alianza": "57", 
+        "nombre": "Chubut", 
         "lema": "3172"
     }, 
     {
         "votos": 7106, 
         "provincia": 8, 
         "alianza": "133", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3100"
     }, 
     {
         "votos": 24334, 
         "provincia": 8, 
         "alianza": "132", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3008"
     }, 
     {
         "votos": 287200, 
         "provincia": 8, 
         "alianza": "131", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3166"
     }, 
     {
         "votos": 4871, 
         "provincia": 8, 
         "alianza": "137", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3014"
     }, 
     {
         "votos": 4301, 
         "provincia": 8, 
         "alianza": "137", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3261"
     }, 
     {
         "votos": 3193, 
         "provincia": 8, 
         "alianza": "136", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3234"
     }, 
     {
         "votos": 200676, 
         "provincia": 8, 
         "alianza": "135", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3182"
     }, 
     {
         "votos": 40248, 
         "provincia": 8, 
         "alianza": "135", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3185"
     }, 
     {
         "votos": 11896, 
         "provincia": 8, 
         "alianza": "135", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3243"
     }, 
     {
         "votos": 4202, 
         "provincia": 8, 
         "alianza": "134", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3018"
     }, 
     {
         "votos": 1917, 
         "provincia": 8, 
         "alianza": "81", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3217"
     }, 
     {
         "votos": 3581, 
         "provincia": 8, 
         "alianza": "13", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3253"
     }, 
     {
         "votos": 105836, 
         "provincia": 8, 
         "alianza": "138", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3192"
     }, 
     {
         "votos": 22854, 
         "provincia": 8, 
         "alianza": "138", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3214"
     }, 
     {
         "votos": 1198, 
         "provincia": 8, 
         "alianza": "57", 
+        "nombre": "Entre R\u00edos", 
         "lema": "3172"
     }, 
     {
         "votos": 1457, 
         "provincia": 9, 
         "alianza": "133", 
+        "nombre": "Formosa", 
         "lema": "3100"
     }, 
     {
         "votos": 2877, 
         "provincia": 9, 
         "alianza": "132", 
+        "nombre": "Formosa", 
         "lema": "3008"
     }, 
     {
         "votos": 181912, 
         "provincia": 9, 
         "alianza": "131", 
+        "nombre": "Formosa", 
         "lema": "3166"
     }, 
     {
         "votos": 1350, 
         "provincia": 9, 
         "alianza": "137", 
+        "nombre": "Formosa", 
         "lema": "3014"
     }, 
     {
         "votos": 3279, 
         "provincia": 9, 
         "alianza": "137", 
+        "nombre": "Formosa", 
         "lema": "3261"
     }, 
     {
         "votos": 90, 
         "provincia": 9, 
         "alianza": "136", 
+        "nombre": "Formosa", 
         "lema": "3234"
     }, 
     {
         "votos": 35021, 
         "provincia": 9, 
         "alianza": "135", 
+        "nombre": "Formosa", 
         "lema": "3182"
     }, 
     {
         "votos": 10153, 
         "provincia": 9, 
         "alianza": "135", 
+        "nombre": "Formosa", 
         "lema": "3185"
     }, 
     {
         "votos": 4179, 
         "provincia": 9, 
         "alianza": "135", 
+        "nombre": "Formosa", 
         "lema": "3243"
     }, 
     {
         "votos": 810, 
         "provincia": 9, 
         "alianza": "134", 
+        "nombre": "Formosa", 
         "lema": "3018"
     }, 
     {
         "votos": 1064, 
         "provincia": 9, 
         "alianza": "81", 
+        "nombre": "Formosa", 
         "lema": "3217"
     }, 
     {
         "votos": 1188, 
         "provincia": 9, 
         "alianza": "13", 
+        "nombre": "Formosa", 
         "lema": "3253"
     }, 
     {
         "votos": 38596, 
         "provincia": 9, 
         "alianza": "138", 
+        "nombre": "Formosa", 
         "lema": "3192"
     }, 
     {
         "votos": 12539, 
         "provincia": 9, 
         "alianza": "138", 
+        "nombre": "Formosa", 
         "lema": "3214"
     }, 
     {
         "votos": 563, 
         "provincia": 9, 
         "alianza": "57", 
+        "nombre": "Formosa", 
         "lema": "3172"
     }, 
     {
         "votos": 2738, 
         "provincia": 10, 
         "alianza": "133", 
+        "nombre": "Jujuy", 
         "lema": "3100"
     }, 
     {
         "votos": 5193, 
         "provincia": 10, 
         "alianza": "132", 
+        "nombre": "Jujuy", 
         "lema": "3008"
     }, 
     {
         "votos": 157209, 
         "provincia": 10, 
         "alianza": "131", 
+        "nombre": "Jujuy", 
         "lema": "3166"
     }, 
     {
         "votos": 10367, 
         "provincia": 10, 
         "alianza": "137", 
+        "nombre": "Jujuy", 
         "lema": "3014"
     }, 
     {
         "votos": 4191, 
         "provincia": 10, 
         "alianza": "137", 
+        "nombre": "Jujuy", 
         "lema": "3261"
     }, 
     {
         "votos": 1981, 
         "provincia": 10, 
         "alianza": "136", 
+        "nombre": "Jujuy", 
         "lema": "3234"
     }, 
     {
         "votos": 60815, 
         "provincia": 10, 
         "alianza": "135", 
+        "nombre": "Jujuy", 
         "lema": "3182"
     }, 
     {
         "votos": 20132, 
         "provincia": 10, 
         "alianza": "135", 
+        "nombre": "Jujuy", 
         "lema": "3185"
     }, 
     {
         "votos": 5319, 
         "provincia": 10, 
         "alianza": "135", 
+        "nombre": "Jujuy", 
         "lema": "3243"
     }, 
     {
         "votos": 2002, 
         "provincia": 10, 
         "alianza": "134", 
+        "nombre": "Jujuy", 
         "lema": "3018"
     }, 
     {
         "votos": 974, 
         "provincia": 10, 
         "alianza": "81", 
+        "nombre": "Jujuy", 
         "lema": "3217"
     }, 
     {
         "votos": 1834, 
         "provincia": 10, 
         "alianza": "13", 
+        "nombre": "Jujuy", 
         "lema": "3253"
     }, 
     {
         "votos": 72712, 
         "provincia": 10, 
         "alianza": "138", 
+        "nombre": "Jujuy", 
         "lema": "3192"
     }, 
     {
         "votos": 28194, 
         "provincia": 10, 
         "alianza": "138", 
+        "nombre": "Jujuy", 
         "lema": "3214"
     }, 
     {
         "votos": 768, 
         "provincia": 10, 
         "alianza": "57", 
+        "nombre": "Jujuy", 
         "lema": "3172"
     }, 
     {
         "votos": 4381, 
         "provincia": 11, 
         "alianza": "133", 
+        "nombre": "La Pampa", 
         "lema": "3100"
     }, 
     {
         "votos": 5409, 
         "provincia": 11, 
         "alianza": "132", 
+        "nombre": "La Pampa", 
         "lema": "3008"
     }, 
     {
         "votos": 81499, 
         "provincia": 11, 
         "alianza": "131", 
+        "nombre": "La Pampa", 
         "lema": "3166"
     }, 
     {
         "votos": 2344, 
         "provincia": 11, 
         "alianza": "137", 
+        "nombre": "La Pampa", 
         "lema": "3014"
     }, 
     {
         "votos": 1697, 
         "provincia": 11, 
         "alianza": "137", 
+        "nombre": "La Pampa", 
         "lema": "3261"
     }, 
     {
         "votos": 995, 
         "provincia": 11, 
         "alianza": "136", 
+        "nombre": "La Pampa", 
         "lema": "3234"
     }, 
     {
         "votos": 51770, 
         "provincia": 11, 
         "alianza": "135", 
+        "nombre": "La Pampa", 
         "lema": "3182"
     }, 
     {
         "votos": 12275, 
         "provincia": 11, 
         "alianza": "135", 
+        "nombre": "La Pampa", 
         "lema": "3185"
     }, 
     {
         "votos": 6984, 
         "provincia": 11, 
         "alianza": "135", 
+        "nombre": "La Pampa", 
         "lema": "3243"
     }, 
     {
         "votos": 826, 
         "provincia": 11, 
         "alianza": "134", 
+        "nombre": "La Pampa", 
         "lema": "3018"
     }, 
     {
         "votos": 594, 
         "provincia": 11, 
         "alianza": "81", 
+        "nombre": "La Pampa", 
         "lema": "3217"
     }, 
     {
         "votos": 1002, 
         "provincia": 11, 
         "alianza": "13", 
+        "nombre": "La Pampa", 
         "lema": "3253"
     }, 
     {
         "votos": 22884, 
         "provincia": 11, 
         "alianza": "138", 
+        "nombre": "La Pampa", 
         "lema": "3192"
     }, 
     {
         "votos": 8914, 
         "provincia": 11, 
         "alianza": "138", 
+        "nombre": "La Pampa", 
         "lema": "3214"
     }, 
     {
         "votos": 406, 
         "provincia": 11, 
         "alianza": "57", 
+        "nombre": "La Pampa", 
         "lema": "3172"
     }, 
     {
         "votos": 7081, 
         "provincia": 12, 
         "alianza": "133", 
+        "nombre": "La Rioja", 
         "lema": "3100"
     }, 
     {
         "votos": 1146, 
         "provincia": 12, 
         "alianza": "132", 
+        "nombre": "La Rioja", 
         "lema": "3008"
     }, 
     {
         "votos": 68818, 
         "provincia": 12, 
         "alianza": "131", 
+        "nombre": "La Rioja", 
         "lema": "3166"
     }, 
     {
         "votos": 843, 
         "provincia": 12, 
         "alianza": "137", 
+        "nombre": "La Rioja", 
         "lema": "3014"
     }, 
     {
         "votos": 1561, 
         "provincia": 12, 
         "alianza": "137", 
+        "nombre": "La Rioja", 
         "lema": "3261"
     }, 
     {
         "votos": 645, 
         "provincia": 12, 
         "alianza": "136", 
+        "nombre": "La Rioja", 
         "lema": "3234"
     }, 
     {
         "votos": 37583, 
         "provincia": 12, 
         "alianza": "135", 
+        "nombre": "La Rioja", 
         "lema": "3182"
     }, 
     {
         "votos": 5396, 
         "provincia": 12, 
         "alianza": "135", 
+        "nombre": "La Rioja", 
         "lema": "3185"
     }, 
     {
         "votos": 2663, 
         "provincia": 12, 
         "alianza": "135", 
+        "nombre": "La Rioja", 
         "lema": "3243"
     }, 
     {
         "votos": 602, 
         "provincia": 12, 
         "alianza": "134", 
+        "nombre": "La Rioja", 
         "lema": "3018"
     }, 
     {
         "votos": 612, 
         "provincia": 12, 
         "alianza": "81", 
+        "nombre": "La Rioja", 
         "lema": "3217"
     }, 
     {
         "votos": 557, 
         "provincia": 12, 
         "alianza": "13", 
+        "nombre": "La Rioja", 
         "lema": "3253"
     }, 
     {
         "votos": 24618, 
         "provincia": 12, 
         "alianza": "138", 
+        "nombre": "La Rioja", 
         "lema": "3192"
     }, 
     {
         "votos": 16370, 
         "provincia": 12, 
         "alianza": "138", 
+        "nombre": "La Rioja", 
         "lema": "3214"
     }, 
     {
         "votos": 336, 
         "provincia": 12, 
         "alianza": "57", 
+        "nombre": "La Rioja", 
         "lema": "3172"
     }, 
     {
         "votos": 52545, 
         "provincia": 13, 
         "alianza": "133", 
+        "nombre": "Mendoza", 
         "lema": "3100"
     }, 
     {
         "votos": 13974, 
         "provincia": 13, 
         "alianza": "132", 
+        "nombre": "Mendoza", 
         "lema": "3008"
     }, 
     {
         "votos": 336797, 
         "provincia": 13, 
         "alianza": "131", 
+        "nombre": "Mendoza", 
         "lema": "3166"
     }, 
     {
         "votos": 83459, 
         "provincia": 13, 
         "alianza": "137", 
+        "nombre": "Mendoza", 
         "lema": "3014"
     }, 
     {
         "votos": 7183, 
         "provincia": 13, 
         "alianza": "137", 
+        "nombre": "Mendoza", 
         "lema": "3261"
     }, 
     {
         "votos": 3939, 
         "provincia": 13, 
         "alianza": "136", 
+        "nombre": "Mendoza", 
         "lema": "3234"
     }, 
     {
         "votos": 259539, 
         "provincia": 13, 
         "alianza": "135", 
+        "nombre": "Mendoza", 
         "lema": "3182"
     }, 
     {
         "votos": 90799, 
         "provincia": 13, 
         "alianza": "135", 
+        "nombre": "Mendoza", 
         "lema": "3185"
     }, 
     {
         "votos": 13251, 
         "provincia": 13, 
         "alianza": "135", 
+        "nombre": "Mendoza", 
         "lema": "3243"
     }, 
     {
         "votos": 2534, 
         "provincia": 13, 
         "alianza": "134", 
+        "nombre": "Mendoza", 
         "lema": "3018"
     }, 
     {
         "votos": 3013, 
         "provincia": 13, 
         "alianza": "81", 
+        "nombre": "Mendoza", 
         "lema": "3217"
     }, 
     {
         "votos": 3060, 
         "provincia": 13, 
         "alianza": "13", 
+        "nombre": "Mendoza", 
         "lema": "3253"
     }, 
     {
         "votos": 97710, 
         "provincia": 13, 
         "alianza": "138", 
+        "nombre": "Mendoza", 
         "lema": "3192"
     }, 
     {
         "votos": 36837, 
         "provincia": 13, 
         "alianza": "138", 
+        "nombre": "Mendoza", 
         "lema": "3214"
     }, 
     {
         "votos": 1577, 
         "provincia": 13, 
         "alianza": "57", 
+        "nombre": "Mendoza", 
         "lema": "3172"
     }, 
     {
         "votos": 3765, 
         "provincia": 14, 
         "alianza": "133", 
+        "nombre": "Misiones", 
         "lema": "3100"
     }, 
     {
         "votos": 7391, 
         "provincia": 14, 
         "alianza": "132", 
+        "nombre": "Misiones", 
         "lema": "3008"
     }, 
     {
         "votos": 355537, 
         "provincia": 14, 
         "alianza": "131", 
+        "nombre": "Misiones", 
         "lema": "3166"
     }, 
     {
         "votos": 4521, 
         "provincia": 14, 
         "alianza": "137", 
+        "nombre": "Misiones", 
         "lema": "3014"
     }, 
     {
         "votos": 4176, 
         "provincia": 14, 
         "alianza": "137", 
+        "nombre": "Misiones", 
         "lema": "3261"
     }, 
     {
         "votos": 3870, 
         "provincia": 14, 
         "alianza": "136", 
+        "nombre": "Misiones", 
         "lema": "3234"
     }, 
     {
         "votos": 85361, 
         "provincia": 14, 
         "alianza": "135", 
+        "nombre": "Misiones", 
         "lema": "3182"
     }, 
     {
         "votos": 36222, 
         "provincia": 14, 
         "alianza": "135", 
+        "nombre": "Misiones", 
         "lema": "3185"
     }, 
     {
         "votos": 14990, 
         "provincia": 14, 
         "alianza": "135", 
+        "nombre": "Misiones", 
         "lema": "3243"
     }, 
     {
         "votos": 2941, 
         "provincia": 14, 
         "alianza": "134", 
+        "nombre": "Misiones", 
         "lema": "3018"
     }, 
     {
         "votos": 3217, 
         "provincia": 14, 
         "alianza": "81", 
+        "nombre": "Misiones", 
         "lema": "3217"
     }, 
     {
         "votos": 2908, 
         "provincia": 14, 
         "alianza": "13", 
+        "nombre": "Misiones", 
         "lema": "3253"
     }, 
     {
         "votos": 51361, 
         "provincia": 14, 
         "alianza": "138", 
+        "nombre": "Misiones", 
         "lema": "3192"
     }, 
     {
         "votos": 39561, 
         "provincia": 14, 
         "alianza": "138", 
+        "nombre": "Misiones", 
         "lema": "3214"
     }, 
     {
         "votos": 1404, 
         "provincia": 14, 
         "alianza": "57", 
+        "nombre": "Misiones", 
         "lema": "3172"
     }, 
     {
         "votos": 7847, 
         "provincia": 15, 
         "alianza": "133", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3100"
     }, 
     {
         "votos": 9870, 
         "provincia": 15, 
         "alianza": "132", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3008"
     }, 
     {
         "votos": 115769, 
         "provincia": 15, 
         "alianza": "131", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3166"
     }, 
     {
         "votos": 12367, 
         "provincia": 15, 
         "alianza": "137", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3014"
     }, 
     {
         "votos": 7397, 
         "provincia": 15, 
         "alianza": "137", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3261"
     }, 
     {
         "votos": 2621, 
         "provincia": 15, 
         "alianza": "136", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3234"
     }, 
     {
         "votos": 72573, 
         "provincia": 15, 
         "alianza": "135", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3182"
     }, 
     {
         "votos": 6477, 
         "provincia": 15, 
         "alianza": "135", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3185"
     }, 
     {
         "votos": 9855, 
         "provincia": 15, 
         "alianza": "135", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3243"
     }, 
     {
         "votos": 2705, 
         "provincia": 15, 
         "alianza": "134", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3018"
     }, 
     {
         "votos": 2416, 
         "provincia": 15, 
         "alianza": "81", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3217"
     }, 
     {
         "votos": 2503, 
         "provincia": 15, 
         "alianza": "13", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3253"
     }, 
     {
         "votos": 49758, 
         "provincia": 15, 
         "alianza": "138", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3192"
     }, 
     {
         "votos": 20790, 
         "provincia": 15, 
         "alianza": "138", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3214"
     }, 
     {
         "votos": 1413, 
         "provincia": 15, 
         "alianza": "57", 
+        "nombre": "Neuqu\u00e9n", 
         "lema": "3172"
     }, 
     {
         "votos": 6775, 
         "provincia": 16, 
         "alianza": "133", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3100"
     }, 
     {
         "votos": 11208, 
         "provincia": 16, 
         "alianza": "132", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3008"
     }, 
     {
         "votos": 160751, 
         "provincia": 16, 
         "alianza": "131", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3166"
     }, 
     {
         "votos": 6243, 
         "provincia": 16, 
         "alianza": "137", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3014"
     }, 
     {
         "votos": 5748, 
         "provincia": 16, 
         "alianza": "137", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3261"
     }, 
     {
         "votos": 3155, 
         "provincia": 16, 
         "alianza": "136", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3234"
     }, 
     {
         "votos": 64120, 
         "provincia": 16, 
         "alianza": "135", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3182"
     }, 
     {
         "votos": 9545, 
         "provincia": 16, 
         "alianza": "135", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3185"
     }, 
     {
         "votos": 7595, 
         "provincia": 16, 
         "alianza": "135", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3243"
     }, 
     {
         "votos": 1648, 
         "provincia": 16, 
         "alianza": "134", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3018"
     }, 
     {
         "votos": 1812, 
         "provincia": 16, 
         "alianza": "81", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3217"
     }, 
     {
         "votos": 2500, 
         "provincia": 16, 
         "alianza": "13", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3253"
     }, 
     {
         "votos": 56095, 
         "provincia": 16, 
         "alianza": "138", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3192"
     }, 
     {
         "votos": 20780, 
         "provincia": 16, 
         "alianza": "138", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3214"
     }, 
     {
         "votos": 965, 
         "provincia": 16, 
         "alianza": "57", 
+        "nombre": "R\u00edo Negro", 
         "lema": "3172"
     }, 
     {
         "votos": 3590, 
         "provincia": 17, 
         "alianza": "133", 
+        "nombre": "Salta", 
         "lema": "3100"
     }, 
     {
         "votos": 7225, 
         "provincia": 17, 
         "alianza": "132", 
+        "nombre": "Salta", 
         "lema": "3008"
     }, 
     {
         "votos": 273686, 
         "provincia": 17, 
         "alianza": "131", 
+        "nombre": "Salta", 
         "lema": "3166"
     }, 
     {
         "votos": 4323, 
         "provincia": 17, 
         "alianza": "137", 
+        "nombre": "Salta", 
         "lema": "3014"
     }, 
     {
         "votos": 16009, 
         "provincia": 17, 
         "alianza": "137", 
+        "nombre": "Salta", 
         "lema": "3261"
     }, 
     {
         "votos": 3580, 
         "provincia": 17, 
         "alianza": "136", 
+        "nombre": "Salta", 
         "lema": "3234"
     }, 
     {
         "votos": 108026, 
         "provincia": 17, 
         "alianza": "135", 
+        "nombre": "Salta", 
         "lema": "3182"
     }, 
     {
         "votos": 9787, 
         "provincia": 17, 
         "alianza": "135", 
+        "nombre": "Salta", 
         "lema": "3185"
     }, 
     {
         "votos": 7731, 
         "provincia": 17, 
         "alianza": "135", 
+        "nombre": "Salta", 
         "lema": "3243"
     }, 
     {
         "votos": 2570, 
         "provincia": 17, 
         "alianza": "134", 
+        "nombre": "Salta", 
         "lema": "3018"
     }, 
     {
         "votos": 2031, 
         "provincia": 17, 
         "alianza": "81", 
+        "nombre": "Salta", 
         "lema": "3217"
     }, 
     {
         "votos": 2263, 
         "provincia": 17, 
         "alianza": "13", 
+        "nombre": "Salta", 
         "lema": "3253"
     }, 
     {
         "votos": 134316, 
         "provincia": 17, 
         "alianza": "138", 
+        "nombre": "Salta", 
         "lema": "3192"
     }, 
     {
         "votos": 37630, 
         "provincia": 17, 
         "alianza": "138", 
+        "nombre": "Salta", 
         "lema": "3214"
     }, 
     {
         "votos": 1080, 
         "provincia": 17, 
         "alianza": "57", 
+        "nombre": "Salta", 
         "lema": "3172"
     }, 
     {
         "votos": 15283, 
         "provincia": 18, 
         "alianza": "133", 
+        "nombre": "San Juan", 
         "lema": "3100"
     }, 
     {
         "votos": 5709, 
         "provincia": 18, 
         "alianza": "132", 
+        "nombre": "San Juan", 
         "lema": "3008"
     }, 
     {
         "votos": 216245, 
         "provincia": 18, 
         "alianza": "131", 
+        "nombre": "San Juan", 
         "lema": "3166"
     }, 
     {
         "votos": 1223, 
         "provincia": 18, 
         "alianza": "137", 
+        "nombre": "San Juan", 
         "lema": "3014"
     }, 
     {
         "votos": 1638, 
         "provincia": 18, 
         "alianza": "137", 
+        "nombre": "San Juan", 
         "lema": "3261"
     }, 
     {
         "votos": 1978, 
         "provincia": 18, 
         "alianza": "136", 
+        "nombre": "San Juan", 
         "lema": "3234"
     }, 
     {
         "votos": 57451, 
         "provincia": 18, 
         "alianza": "135", 
+        "nombre": "San Juan", 
         "lema": "3182"
     }, 
     {
         "votos": 4615, 
         "provincia": 18, 
         "alianza": "135", 
+        "nombre": "San Juan", 
         "lema": "3185"
     }, 
     {
         "votos": 1498, 
         "provincia": 18, 
         "alianza": "135", 
+        "nombre": "San Juan", 
         "lema": "3243"
     }, 
     {
         "votos": 1223, 
         "provincia": 18, 
         "alianza": "134", 
+        "nombre": "San Juan", 
         "lema": "3018"
     }, 
     {
         "votos": 449, 
         "provincia": 18, 
         "alianza": "81", 
+        "nombre": "San Juan", 
         "lema": "3217"
     }, 
     {
         "votos": 716, 
         "provincia": 18, 
         "alianza": "13", 
+        "nombre": "San Juan", 
         "lema": "3253"
     }, 
     {
         "votos": 60847, 
         "provincia": 18, 
         "alianza": "138", 
+        "nombre": "San Juan", 
         "lema": "3192"
     }, 
     {
         "votos": 26398, 
         "provincia": 18, 
         "alianza": "138", 
+        "nombre": "San Juan", 
         "lema": "3214"
     }, 
     {
         "votos": 384, 
         "provincia": 18, 
         "alianza": "57", 
+        "nombre": "San Juan", 
         "lema": "3172"
     }, 
     {
         "votos": 111989, 
         "provincia": 19, 
         "alianza": "133", 
+        "nombre": "San Luis", 
         "lema": "3100"
     }, 
     {
         "votos": 3501, 
         "provincia": 19, 
         "alianza": "132", 
+        "nombre": "San Luis", 
         "lema": "3008"
     }, 
     {
         "votos": 48186, 
         "provincia": 19, 
         "alianza": "131", 
+        "nombre": "San Luis", 
         "lema": "3166"
     }, 
     {
         "votos": 1918, 
         "provincia": 19, 
         "alianza": "137", 
+        "nombre": "San Luis", 
         "lema": "3014"
     }, 
     {
         "votos": 1220, 
         "provincia": 19, 
         "alianza": "137", 
+        "nombre": "San Luis", 
         "lema": "3261"
     }, 
     {
         "votos": 507, 
         "provincia": 19, 
         "alianza": "136", 
+        "nombre": "San Luis", 
         "lema": "3234"
     }, 
     {
         "votos": 51589, 
         "provincia": 19, 
         "alianza": "135", 
+        "nombre": "San Luis", 
         "lema": "3182"
     }, 
     {
         "votos": 7675, 
         "provincia": 19, 
         "alianza": "135", 
+        "nombre": "San Luis", 
         "lema": "3185"
     }, 
     {
         "votos": 1701, 
         "provincia": 19, 
         "alianza": "135", 
+        "nombre": "San Luis", 
         "lema": "3243"
     }, 
     {
         "votos": 580, 
         "provincia": 19, 
         "alianza": "134", 
+        "nombre": "San Luis", 
         "lema": "3018"
     }, 
     {
         "votos": 436, 
         "provincia": 19, 
         "alianza": "81", 
+        "nombre": "San Luis", 
         "lema": "3217"
     }, 
     {
         "votos": 942, 
         "provincia": 19, 
         "alianza": "13", 
+        "nombre": "San Luis", 
         "lema": "3253"
     }, 
     {
         "votos": 12277, 
         "provincia": 19, 
         "alianza": "138", 
+        "nombre": "San Luis", 
         "lema": "3192"
     }, 
     {
         "votos": 3266, 
         "provincia": 19, 
         "alianza": "138", 
+        "nombre": "San Luis", 
         "lema": "3214"
     }, 
     {
         "votos": 189, 
         "provincia": 19, 
         "alianza": "57", 
+        "nombre": "San Luis", 
         "lema": "3172"
     }, 
     {
         "votos": 1871, 
         "provincia": 20, 
         "alianza": "133", 
+        "nombre": "Santa Cruz", 
         "lema": "3100"
     }, 
     {
         "votos": 2525, 
         "provincia": 20, 
         "alianza": "132", 
+        "nombre": "Santa Cruz", 
         "lema": "3008"
     }, 
     {
         "votos": 73042, 
         "provincia": 20, 
         "alianza": "131", 
+        "nombre": "Santa Cruz", 
         "lema": "3166"
     }, 
     {
         "votos": 1699, 
         "provincia": 20, 
         "alianza": "137", 
+        "nombre": "Santa Cruz", 
         "lema": "3014"
     }, 
     {
         "votos": 5190, 
         "provincia": 20, 
         "alianza": "137", 
+        "nombre": "Santa Cruz", 
         "lema": "3261"
     }, 
     {
         "votos": 905, 
         "provincia": 20, 
         "alianza": "136", 
+        "nombre": "Santa Cruz", 
         "lema": "3234"
     }, 
     {
         "votos": 30162, 
         "provincia": 20, 
         "alianza": "135", 
+        "nombre": "Santa Cruz", 
         "lema": "3182"
     }, 
     {
         "votos": 6526, 
         "provincia": 20, 
         "alianza": "135", 
+        "nombre": "Santa Cruz", 
         "lema": "3185"
     }, 
     {
         "votos": 5241, 
         "provincia": 20, 
         "alianza": "135", 
+        "nombre": "Santa Cruz", 
         "lema": "3243"
     }, 
     {
         "votos": 1061, 
         "provincia": 20, 
         "alianza": "134", 
+        "nombre": "Santa Cruz", 
         "lema": "3018"
     }, 
     {
         "votos": 470, 
         "provincia": 20, 
         "alianza": "81", 
+        "nombre": "Santa Cruz", 
         "lema": "3217"
     }, 
     {
         "votos": 1186, 
         "provincia": 20, 
         "alianza": "13", 
+        "nombre": "Santa Cruz", 
         "lema": "3253"
     }, 
     {
         "votos": 23713, 
         "provincia": 20, 
         "alianza": "138", 
+        "nombre": "Santa Cruz", 
         "lema": "3192"
     }, 
     {
         "votos": 10271, 
         "provincia": 20, 
         "alianza": "138", 
+        "nombre": "Santa Cruz", 
         "lema": "3214"
     }, 
     {
         "votos": 425, 
         "provincia": 20, 
         "alianza": "57", 
+        "nombre": "Santa Cruz", 
         "lema": "3172"
     }, 
     {
         "votos": 47438, 
         "provincia": 21, 
         "alianza": "133", 
+        "nombre": "Santa Fe", 
         "lema": "3100"
     }, 
     {
         "votos": 102997, 
         "provincia": 21, 
         "alianza": "132", 
+        "nombre": "Santa Fe", 
         "lema": "3008"
     }, 
     {
         "votos": 550970, 
         "provincia": 21, 
         "alianza": "131", 
+        "nombre": "Santa Fe", 
         "lema": "3166"
     }, 
     {
         "votos": 21064, 
         "provincia": 21, 
         "alianza": "137", 
+        "nombre": "Santa Fe", 
         "lema": "3014"
     }, 
     {
         "votos": 16057, 
         "provincia": 21, 
         "alianza": "137", 
+        "nombre": "Santa Fe", 
         "lema": "3261"
     }, 
     {
         "votos": 8257, 
         "provincia": 21, 
         "alianza": "136", 
+        "nombre": "Santa Fe", 
         "lema": "3234"
     }, 
     {
         "votos": 434764, 
         "provincia": 21, 
         "alianza": "135", 
+        "nombre": "Santa Fe", 
         "lema": "3182"
     }, 
     {
         "votos": 40991, 
         "provincia": 21, 
         "alianza": "135", 
+        "nombre": "Santa Fe", 
         "lema": "3185"
     }, 
     {
         "votos": 57643, 
         "provincia": 21, 
         "alianza": "135", 
+        "nombre": "Santa Fe", 
         "lema": "3243"
     }, 
     {
         "votos": 6220, 
         "provincia": 21, 
         "alianza": "134", 
+        "nombre": "Santa Fe", 
         "lema": "3018"
     }, 
     {
         "votos": 4468, 
         "provincia": 21, 
         "alianza": "81", 
+        "nombre": "Santa Fe", 
         "lema": "3217"
     }, 
     {
         "votos": 6324, 
         "provincia": 21, 
         "alianza": "13", 
+        "nombre": "Santa Fe", 
         "lema": "3253"
     }, 
     {
         "votos": 227714, 
         "provincia": 21, 
         "alianza": "138", 
+        "nombre": "Santa Fe", 
         "lema": "3192"
     }, 
     {
         "votos": 140979, 
         "provincia": 21, 
         "alianza": "138", 
+        "nombre": "Santa Fe", 
         "lema": "3214"
     }, 
     {
         "votos": 2364, 
         "provincia": 21, 
         "alianza": "57", 
+        "nombre": "Santa Fe", 
         "lema": "3172"
     }, 
     {
         "votos": 2312, 
         "provincia": 22, 
         "alianza": "133", 
+        "nombre": "Santiago del Estero", 
         "lema": "3100"
     }, 
     {
         "votos": 4543, 
         "provincia": 22, 
         "alianza": "132", 
+        "nombre": "Santiago del Estero", 
         "lema": "3008"
     }, 
     {
         "votos": 311640, 
         "provincia": 22, 
         "alianza": "131", 
+        "nombre": "Santiago del Estero", 
         "lema": "3166"
     }, 
     {
         "votos": 2409, 
         "provincia": 22, 
         "alianza": "137", 
+        "nombre": "Santiago del Estero", 
         "lema": "3014"
     }, 
     {
         "votos": 3270, 
         "provincia": 22, 
         "alianza": "137", 
+        "nombre": "Santiago del Estero", 
         "lema": "3261"
     }, 
     {
         "votos": 1295, 
         "provincia": 22, 
         "alianza": "136", 
+        "nombre": "Santiago del Estero", 
         "lema": "3234"
     }, 
     {
         "votos": 57264, 
         "provincia": 22, 
         "alianza": "135", 
+        "nombre": "Santiago del Estero", 
         "lema": "3182"
     }, 
     {
         "votos": 4975, 
         "provincia": 22, 
         "alianza": "135", 
+        "nombre": "Santiago del Estero", 
         "lema": "3185"
     }, 
     {
         "votos": 4154, 
         "provincia": 22, 
         "alianza": "135", 
+        "nombre": "Santiago del Estero", 
         "lema": "3243"
     }, 
     {
         "votos": 1787, 
         "provincia": 22, 
         "alianza": "134", 
+        "nombre": "Santiago del Estero", 
         "lema": "3018"
     }, 
     {
         "votos": 1716, 
         "provincia": 22, 
         "alianza": "81", 
+        "nombre": "Santiago del Estero", 
         "lema": "3217"
     }, 
     {
         "votos": 1376, 
         "provincia": 22, 
         "alianza": "13", 
+        "nombre": "Santiago del Estero", 
         "lema": "3253"
     }, 
     {
         "votos": 59518, 
         "provincia": 22, 
         "alianza": "138", 
+        "nombre": "Santiago del Estero", 
         "lema": "3192"
     }, 
     {
         "votos": 10590, 
         "provincia": 22, 
         "alianza": "138", 
+        "nombre": "Santiago del Estero", 
         "lema": "3214"
     }, 
     {
         "votos": 725, 
         "provincia": 22, 
         "alianza": "57", 
+        "nombre": "Santiago del Estero", 
         "lema": "3172"
     }, 
     {
         "votos": 9155, 
         "provincia": 23, 
         "alianza": "133", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3100"
     }, 
     {
         "votos": 12500, 
         "provincia": 23, 
         "alianza": "132", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3008"
     }, 
     {
         "votos": 501039, 
         "provincia": 23, 
         "alianza": "131", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3166"
     }, 
     {
         "votos": 8942, 
         "provincia": 23, 
         "alianza": "137", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3014"
     }, 
     {
         "votos": 8424, 
         "provincia": 23, 
         "alianza": "137", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3261"
     }, 
     {
         "votos": 3600, 
         "provincia": 23, 
         "alianza": "136", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3234"
     }, 
     {
         "votos": 143915, 
         "provincia": 23, 
         "alianza": "135", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3182"
     }, 
     {
         "votos": 19036, 
         "provincia": 23, 
         "alianza": "135", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3185"
     }, 
     {
         "votos": 12098, 
         "provincia": 23, 
         "alianza": "135", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3243"
     }, 
     {
         "votos": 3032, 
         "provincia": 23, 
         "alianza": "134", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3018"
     }, 
     {
         "votos": 2922, 
         "provincia": 23, 
         "alianza": "81", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3217"
     }, 
     {
         "votos": 3578, 
         "provincia": 23, 
         "alianza": "13", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3253"
     }, 
     {
         "votos": 92504, 
         "provincia": 23, 
         "alianza": "138", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3192"
     }, 
     {
         "votos": 49023, 
         "provincia": 23, 
         "alianza": "138", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3214"
     }, 
     {
         "votos": 1869, 
         "provincia": 23, 
         "alianza": "57", 
+        "nombre": "Tucum\u00e1n", 
         "lema": "3172"
     }, 
     {
         "votos": 1711, 
         "provincia": 24, 
         "alianza": "133", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3100"
     }, 
     {
         "votos": 2075, 
         "provincia": 24, 
         "alianza": "132", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3008"
     }, 
     {
         "votos": 41454, 
         "provincia": 24, 
         "alianza": "131", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3166"
     }, 
     {
         "votos": 1269, 
         "provincia": 24, 
         "alianza": "137", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3014"
     }, 
     {
         "votos": 1082, 
         "provincia": 24, 
         "alianza": "137", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3261"
     }, 
     {
         "votos": 499, 
         "provincia": 24, 
         "alianza": "136", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3234"
     }, 
     {
         "votos": 16123, 
         "provincia": 24, 
         "alianza": "135", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3182"
     }, 
     {
         "votos": 1117, 
         "provincia": 24, 
         "alianza": "135", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3185"
     }, 
     {
         "votos": 2098, 
         "provincia": 24, 
         "alianza": "135", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3243"
     }, 
     {
         "votos": 366, 
         "provincia": 24, 
         "alianza": "134", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3018"
     }, 
     {
         "votos": 288, 
         "provincia": 24, 
         "alianza": "81", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3217"
     }, 
     {
         "votos": 726, 
         "provincia": 24, 
         "alianza": "13", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3253"
     }, 
     {
         "votos": 12396, 
         "provincia": 24, 
         "alianza": "138", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3192"
     }, 
     {
         "votos": 5686, 
         "provincia": 24, 
         "alianza": "138", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3214"
     }, 
     {
         "votos": 163, 
         "provincia": 24, 
         "alianza": "57", 
+        "nombre": "Tierra del Fuego", 
         "lema": "3172"
     }, 
     {
         "votos": 472341, 
         "provincia": 99, 
         "alianza": "133", 
+        "nombre": "Total nacional", 
         "lema": "3100"
     }, 
     {
         "votos": 781472, 
         "provincia": 99, 
         "alianza": "132", 
+        "nombre": "Total nacional", 
         "lema": "3008"
     }, 
     {
         "votos": 8720573, 
         "provincia": 99, 
         "alianza": "131", 
+        "nombre": "Total nacional", 
         "lema": "3166"
     }, 
     {
         "votos": 375874, 
         "provincia": 99, 
         "alianza": "137", 
+        "nombre": "Total nacional", 
         "lema": "3014"
     }, 
     {
         "votos": 356977, 
         "provincia": 99, 
         "alianza": "137", 
+        "nombre": "Total nacional", 
         "lema": "3261"
     }, 
     {
         "votos": 106324, 
         "provincia": 99, 
         "alianza": "136", 
+        "nombre": "Total nacional", 
         "lema": "3234"
     }, 
     {
         "votos": 5523413, 
         "provincia": 99, 
         "alianza": "135", 
+        "nombre": "Total nacional", 
         "lema": "3182"
     }, 
     {
         "votos": 753825, 
         "provincia": 99, 
         "alianza": "135", 
+        "nombre": "Total nacional", 
         "lema": "3185"
     }, 
     {
         "votos": 514040, 
         "provincia": 99, 
         "alianza": "135", 
+        "nombre": "Total nacional", 
         "lema": "3243"
     }, 
     {
         "votos": 95780, 
         "provincia": 99, 
         "alianza": "134", 
+        "nombre": "Total nacional", 
         "lema": "3018"
     }, 
     {
         "votos": 67798, 
         "provincia": 99, 
         "alianza": "81", 
+        "nombre": "Total nacional", 
         "lema": "3217"
     }, 
     {
         "votos": 103742, 
         "provincia": 99, 
         "alianza": "13", 
+        "nombre": "Total nacional", 
         "lema": "3253"
     }, 
     {
         "votos": 3230887, 
         "provincia": 99, 
         "alianza": "138", 
+        "nombre": "Total nacional", 
         "lema": "3192"
     }, 
     {
         "votos": 1408518, 
         "provincia": 99, 
         "alianza": "138", 
+        "nombre": "Total nacional", 
         "lema": "3214"
     }, 
     {
         "votos": 39512, 
         "provincia": 99, 
         "alianza": "57", 
+        "nombre": "Total nacional", 
         "lema": "3172"
     }
 ]
