@@ -5,7 +5,7 @@ Datos de la DINE+INDRA el día de las elecciones
 */
 class Dine {
 
-	function __construct($base_path_extras = 'datos-de-prueba', $base_path_totales = 'datos-de-prueba') {
+	function __construct($base_path_extras = 'csv', $base_path_totales = 'csv') {
 		# $this->local_path = '/home/junar/andres/trash/api';
 		$this->local_path = 'json';
 		$this->base_path_extras = $base_path_extras; # fix el dia de las elecciones

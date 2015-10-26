@@ -3,8 +3,8 @@
 Leer los datos de las elecciones y comparar
 */
 
-// var bp = 'http://opendatacordoba.org/elecciones2015/api/json';
-var bp = '../../api/json';
+var bp = 'http://opendatacordoba.org/elecciones2015/api/json';
+// var bp = '../../api/json';
 
 var url_provincias = bp + '/provincias_full.json';
 
@@ -14,7 +14,7 @@ var url_listas = bp + '/listas.json' // nombres de los partidos
 // resultados de las paso por alianza por distrito
 // PROVISORIO !!! var url_paso = bp + '/PASO-2015-totales-por-provincia-Alinazas-sin-lemas.json';
 var url_paso = bp + '/PASO-DEF2015-totales-por-provincia-Alinazas-sin-lemas.json';
-var url_definitva = bp + '/totales_eleccion_1_test.json'; // 1 es eleccion presidencial
+var url_definitva = bp + '/totales_eleccion_1.json'; // 1 es eleccion presidencial
 
 lemas = {'131': ['3166'],
          '135': ['3182', '3185', '3243'],

@@ -4,7 +4,7 @@
 
 img {
 	max-width: 100px;
-	max-height: 80px;
+	max-height: 60px;
 	padding: 5px;
 	float: left;
 }
@@ -12,7 +12,7 @@ img {
 .entra {
 	border:1px solid black;
 	width: 200px;
-	height: 100px;
+	height: 70px;
 	padding: 5px;
 	float: left;
 }
