@@ -1,0 +1,9 @@
+.results {
+	border: 1px solid black;
+	width: 100%;
+}
+
+th, td {
+	padding: 3px;
+	border: 1px solid black;
+}

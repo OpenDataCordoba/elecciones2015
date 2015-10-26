@@ -1,7 +1,8 @@
+# -*- coding: utf-8 -*-
 from os.path import join
 import pandas as pd
 
-PATH_DATOS_ELECCIONES = "/home/pablo/Proyectos/elecciones2015/resources/datosdeprueba"
+PATH_DATOS_ELECCIONES = "../resources/datosdeprueba"
 
 HEADERS = {"totaleslistas": 
         ['Código de Elección',

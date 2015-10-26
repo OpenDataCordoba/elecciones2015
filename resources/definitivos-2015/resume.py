@@ -4,8 +4,17 @@ leer todos los CSVs derivados del PDF de resultados oficiales
 """
 import sys
 import csv
+import json
+
 provincias = range(1,25)
 provincias.append(99)
+
+jprovincias = json.load(open('provincias.json'))
+provincias_data = {99: 'Total nacional'}
+for jp in jprovincias:
+    provincias_data[jp['codigo']] = jp['provincia']    
+
+print str(provincias_data)
 
 res = {}
 
@@ -26,6 +35,7 @@ def clean_porc(s):
         raise
     
     return ret
+
 
 votos_positivos_total = 0
 electores_total = 0
@@ -130,7 +140,7 @@ for p in provincias:
             sys.exit()
 
 
-        if p != 99:
+        if p != 99: # 99 es el total nacional que viene en el CSV
             votos_positivos_total += votos_positivos
             electores_total += res[p]['electores']
 
@@ -156,28 +166,63 @@ if votos_positivos_total != res[99]['votos_positivos']:
 sinlema = []
 for p in provincias:
     for a in alianzas:
-        sinlema.append({"provincia":p,"alianza":a,"votos":res[p][str(a)]['total'],"porc":res[p][str(a)]['porc']})
+        sinlema.append({"provincia":p,
+                        "alianza":a,
+                        "votos":res[p][str(a)]['total'],
+                        "porc":res[p][str(a)]['porc'], 
+                        'nombre': provincias_data[p]})
 
 print "**********\nSin Lemas\n**********\n"
-print str(sinlema)
+
+
+f = open('PASO-DEF2015-totales-por-provincia-Alinazas-sin-lemas.json', 'w')
+json.dump(sinlema, f, indent=4)
+f.close()
 
 conlema = []
 for p in provincias:
     for a, lema in lemas.iteritems():
         for l in lema:
-            conlema.append({"provincia":p,"alianza":a, "lema": l, "votos":res[p][str(a)][l]})
+            conlema.append({"provincia":p,
+                            "alianza":a, 
+                            "lema": l, 
+                            "votos":res[p][str(a)][l], 
+                            'nombre': provincias_data[p]})
 
 print "**********\nCon Lemas\n**********\n"
-print str(conlema)
-
-
-import json
-f = open('PASO-DEF2015-totales-por-provincia-Alinazas-sin-lemas.json', 'w')
-json.dump(sinlema, f, indent=4)
-f.close()
 
 f = open('PASO-DEF2015-totales-por-provincia-Alinazas-con-lemas.json', 'w')
 json.dump(conlema, f, indent=4)
 f.close()
         
+
+# datos de las provincias
+ps = []
+for p in provincias:
+    porc_electores_nacional = round(100.0 * float(res[p]['electores']) / float(res[99]['electores']), 2)
+    ps.append({"codigo": p, 
+                "provincia":provincias_data[p],
+                "electores": res[p]['electores'],
+                "mesas": res[p]['mesas'],
+                "porc_voto": res[p]['porc_voto'],
+                "votos_positivos": res[p]['votos_positivos'],
+                "votos_blanco": res[p]['votos_blanco'],
+                "votos_anulados": res[p]['votos_anulados'],
+                "votos_total": res[p]['votos_total'],
+                "porc_electores_nacional": porc_electores_nacional
+                })
+
+f = open('provincias_full.json', 'w')
+json.dump(ps, f, indent=4)
+f.close()
+
+with open('provincias_full.csv', 'w') as csvfile:
+    fieldnames = ps[0].keys()
+    writer = csv.DictWriter(csvfile, fieldnames=fieldnames)
+
+    writer.writeheader()
+    for prov in ps:
+        prov['provincia'] = prov['provincia'].encode('utf-8')
+        # writer.writerow({k:v.encode('utf8') for k,v in prov.items()})
+        writer.writerow(prov)
     

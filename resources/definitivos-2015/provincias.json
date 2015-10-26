@@ -1,0 +1,102 @@
+[
+  {
+    "codigo":1,
+    "provincia":"CABA"
+  },
+  {
+    "codigo":2,
+    "provincia":"Buenos Aires"
+  },
+  {
+    "codigo":3,
+    "provincia":"Catamarca"
+  },
+  {
+    "codigo":4,
+    "provincia":"Córdoba"
+  },
+  {
+    "codigo":5,
+    "provincia":"Corrientes"
+  },
+  {
+    "codigo":6,
+    "provincia":"Chaco"
+  },
+  {
+    "codigo":7,
+    "provincia":"Chubut"
+  },
+  {
+    "codigo":8,
+    "provincia":"Entre Ríos"
+  },
+  {
+    "codigo":9,
+    "provincia":"Formosa"
+  },
+  {
+    "codigo":10,
+    "provincia":"Jujuy"
+  },
+  {
+    "codigo":11,
+    "provincia":"La Pampa"
+  },
+  {
+    "codigo":12,
+    "provincia":"La Rioja"
+  },
+  {
+    "codigo":13,
+    "provincia":"Mendoza"
+  },
+  {
+    "codigo":14,
+    "provincia":"Misiones"
+  },
+  {
+    "codigo":15,
+    "provincia":"Neuquén"
+  },
+  {
+    "codigo":16,
+    "provincia":"Río Negro"
+  },
+  {
+    "codigo":17,
+    "provincia":"Salta"
+  },
+  {
+    "codigo":18,
+    "provincia":"San Juan"
+  },
+  {
+    "codigo":19,
+    "provincia":"San Luis"
+  },
+  {
+    "codigo":20,
+    "provincia":"Santa Cruz"
+  },
+  {
+    "codigo":21,
+    "provincia":"Santa Fe"
+  },
+  {
+    "codigo":22,
+    "provincia":"Santiago del Estero"
+  },
+  {
+    "codigo":23,
+    "provincia":"Tucumán"
+  },
+  {
+    "codigo":24,
+    "provincia":"Tierra del Fuego"
+  },
+  {
+    "codigo":88,
+    "provincia":"Gran Buenos Aires"
+  }
+]
