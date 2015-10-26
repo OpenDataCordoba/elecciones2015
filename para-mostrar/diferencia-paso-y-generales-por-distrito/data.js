@@ -181,7 +181,9 @@ getBaseData = function(){
 		$.each(alidef, function(alianza, info){
 			$('#resultados').append('<h2>'+alianza+': '+info['alianza'].nombre+'</h2>');
 			$('#resultados').append('<h3>'+info['formula'].nombre+'</h3>');
-			$alianza_table = $('#resultados').append('<table class="results" id="alianza_'+alianza+'"></table>');
+			
+			$('#resultados').append('<table class="results" id="alianza_'+alianza+'"></table>');
+			$alianza_table = $('#alianza_'+alianza);
 			$alianza_table.append('<tr><th>Provincia</th><th>Paso</th><th>Ahora</th><th>Proyectado</th><th>Diferencia</th><th>Var Nacional</th></tr>');
 			// total nacional
 			nac = '<tr><td>Total Nacional</td><td>'+info[99].paso+' ('+info[99].paso_porc+' %)</td>';
